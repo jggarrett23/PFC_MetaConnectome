@@ -1,0 +1,215 @@
+FALSE,30123,1991,Colebatch J G,Journal of Neurophysiology,1,Index - Rest,Action.Execution,3
+TRUE,30123,1991,Colebatch J G,Journal of Neurophysiology,2,Shoulder - Rest,Action.Execution,12
+FALSE,30123,1991,Colebatch J G,Journal of Neurophysiology,3,Opposition - Rest,Action.Execution,8
+FALSE,30123,1991,Colebatch J G,Journal of Neurophysiology,4,Fist - Rest,Action.Execution,5
+FALSE,30127,2002,Deuchert M,Neuroreport,1,"2nd Finger - Rest, Subject 1",Perception.Somesthesis,5
+FALSE,30127,2002,Deuchert M,Neuroreport,2,"2nd Finger - Rest, Subject 2",Perception.Somesthesis,5
+FALSE,30127,2002,Deuchert M,Neuroreport,3,"2nd Finger - Rest, Subject 3",Perception.Somesthesis,5
+TRUE,30127,2002,Deuchert M,Neuroreport,4,"2nd Finger - Rest, Subject 4",Perception.Somesthesis,4
+FALSE,30127,2002,Deuchert M,Neuroreport,5,"2nd Finger - Rest, Subject 5",Perception.Somesthesis,3
+FALSE,30127,2002,Deuchert M,Neuroreport,6,"2nd Finger - Rest, Subject 6",Perception.Somesthesis,2
+FALSE,30127,2002,Deuchert M,Neuroreport,7,"2nd Finger - Rest, Group Mean",Perception.Somesthesis,2
+FALSE,30127,2002,Deuchert M,Neuroreport,8,"5th Finger - Rest, Subject 1",Perception.Somesthesis,4
+FALSE,30127,2002,Deuchert M,Neuroreport,9,"5th Finger - Rest, Subject 2",Perception.Somesthesis,5
+FALSE,30127,2002,Deuchert M,Neuroreport,10,"5th Finger - Rest, Subject 3",Perception.Somesthesis,3
+TRUE,30127,2002,Deuchert M,Neuroreport,11,"5th Finger - Rest, Subject 4",Perception.Somesthesis,4
+FALSE,30127,2002,Deuchert M,Neuroreport,12,"5th Finger - Rest, Subject 5",Perception.Somesthesis,2
+FALSE,30127,2002,Deuchert M,Neuroreport,13,"5th Finger - Rest, Subject 6",Perception.Somesthesis,2
+FALSE,30127,2002,Deuchert M,Neuroreport,14,"5th Finger - Rest, Group Mean",Perception.Somesthesis,2
+FALSE,30215,2000,Rowe J B,Science,1,Working Memory Maintenance,Cognition.Memory.Working,5
+FALSE,30215,2000,Rowe J B,Science,2,Selection from Memory,Cognition.Memory.Working,7
+FALSE,30215,2000,Rowe J B,Science,3,Visual Presentation,Perception.Vision,4
+TRUE,30215,2000,Rowe J B,Science,4,Cursor Positioning,"Action.Execution,Perception.Vision",16
+FALSE,5040016,2001,Coghill R C,Journal of Neurophysiology,1,"Pain Intensity-Dependent, Left Stimulation",Perception.Somesthesis.Pain,54
+TRUE,5040016,2001,Coghill R C,Journal of Neurophysiology,2,"Pain Intensity-Dependent, Right Stimulation",Perception.Somesthesis.Pain,42
+FALSE,5040016,2001,Coghill R C,Journal of Neurophysiology,3,"Pain Intensity-Independent, Left Stimulation",Perception.Somesthesis.Pain,35
+FALSE,5040016,2001,Coghill R C,Journal of Neurophysiology,4,"Pain Intensity-Independent, Right Stimulation",Perception.Somesthesis.Pain,37
+FALSE,5040016,2001,Coghill R C,Journal of Neurophysiology,5,Quantitatively Lateralized Regions,Perception.Somesthesis.Pain,5
+FALSE,5040016,2001,Coghill R C,Journal of Neurophysiology,6,Qualitatively Lateralized Regions,Perception.Somesthesis.Pain,4
+TRUE,6050070,2005,Denslow S,Biological Psychiatry,1,TMS,Perception.Somesthesis,13
+FALSE,6050070,2005,Denslow S,Biological Psychiatry,2,Volitional Movement,Action.Execution,18
+FALSE,6050072,2005,Rounis E,NeuroImage,1,Main Effects of Movement,Action.Execution,17
+TRUE,6050072,2005,Rounis E,NeuroImage,2,"Main Effects of 5 Hz rTMS Masked by the Main Effects of Movement, Increased rCBF",Perception.Somesthesis,17
+FALSE,6050072,2005,Rounis E,NeuroImage,3,"Main Effects of 5 Hz rTMS Masked by the Main Effects of Movement, Decreased rCBF",Perception.Somesthesis,11
+FALSE,6050072,2005,Rounis E,NeuroImage,4,"Conjunction of Main Effect of 1 Hz and 5 Hz rTMS, Increased rCBF",Perception.Somesthesis,20
+FALSE,6050072,2005,Rounis E,NeuroImage,5,"Conjunction of Main Effect of 1 Hz and 5 Hz rTMS, Decreased rCBF",Perception.Somesthesis,20
+FALSE,6050072,2005,Rounis E,NeuroImage,6,"1 Hz rTMS > 5 Hz rTMS, Masked by the Main Effects of Movement",Perception.Somesthesis,14
+FALSE,6050072,2005,Rounis E,NeuroImage,7,"5 Hz rTMS > 1 Hz rTMS, Masked by the Main Effects of Movement",Perception.Somesthesis,14
+TRUE,6050074,2000,Siebner H R,Neurology,1,Post rTMS - Rest,Perception.Somesthesis,5
+FALSE,7100297,2004,Singer T,Science,1,Pain - No Pain in Self,Perception.Somesthesis.Pain,23
+FALSE,7100297,2004,Singer T,Science,2,Pain - No Pain in Other,"Perception.Somesthesis.Pain,Emotion.Other",23
+FALSE,7100297,2004,Singer T,Science,3,Pain - No Pain in Self and Others,"Perception.Somesthesis.Pain,Emotion.Other",11
+FALSE,7100297,2004,Singer T,Science,4,Pain - No Pain in Self with Others,"Emotion.Other,Perception.Somesthesis.Pain",10
+TRUE,7100297,2004,Singer T,Science,5,(Pain - No Pain in Self) - (Pain - No Pain in Others),Perception.Somesthesis.Pain,7
+FALSE,7100297,2004,Singer T,Science,6,(Pain - No Pain in Others) - (Pain - No Pain in Self),"Perception.Somesthesis.Pain,Emotion.Other",2
+FALSE,7100297,2004,Singer T,Science,7,(Pain - No Pain in Others) correlated with BEES,"Perception.Somesthesis.Pain,Emotion.Other",4
+FALSE,7100297,2004,Singer T,Science,8,(Pain - No Pain in Others) correlated with EC,"Perception.Somesthesis.Pain,Emotion.Other",6
+TRUE,7110318,2007,Deeley Q,Biological Psychiatry,1,"Activation to Increasing Intensity of Fear, Normals",Emotion.Fear,9
+FALSE,7110318,2007,Deeley Q,Biological Psychiatry,2,"Activation to Increasing Intensity of Fear, AS",Emotion.Fear,9
+FALSE,7110318,2007,Deeley Q,Biological Psychiatry,3,"Activation to Increasing Intensity of Disgust, Normals",Emotion.Disgust,8
+FALSE,7110318,2007,Deeley Q,Biological Psychiatry,4,"Activation to Increasing Intensity of Happy, Normals",Emotion.Happiness,4
+FALSE,7110318,2007,Deeley Q,Biological Psychiatry,5,"Activation to Increasing Intensity of Happy, AS",Emotion.Happiness,6
+FALSE,7110318,2007,Deeley Q,Biological Psychiatry,6,"Group x Intensity Level Interaction, Fear",Emotion.Fear,2
+FALSE,7110318,2007,Deeley Q,Biological Psychiatry,7,"Group x Intensity Level Interaction, Disgust",Emotion.Disgust,8
+FALSE,7110318,2007,Deeley Q,Biological Psychiatry,8,"Group x Intensity Level Interaction, Happy",Emotion.Happiness,4
+FALSE,7110318,2007,Deeley Q,Biological Psychiatry,9,"Group x Intensity Level Interaction, Sad",Emotion.Sadness,2
+FALSE,7110318,2007,Deeley Q,Biological Psychiatry,10,"Normals > AS, Fear",Emotion.Fear,4
+FALSE,7110318,2007,Deeley Q,Biological Psychiatry,11,"Normals > AS, Disgust",Emotion.Disgust,3
+FALSE,7110318,2007,Deeley Q,Biological Psychiatry,12,"Normals > AS, Happy",Emotion.Happiness,3
+FALSE,7110318,2007,Deeley Q,Biological Psychiatry,13,"Normals > AS, Sad",Emotion.Fear,7
+FALSE,7110318,2007,Deeley Q,Biological Psychiatry,14,"Normals > AS, Fear (Including Neutral)",Emotion.Fear,10
+FALSE,7110318,2007,Deeley Q,Biological Psychiatry,15,"Normals > AS, Disgust (Including Neutral)",Emotion.Disgust,9
+FALSE,7110318,2007,Deeley Q,Biological Psychiatry,16,"AS > Normals, Disgust (Including Neutral)",Emotion.Disgust,1
+FALSE,7110318,2007,Deeley Q,Biological Psychiatry,17,"Normals > AS, Happy (Including Neutral)",Emotion.Happiness,4
+FALSE,7110318,2007,Deeley Q,Biological Psychiatry,18,"Normals > AS, Sad (Including Neutral)",Emotion.Sadness,10
+FALSE,7110318,2007,Deeley Q,Biological Psychiatry,19,"Normals > AS, Neutral",Perception.Vision.Shape,8
+FALSE,7110327,2007,Lissek S,NeuroImage,1,"Simple + Complex 1 + Complex 2 > Rest, Dominant Hand",Action.Execution,48
+FALSE,7110327,2007,Lissek S,NeuroImage,2,"Simple + Complex 1 + Complex 2 > Rest, Non-Dominant Hand",Action.Execution,29
+TRUE,7110327,2007,Lissek S,NeuroImage,3,"Simple > Rest, Dominant Hand",Action.Execution,15
+FALSE,7110327,2007,Lissek S,NeuroImage,4,"Simple > Rest, Non-Dominant Hand",Action.Execution,14
+FALSE,7110327,2007,Lissek S,NeuroImage,5,"Complex 1 + Complex 2 > Rest, Dominant Hand",Action.Execution,37
+FALSE,7110327,2007,Lissek S,NeuroImage,6,"Complex 1 + Complex 2 > Rest, Non-Dominant Hand",Action.Execution,28
+FALSE,7110327,2007,Lissek S,NeuroImage,7,"Women > Men, Simple + Complex 1 + Complex 2 > Rest, Dominant Hand",Action.Execution,18
+FALSE,7110327,2007,Lissek S,NeuroImage,8,"Women > Men, Simple + Complex 1 + Complex 2 > Rest, Non-Dominant Hand",Action.Execution,11
+FALSE,7110327,2007,Lissek S,NeuroImage,9,"Men > Women, Simple + Complex 1 + Complex 2 > Rest, Non-Dominant Hand",Action.Execution,4
+FALSE,7110327,2007,Lissek S,NeuroImage,10,"Women > Men, Simple > Rest, Dominant Hand",Action.Execution,6
+FALSE,7110327,2007,Lissek S,NeuroImage,11,"Men > Women, Simple > Rest, Dominant Hand",Action.Execution,2
+FALSE,7110327,2007,Lissek S,NeuroImage,12,"Women > Men, Simple > Rest, Non-Dominant Hand",Action.Execution,10
+FALSE,7110327,2007,Lissek S,NeuroImage,13,"Men > Women, Simple > Rest, Non-Dominant Hand",Action.Execution,1
+FALSE,7110327,2007,Lissek S,NeuroImage,14,"Women > Men, Complex 1 + Complex 2 > Rest, Dominant Hand",Action.Execution,21
+FALSE,7110327,2007,Lissek S,NeuroImage,15,"Men > Women, Complex 1 + Complex 2 > Rest, Dominant Hand",Action.Execution,3
+FALSE,7110327,2007,Lissek S,NeuroImage,16,"Women > Men, Complex 1 + Complex 2 > Rest, Non-Dominant Hand",Action.Execution,9
+FALSE,7110327,2007,Lissek S,NeuroImage,17,"Men > Women, Complex 1 + Complex 2 > Rest, Non-Dominant Hand",Action.Execution,16
+FALSE,7110327,2007,Lissek S,NeuroImage,18,"Men > Women, Complex 2 > Complex 1, Dominant Hand",Action.Execution,5
+FALSE,7110327,2007,Lissek S,NeuroImage,19,"Women > Men, Complex 2 > Complex 1, Non-Dominant Hand",Action.Execution,1
+FALSE,7110327,2007,Lissek S,NeuroImage,20,"Men > Women, Complex 2 > Complex 1, Non-Dominant Hand",Action.Execution,13
+FALSE,8020041,2007,Gizewski E R,NeuroImage,1,"Signal Changes for Activated Regions, Subject 1, 1.5T Scanner",Action.Execution,4
+FALSE,8020041,2007,Gizewski E R,NeuroImage,2,"Signal Changes for Activated Regions, Subject 1, 7T Scanner",Action.Execution,5
+FALSE,8020041,2007,Gizewski E R,NeuroImage,3,"Signal Changes for Activated Regions, Subject 2, 1.5T Scanner",Action.Execution,5
+FALSE,8020041,2007,Gizewski E R,NeuroImage,4,"Signal Changes for Activated Regions, Subject 2, 7T Scanner",Action.Execution,5
+FALSE,8020041,2007,Gizewski E R,NeuroImage,5,"Signal Changes for Activated Regions, Subject 3, 1.5T Scanner",Action.Execution,4
+FALSE,8020041,2007,Gizewski E R,NeuroImage,6,"Signal Changes for Activated Regions, Subject 3, 7T Scanner",Action.Execution,5
+TRUE,8020041,2007,Gizewski E R,NeuroImage,7,"Signal Changes for Activated Regions, Subject 4, 1.5T Scanner",Action.Execution,4
+FALSE,8020041,2007,Gizewski E R,NeuroImage,8,"Signal Changes for Activated Regions, Subject 4, 7T Scanner",Action.Execution,5
+FALSE,8020041,2007,Gizewski E R,NeuroImage,9,"Signal Changes for Activated Regions, Subject 5, 1.5T Scanner",Action.Execution,4
+FALSE,8020041,2007,Gizewski E R,NeuroImage,10,"Signal Changes for Activated Regions, Subject 5, 7T Scanner",Action.Execution,5
+FALSE,8020041,2007,Gizewski E R,NeuroImage,11,"Signal Changes for Activated Regions, Subject 6, 1.5T Scanner",Action.Execution,4
+FALSE,8020041,2007,Gizewski E R,NeuroImage,12,"Signal Changes for Activated Regions, Subject 6, 7T Scanner",Action.Execution,5
+FALSE,8020041,2007,Gizewski E R,NeuroImage,13,"Signal Changes for Activated Regions, Subject 7, 1.5T Scanner",Action.Execution,4
+FALSE,8020041,2007,Gizewski E R,NeuroImage,14,"Signal Changes for Activated Regions, Subject 7, 7T Scanner",Action.Execution,5
+FALSE,8020041,2007,Gizewski E R,NeuroImage,15,"Signal Changes for Activated Regions, Subject 8, 1.5T Scanner",Action.Execution,3
+FALSE,8020041,2007,Gizewski E R,NeuroImage,16,"Signal Changes for Activated Regions, Subject 8, 7T Scanner",Action.Execution,5
+FALSE,8020041,2007,Gizewski E R,NeuroImage,17,"Signal Changes for Activated Regions, Subject 9, 1.5T Scanner",Action.Execution,3
+FALSE,8020041,2007,Gizewski E R,NeuroImage,18,"Signal Changes for Activated Regions, Subject 9, 7T Scanner",Action.Execution,5
+FALSE,8020062,1995,Stephan K M,Journal of Neurophysiology,1,Imagined Movement vs. Motor Preparation,Action.Imagination,26
+FALSE,8020062,1995,Stephan K M,Journal of Neurophysiology,2,Executed Movement vs. Motor Preparation,Action.Execution,41
+TRUE,8020062,1995,Stephan K M,Journal of Neurophysiology,3,Executed vs. Imagined Movements,Action.Execution,21
+FALSE,8020062,1995,Stephan K M,Journal of Neurophysiology,4,Imagined vs. Executed Movements,Action.Imagination,3
+FALSE,8030082,2005,Achim A M,Journal of Cognitive Neuroscience,1,Encoding for Both Items and Associations Relative to Baseline,Cognition.Memory.Explicit,27
+TRUE,8030082,2005,Achim A M,Journal of Cognitive Neuroscience,2,Both Item Recognition and Associative Recognition Relative to Baseline,Cognition.Memory.Explicit,25
+FALSE,8030082,2005,Achim A M,Journal of Cognitive Neuroscience,3,Associative Encoding > Item Encoding,Cognition.Memory.Explicit,9
+FALSE,8030082,2005,Achim A M,Journal of Cognitive Neuroscience,4,Associative Recognition > Item Recognition,Cognition.Memory.Explicit,3
+FALSE,8030082,2005,Achim A M,Journal of Cognitive Neuroscience,5,Item Recognition > Associative Recognition,Cognition.Memory.Explicit,10
+FALSE,8030082,2005,Achim A M,Journal of Cognitive Neuroscience,6,New Item Recognition > Old Item Recognition,Cognition.Memory.Explicit,3
+FALSE,8030082,2005,Achim A M,Journal of Cognitive Neuroscience,7,(Associative > Item at Encoding) + (Associative > Item at Recognition),Cognition.Memory.Explicit,3
+FALSE,8030082,2005,Achim A M,Journal of Cognitive Neuroscience,8,(Item > Associative at Encoding) + (Item > Associative at Recognition),Cognition.Memory.Explicit,4
+FALSE,8040107,2007,Bjork J M,Behavioural Brain Research,1,"Anticipation: No Response, Probability 1.0 vs. Probability 0.5","Emotion.Other,Cognition.Other",1
+FALSE,8040107,2007,Bjork J M,Behavioural Brain Research,2,"Anticipation: Response, Probability 1.0 vs. Probability 0","Emotion.Other,Cognition.Other",16
+FALSE,8040107,2007,Bjork J M,Behavioural Brain Research,3,"Anticipation: Response, Probability 1.0 vs. Probability 0.5","Emotion.Other,Cognition.Other",2
+FALSE,8040107,2007,Bjork J M,Behavioural Brain Research,4,"Anticipation: Response, Probability 0.5 vs. Probability 0","Emotion.Other,Cognition.Other",10
+FALSE,8040107,2007,Bjork J M,Behavioural Brain Research,5,"(Response, Probability 1.0 vs. Probability 0) vs. (No Response, Probability 1.0 vs. Probability 0)","Emotion.Other,Cognition.Other",18
+FALSE,8040107,2007,Bjork J M,Behavioural Brain Research,6,"(Response, Probability 0.5 vs. Probability 0) vs. (No Response, Probability 0.5 vs. Probability 0)","Emotion.Other,Cognition.Other",9
+FALSE,8040107,2007,Bjork J M,Behavioural Brain Research,7,"Reward Notification: No Response, Probability 1.0 Wins vs. Probability 0 Non-Wins","Emotion.Other,Cognition.Other",7
+TRUE,8040107,2007,Bjork J M,Behavioural Brain Research,8,"Reward Notification: Response, Probability 1.0 Wins vs. Probability 0 Non-Wins","Emotion.Other,Cognition.Other",6
+FALSE,8040107,2007,Bjork J M,Behavioural Brain Research,9,Reward Notification: Win vs. Non-Win Notifications in all Probability 0.5 Trials,"Emotion.Other,Cognition.Other",3
+FALSE,8040108,2007,Samanez-Larkin G R,Nature Neuroscience,1,"Gain vs Non-gain Anticipation, Younger Adults","Emotion.Other,Cognition.Other",21
+FALSE,8040108,2007,Samanez-Larkin G R,Nature Neuroscience,2,"Loss vs Non-loss Anticipation, Younger Adults","Emotion.Other,Cognition.Other",11
+FALSE,8040108,2007,Samanez-Larkin G R,Nature Neuroscience,3,"Gain vs Non-gain Outcome, Younger Adults","Emotion.Other,Cognition.Other",3
+FALSE,8040108,2007,Samanez-Larkin G R,Nature Neuroscience,4,"Non-loss vs Loss Outcome, Younger Adults","Emotion.Other,Cognition.Other",3
+TRUE,8040108,2007,Samanez-Larkin G R,Nature Neuroscience,5,"Gain vs Non-gain Anticipation, Older Adults","Emotion.Other,Cognition.Other",43
+FALSE,8040108,2007,Samanez-Larkin G R,Nature Neuroscience,6,"Loss vs Non-loss Anticipation, Older Adults","Emotion.Other,Cognition.Other",5
+FALSE,8040108,2007,Samanez-Larkin G R,Nature Neuroscience,7,"Gain vs Non-gain Outcome, Older Adults","Emotion.Other,Cognition.Other",3
+FALSE,8040108,2007,Samanez-Larkin G R,Nature Neuroscience,8,"Nonloss vs Loss Outcome, Older Adults","Emotion.Other,Cognition.Other",3
+FALSE,8040108,2007,Samanez-Larkin G R,Nature Neuroscience,9,"Loss vs Non-loss Anticipation, Older > Younger Adults","Emotion.Other,Cognition.Other",2
+FALSE,8040108,2007,Samanez-Larkin G R,Nature Neuroscience,10,"Gain vs Non-gain Outcome, Older > Younger Adults","Emotion.Other,Cognition.Other",1
+FALSE,8040108,2007,Samanez-Larkin G R,Nature Neuroscience,11,"Non-loss vs Loss Outcome, Older > Younger Adults","Emotion.Other,Cognition.Other",4
+FALSE,8040110,2004,Ernst M,Neuropsychologia,1,Monetary Selection > Color Selection,"Cognition.Other,Emotion.Other",19
+TRUE,8040110,2004,Ernst M,Neuropsychologia,2,Monetary Anticipation > Color Anticipation,"Cognition.Other,Emotion.Other",15
+FALSE,8040110,2004,Ernst M,Neuropsychologia,3,Selection: High Risk/Reward > Low Risk/Reward,"Cognition.Other,Emotion.Other",20
+TRUE,8080188,2003,McKay L C,Journal of Applied Physiology,1,Voluntary - Spontaneous Breathing,Interoception.Respiration Regulation,26
+FALSE,8080215,2005,Dalton K M,Journal of Cognitive Neuroscience,1,Threat vs. Safety,"Emotion.Other,Cognition.Attention",6
+TRUE,8080215,2005,Dalton K M,Journal of Cognitive Neuroscience,2,"Threat - Safety, Correlated with Self-Reported Anxiety","Emotion.Other,Cognition.Attention",6
+TRUE,10080212,2009,Wunderlich K,Proceedings of the National Academy of Sciences,1,Location of Significant Correlation with Parametric Contrasts- Vhand,"Cognition.Other,Emotion.Other,Perception.Vision.Motion,Action.Execution",4
+FALSE,10080212,2009,Wunderlich K,Proceedings of the National Academy of Sciences,2,Location of Significant Correlation with Parametric Contrasts - Veye,"Cognition.Other,Emotion.Other,Perception.Vision.Motion,Action.Execution",1
+FALSE,10080212,2009,Wunderlich K,Proceedings of the National Academy of Sciences,3,Location of Significant Correlation with Parametric Contrasts - Vchosen,"Cognition.Other,Emotion.Other,Perception.Vision.Motion,Action.Execution",7
+FALSE,10080212,2009,Wunderlich K,Proceedings of the National Academy of Sciences,4,Location of Significant Correlation with Parametric Contrasts - Vunchosen - Vchosen,"Cognition.Other,Emotion.Other,Perception.Vision.Motion,Action.Execution",4
+FALSE,10080212,2009,Wunderlich K,Proceedings of the National Academy of Sciences,5,Location of Significant Correlation with Parametric Contrasts - Hand Bias,"Cognition.Other,Emotion.Other,Perception.Vision.Motion,Action.Execution",12
+FALSE,10080212,2009,Wunderlich K,Proceedings of the National Academy of Sciences,6,Location of Significant Correlation with Parametric Contrasts - Eye Bias,"Cognition.Other,Emotion.Other,Perception.Vision.Motion,Action.Execution",3
+FALSE,10100222,2009,Hare T,Science,1,Food Decision > Taste Rating,"Cognition.Other,Emotion.Other,Perception.Gustation",5
+TRUE,10100222,2009,Hare T,Science,2,Successful Self-Control Trials: Successful Self-Controllers > Non-Self-Controllers,"Cognition.Other,Emotion.Other,Perception.Gustation",10
+FALSE,10100222,2009,Hare T,Science,3,Task Related Functional Connectivity with the Left IFG/BA9,"Cognition.Other,Emotion.Other,Perception.Gustation",18
+FALSE,10100222,2009,Hare T,Science,4,Positive Task Related Functional Connectivity with the Left IFG/BA46 Region,"Cognition.Other,Emotion.Other,Perception.Gustation",2
+TRUE,11010033,2008,van Duinen H,Human Brain Mapping,1,Right Index Finger Abduction > Rest,Action.Execution,30
+FALSE,11010033,2008,van Duinen H,Human Brain Mapping,2,Left Index Finger Abduction > Rest,Action.Execution,46
+FALSE,11010033,2008,van Duinen H,Human Brain Mapping,3,Right Finger MVC vs. Right Finger Submaximum,Action.Execution,33
+FALSE,11010033,2008,van Duinen H,Human Brain Mapping,4,Left Finger MVC vs Left Finger Submaximum,Action.Execution,34
+FALSE,11010033,2008,van Duinen H,Human Brain Mapping,5,"Activity Correlating with ""Activation Per Se"", Right Contractions",Action.Execution,29
+FALSE,11010033,2008,van Duinen H,Human Brain Mapping,6,"Activity Correlating with ""Activation Per Se"", Left Contractions",Action.Execution,25
+FALSE,11080063,2006,Dreher J C,Cerebral Cortex,1,Error Prediction at S1: P=0.5 $20 > P=0.25 $20,"Cognition.Other,Emotion.Other",11
+FALSE,11080063,2006,Dreher J C,Cerebral Cortex,2,Error Prediction at S2: $20 in Slot A > $20 in Slot B,"Cognition.Other,Emotion.Other",9
+FALSE,11080063,2006,Dreher J C,Cerebral Cortex,3,Reward Uncertainty During the Delay: P=0.5 $20 > P=0.25 $20,"Cognition.Other,Emotion.Other",4
+FALSE,11080063,2006,Dreher J C,Cerebral Cortex,4,Conjunction Error Prediction at S1 and S2,"Cognition.Other,Emotion.Other",8
+TRUE,11080063,2006,Dreher J C,Cerebral Cortex,5,Error Prediction at S2 (No Reward): P=0.75 $0 > P=0.5 $0,"Cognition.Other,Emotion.Other",4
+FALSE,11080063,2006,Dreher J C,Cerebral Cortex,6,Error Prediction at S2 (No Reward): P=0.5 $0 > P=0.75 $0,"Cognition.Other,Emotion.Other",9
+FALSE,11080067,2001,Faillenot I,European Journal of Neuroscience,1,(TSDg + TSDo) - (DIMg - DIMo),"Perception.Vision,Cognition.Memory.Working",24
+FALSE,11080067,2001,Faillenot I,European Journal of Neuroscience,2,(IDg + IDo) - (DIMg + DIMo),Perception.Vision,20
+TRUE,11080067,2001,Faillenot I,European Journal of Neuroscience,3,(IDg + IDo) - (TSDg - TSDo),Perception.Vision,5
+FALSE,11080067,2001,Faillenot I,European Journal of Neuroscience,4,[(TSDo + IDo - 2DIMo) - (TSDg + IDg - 2DIMg) and [TSDo + IDo + TSDg + IDg-2DIMo-2DIMg],"Perception.Vision.Shape,Cognition.Memory.Working",3
+FALSE,11080067,2001,Faillenot I,European Journal of Neuroscience,5,"(TSDg + TSDo) - (IDg - IDo), single subject analysis","Perception.Vision.Shape,Cognition.Memory.Working",11
+FALSE,11080094,2006,Van Leijenhorst L,Neuropsychologia,1,High-Risk Positive Feedback > Low-Risk Positive Feedback in Healthy Young Adults,"Cognition.Other,Emotion.Other",16
+FALSE,11080094,2006,Van Leijenhorst L,Neuropsychologia,2,High-Risk Positive Feedback > Low-Risk Positive Feedback in Healthy Children,"Cognition.Other,Emotion.Other",8
+TRUE,11080094,2006,Van Leijenhorst L,Neuropsychologia,3,Low-Risk Positive Feedback > High-Risk Positive Feedback in Healthy Young Adults,"Cognition.Other,Emotion.Other",10
+FALSE,11080094,2006,Van Leijenhorst L,Neuropsychologia,4,Low-Risk Positive Feedback > High-Risk Positive Feedback in Healthy Children,"Cognition.Other,Emotion.Other",1
+FALSE,11080094,2006,Van Leijenhorst L,Neuropsychologia,5,Negative > Positive Feedback in Healthy Young Adults,"Cognition.Other,Emotion.Other",11
+FALSE,11080094,2006,Van Leijenhorst L,Neuropsychologia,6,Negative > Positive Feedback in Healthy Children,"Cognition.Other,Emotion.Other",4
+FALSE,11080094,2006,Van Leijenhorst L,Neuropsychologia,7,Positive > Negative Feedback in Healthy Young Adults,"Cognition.Other,Emotion.Other",23
+FALSE,11080094,2006,Van Leijenhorst L,Neuropsychologia,8,Positive > Negative Feedback in Healthy Children,"Cognition.Other,Emotion.Other",5
+TRUE,12040030,2009,Goldstone A P,European Journal of Neuroscience,1,"High-Calorie > Low-Calorie, Fasted",Emotion.Other,38
+FALSE,12040030,2009,Goldstone A P,European Journal of Neuroscience,2,"High-Calorie > Low-Calorie, Fed",Emotion.Other,4
+FALSE,12100076,2010,Pereira M G,"Cognitive, Affective, & Behavioral Neuroscience",1,Detection Only vs. Baseline,"Cognition.Attention,Action.Execution",8
+FALSE,12100076,2010,Pereira M G,"Cognitive, Affective, & Behavioral Neuroscience",2,Unpleasent Viewing vs. Neutral Viewing,Emotion.Disgust,2
+TRUE,12100076,2010,Pereira M G,"Cognitive, Affective, & Behavioral Neuroscience",3,Detection after Unpleasant vs Detection after Neutral,"Emotion.Disgust,Cognition.Attention",6
+TRUE,13030020,1996,Kawashima R,Brain Research,1,Arm minus Rest,Action.Execution,11
+FALSE,13030020,1996,Kawashima R,Brain Research,2,Finger minus Rest,Action.Execution,14
+FALSE,13040035,2012,Strother L,European Journal of Neuroscience,1,Finger vs. Rest,Action.Execution,14
+FALSE,13040035,2012,Strother L,European Journal of Neuroscience,2,Wrist vs. Rest,Action.Execution,14
+TRUE,13040035,2012,Strother L,European Journal of Neuroscience,3,Elbow vs. Rest,Action.Execution,14
+FALSE,13040039,2010,Georgiadis J R,NeuroImage,1,Stimulation > Flaccid,"Interoception.Sexuality,Perception.Somesthesis",17
+FALSE,13040039,2010,Georgiadis J R,NeuroImage,2,Stimulation < Flaccid (Deactivations),"Interoception.Sexuality,Perception.Somesthesis",11
+FALSE,13040039,2010,Georgiadis J R,NeuroImage,3,Stimulation > Post-Stimulation,"Interoception.Sexuality,Perception.Somesthesis",19
+FALSE,13040039,2010,Georgiadis J R,NeuroImage,4,Stimulation < Post-Stimulation (Deactivations),"Interoception.Sexuality,Perception.Somesthesis",7
+FALSE,13040039,2010,Georgiadis J R,NeuroImage,5,Positive Correlation between rCBF and Penile Circumference,"Interoception.Sexuality,Perception.Somesthesis",16
+FALSE,13040039,2010,Georgiadis J R,NeuroImage,6,Negative Correlation between rCBF and Penile Circumference (Deactivations),"Interoception.Sexuality,Perception.Somesthesis",10
+FALSE,13040039,2010,Georgiadis J R,NeuroImage,7,Positive Correlation between rCBF and Rate of Penile Circumferential Change,"Interoception.Sexuality,Perception.Somesthesis",14
+FALSE,13040039,2010,Georgiadis J R,NeuroImage,8,Negative Correlation between rCBF and Rate of Penile Circumferential Change (Deactivations),"Interoception.Sexuality,Perception.Somesthesis",4
+TRUE,13040039,2010,Georgiadis J R,NeuroImage,9,Positive Correlation between rCBF and Subjective Sexual Arousal,"Interoception.Sexuality,Perception.Somesthesis",17
+FALSE,13040039,2010,Georgiadis J R,NeuroImage,10,Negative Correlation between rCBF and Subjective Sexual Arousal (Deactivations),"Interoception.Sexuality,Perception.Somesthesis",1
+TRUE,15070102,2009,Blickenstorfer A,Human Brain Mapping,1,"Wrist Flexion/Extension, Block vs. Rest, Contralateral","Action.Execution,Perception.Somesthesis",10
+FALSE,15070102,2009,Blickenstorfer A,Human Brain Mapping,2,"Wrist Flexion/Extension, Block vs. Rest, Ipsilateral","Action.Execution,Perception.Somesthesis",14
+TRUE,15070102,2009,Blickenstorfer A,Human Brain Mapping,3,"Wrist Flexion/Extension, Event vs. Rest, Contralateral","Action.Execution,Perception.Somesthesis",16
+FALSE,15070102,2009,Blickenstorfer A,Human Brain Mapping,4,"Wrist Flexion/Extension, Event vs. Rest, Ipsilateral","Action.Execution,Perception.Somesthesis",9
+FALSE,16040096,2010,Glahn D C,Human Brain Mapping,1,"Encoding/Learning vs. Distractor (Active Baseline), Healthy Controls",Cognition.Memory.Explicit,23
+FALSE,16040096,2010,Glahn D C,Human Brain Mapping,2,"Encoding/Learning vs. Distractor (Active Baseline), Bipolar Disorder Patients",Cognition.Memory.Explicit,19
+TRUE,16040096,2010,Glahn D C,Human Brain Mapping,3,"Recognition vs. Distractor (Active Baseline), Healthy Controls",Cognition.Memory.Explicit,26
+FALSE,16040096,2010,Glahn D C,Human Brain Mapping,4,"Recognition vs. Distractor (Active Baseline), Bipolar Disorder Patients",Cognition.Memory.Explicit,26
+FALSE,16040096,2010,Glahn D C,Human Brain Mapping,5,"Healthy Controls > Bipolar Disorder Patients, Encoding/Learning",Cognition.Memory.Explicit,8
+FALSE,16040096,2010,Glahn D C,Human Brain Mapping,6,"Bipolar Disorder Patients > Healthy Controls, Encoding/Learning",Cognition.Memory.Explicit,4
+FALSE,16040096,2010,Glahn D C,Human Brain Mapping,7,"Healthy Controls > Bipolar Disorder Patients, Recognition",Cognition.Memory.Explicit,6
+FALSE,60100143,2005,Aoki T,Experimental Brain Research,1,Index Finger - Rest,Action.Execution,1
+FALSE,60100143,2005,Aoki T,Experimental Brain Research,2,Ring Finger - Rest,Action.Execution,7
+FALSE,60100143,2005,Aoki T,Experimental Brain Research,3,Ring Finger - Index Finger,Action.Execution,2
+FALSE,60100143,2005,Aoki T,Experimental Brain Research,4,Double Finger Tapping - Rest,Action.Execution,12
+FALSE,60100143,2005,Aoki T,Experimental Brain Research,5,Right and Little Fingers - Index and Middle Fingers,Action.Execution,5
+TRUE,60100143,2005,Aoki T,Experimental Brain Research,6,Double Finger Tapping - Single Finger Tapping,Action.Execution,4
+TRUE,60100167,1995,Dettmers C,Journal of Neurophysiology,1,Comparison Between Movement and Rest,Action.Execution,39
+FALSE,60100167,1995,Dettmers C,Journal of Neurophysiology,2,Correlation Between rCBF and Force,Action.Execution,19

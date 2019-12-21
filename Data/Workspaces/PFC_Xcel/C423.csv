@@ -1,0 +1,48 @@
+FALSE,30020,2000,Ehrsson H H,European Journal of Neuroscience,1,Foot vs. Rest,Action.Execution,9
+FALSE,30020,2000,Ehrsson H H,European Journal of Neuroscience,2,Hand vs. Rest,Action.Execution,14
+FALSE,30020,2000,Ehrsson H H,European Journal of Neuroscience,3,Simultaneous vs. Rest,Action.Execution,17
+FALSE,30020,2000,Ehrsson H H,European Journal of Neuroscience,4,Hand vs. Foot,Action.Execution,5
+TRUE,30020,2000,Ehrsson H H,European Journal of Neuroscience,5,Foot vs. Hand,Action.Execution,4
+FALSE,30020,2000,Ehrsson H H,European Journal of Neuroscience,6,Conjunction Analysis,Action.Execution,13
+FALSE,30020,2000,Ehrsson H H,European Journal of Neuroscience,7,{(Hand - Rest) + (Foot - Rest)} - (Simultaneous - Rest),Action.Execution,3
+FALSE,8050131,2007,Johnson J D,Cerebral Cortex,1,"Encoding, Scene > Encoding, Sentence","Action.Imagination,Cognition.Memory.Explicit",6
+FALSE,8050131,2007,Johnson J D,Cerebral Cortex,2,"Encoding, Sentence > Encoding, Scene","Action.Imagination,Cognition.Memory.Explicit",12
+FALSE,8050131,2007,Johnson J D,Cerebral Cortex,3,"Recognition, Scene > Fixation",Cognition.Memory.Explicit,3
+FALSE,8050131,2007,Johnson J D,Cerebral Cortex,4,"Recognition, Sentence > Fixation",Cognition.Memory.Explicit,1
+TRUE,8050131,2007,Johnson J D,Cerebral Cortex,5,Content Independent Recollection Related Activity,Cognition.Memory.Explicit,24
+FALSE,8110297,2006,Ricciardi E,Neuroscience,1,"Tactile, 1-Back vs. Rest","Cognition.Memory.Working,Perception.Somesthesis",62
+FALSE,8110297,2006,Ricciardi E,Neuroscience,2,"Visual, 1-Back vs. Rest","Cognition.Memory.Working,Perception.Vision",44
+TRUE,8110297,2006,Ricciardi E,Neuroscience,3,Tactile Maintenance vs. Rest,Cognition.Memory.Working,46
+FALSE,8110297,2006,Ricciardi E,Neuroscience,4,Visual Maintenance vs. Rest,Cognition.Memory.Working,44
+FALSE,8110297,2006,Ricciardi E,Neuroscience,5,Overlapping,"Cognition.Memory.Working,Perception.Somesthesis,Perception.Vision",32
+FALSE,8110297,2006,Ricciardi E,Neuroscience,6,"Tactile Maintenance > Visual Maintenance, Interaction","Cognition.Memory.Working,Perception.Somesthesis",38
+FALSE,8110297,2006,Ricciardi E,Neuroscience,7,"Visual Maintenance > Tactile Maintenance, Interaction","Cognition.Memory.Working,Perception.Vision",12
+FALSE,10030064,2009,Small G W,American Journal of Geriatric Psychiatry,1,"Book, Internet-Savvy Subjects",Cognition.Language,16
+FALSE,10030064,2009,Small G W,American Journal of Geriatric Psychiatry,2,"Book, Internet-Naive Subjects",Cognition.Language,17
+TRUE,10030064,2009,Small G W,American Journal of Geriatric Psychiatry,3,"Internet, Internet-Savvy Subjects",Cognition.Language,25
+FALSE,10030064,2009,Small G W,American Journal of Geriatric Psychiatry,4,"Internet, Internet-Naive Subjects",Cognition.Language,14
+FALSE,11010033,2008,van Duinen H,Human Brain Mapping,1,Right Index Finger Abduction > Rest,Action.Execution,30
+TRUE,11010033,2008,van Duinen H,Human Brain Mapping,2,Left Index Finger Abduction > Rest,Action.Execution,46
+FALSE,11010033,2008,van Duinen H,Human Brain Mapping,3,Right Finger MVC vs. Right Finger Submaximum,Action.Execution,33
+FALSE,11010033,2008,van Duinen H,Human Brain Mapping,4,Left Finger MVC vs Left Finger Submaximum,Action.Execution,34
+FALSE,11010033,2008,van Duinen H,Human Brain Mapping,5,"Activity Correlating with ""Activation Per Se"", Right Contractions",Action.Execution,29
+FALSE,11010033,2008,van Duinen H,Human Brain Mapping,6,"Activity Correlating with ""Activation Per Se"", Left Contractions",Action.Execution,25
+FALSE,15010007,2010,Hooker C I,Brain Research,1,Physical Change > No Change,,19
+TRUE,15010007,2010,Hooker C I,Brain Research,2,Social Change > No Change,,20
+FALSE,15010007,2010,Hooker C I,Brain Research,3,Physical Change > No Change; correlated with Affective Empathy,,4
+FALSE,15010007,2010,Hooker C I,Brain Research,4,Physical Change > No Change; correlated with Cognitive Empathy,,2
+FALSE,15010007,2010,Hooker C I,Brain Research,5,Social Change > No Change; correlated with Cognitive Empathy,,20
+FALSE,15010007,2010,Hooker C I,Brain Research,6,Social Change > No Change; correlated with Affective Empathy,,3
+FALSE,15110167,2014,Loggia M L,Arthritis & Rheumatism,1,Healthy Controls: Pain Anticipation,Perception.Vision.Color,39
+FALSE,15110167,2014,Loggia M L,Arthritis & Rheumatism,2,FM Patients: Pain Anticipation,Perception.Vision.Color,39
+FALSE,15110167,2014,Loggia M L,Arthritis & Rheumatism,3,Healthy Controls > FM Patients: Pain Anticipation,Perception.Vision.Color,16
+FALSE,15110167,2014,Loggia M L,Arthritis & Rheumatism,4,Healthy Controls: Pain,Perception.Somesthesis.Pain,24
+FALSE,15110167,2014,Loggia M L,Arthritis & Rheumatism,5,FM Patients: Pain,Perception.Somesthesis.Pain,29
+FALSE,15110167,2014,Loggia M L,Arthritis & Rheumatism,6,Healthy Controls: Pain,Perception.Somesthesis.Pain,9
+FALSE,15110167,2014,Loggia M L,Arthritis & Rheumatism,7,FM Patients: Pain,Perception.Somesthesis.Pain,4
+TRUE,15110167,2014,Loggia M L,Arthritis & Rheumatism,8,Healthy Controls: Relief Anticipation,Perception.Vision.Color,30
+FALSE,15110167,2014,Loggia M L,Arthritis & Rheumatism,9,FM Patients: Relief Anticipation,Perception.Vision.Color,16
+FALSE,15110167,2014,Loggia M L,Arthritis & Rheumatism,10,Healthy Controls > FM Patients: Relief Anticipation,Perception.Vision.Color,9
+FALSE,16010004,2012,Parkinson A L,NeuroImage,1,Shifted Vocalization > Rest,Action.Execution.Speech,21
+TRUE,16010004,2012,Parkinson A L,NeuroImage,2,Unshifted Vocalization > Rest,Action.Execution.Speech,16
+FALSE,16010004,2012,Parkinson A L,NeuroImage,3,Shifted Vocalization > Unshifted Vocalization,Action.Execution.Speech,6

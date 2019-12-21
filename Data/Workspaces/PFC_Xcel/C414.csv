@@ -1,0 +1,29 @@
+FALSE,7110315,2006,Carlsson K,NeuroImage,1,Uncorrelated > Correlated,"Perception.Somesthesis.Pain,Cognition.Attention,Emotion.Anxiety",12
+FALSE,7110315,2006,Carlsson K,NeuroImage,2,Correlated > Uncorrelated,"Perception.Somesthesis.Pain,Emotion.Anxiety,Cognition.Attention",11
+TRUE,7110315,2006,Carlsson K,NeuroImage,3,Uncorrelated High > Correlated High,"Perception.Somesthesis.Pain,Cognition.Attention,Emotion.Anxiety",9
+FALSE,7110315,2006,Carlsson K,NeuroImage,4,Correlated High > Uncorrelated High,"Perception.Somesthesis.Pain,Emotion.Anxiety,Cognition.Attention",10
+FALSE,7110315,2006,Carlsson K,NeuroImage,5,Uncorrelated Low > Correlated Low,"Emotion.Anxiety,Cognition.Attention",8
+FALSE,7110315,2006,Carlsson K,NeuroImage,6,Correlated Low > Uncorrelated Low,"Emotion.Anxiety,Cognition.Attention",14
+FALSE,7110315,2006,Carlsson K,NeuroImage,7,High > Low,"Perception.Somesthesis.Pain,Emotion.Anxiety,Cognition.Attention",24
+FALSE,7110315,2006,Carlsson K,NeuroImage,8,Low > High,"Emotion.Anxiety,Cognition.Attention",2
+TRUE,7110343,2007,Cross E S,Journal of Cognitive Neuroscience,1,Activity during Movement Preparation (NoGo),"Cognition.Memory.Working,Action.Inhibition,Cognition.Attention",26
+FALSE,7110343,2007,Cross E S,Journal of Cognitive Neuroscience,2,Activity during Movement Execution (Go),"Cognition.Memory.Working,Cognition.Attention,Action.Execution",34
+FALSE,7110343,2007,Cross E S,Journal of Cognitive Neuroscience,3,Study Time: Random Increasing (Early > Late) > Block Increasing (Early > Late),"Cognition.Memory.Working,Cognition.Attention,Action.Inhibition,Action.Execution",4
+FALSE,7110343,2007,Cross E S,Journal of Cognitive Neuroscience,4,Study Time: Block Increasing (Early > Late) > Random Increasing (Early > Late),"Cognition.Memory.Working,Cognition.Attention,Action.Execution,Action.Inhibition",2
+FALSE,7110343,2007,Cross E S,Journal of Cognitive Neuroscience,5,Movement Time: Random Increasing (Early > Late) > Block Increasing (Early > Late),"Cognition.Memory.Working,Action.Execution,Cognition.Attention",2
+FALSE,7110343,2007,Cross E S,Journal of Cognitive Neuroscience,6,Movement Time: Block Increasing (Early > Late) > Random Increasing (Early > Late),"Cognition.Memory.Working,Cognition.Attention,Action.Execution",53
+FALSE,8040107,2007,Bjork J M,Behavioural Brain Research,1,"Anticipation: No Response, Probability 1.0 vs. Probability 0.5","Emotion.Other,Cognition.Other",1
+FALSE,8040107,2007,Bjork J M,Behavioural Brain Research,2,"Anticipation: Response, Probability 1.0 vs. Probability 0","Emotion.Other,Cognition.Other",16
+FALSE,8040107,2007,Bjork J M,Behavioural Brain Research,3,"Anticipation: Response, Probability 1.0 vs. Probability 0.5","Emotion.Other,Cognition.Other",2
+FALSE,8040107,2007,Bjork J M,Behavioural Brain Research,4,"Anticipation: Response, Probability 0.5 vs. Probability 0","Emotion.Other,Cognition.Other",10
+TRUE,8040107,2007,Bjork J M,Behavioural Brain Research,5,"(Response, Probability 1.0 vs. Probability 0) vs. (No Response, Probability 1.0 vs. Probability 0)","Emotion.Other,Cognition.Other",18
+FALSE,8040107,2007,Bjork J M,Behavioural Brain Research,6,"(Response, Probability 0.5 vs. Probability 0) vs. (No Response, Probability 0.5 vs. Probability 0)","Emotion.Other,Cognition.Other",9
+FALSE,8040107,2007,Bjork J M,Behavioural Brain Research,7,"Reward Notification: No Response, Probability 1.0 Wins vs. Probability 0 Non-Wins","Emotion.Other,Cognition.Other",7
+FALSE,8040107,2007,Bjork J M,Behavioural Brain Research,8,"Reward Notification: Response, Probability 1.0 Wins vs. Probability 0 Non-Wins","Emotion.Other,Cognition.Other",6
+FALSE,8040107,2007,Bjork J M,Behavioural Brain Research,9,Reward Notification: Win vs. Non-Win Notifications in all Probability 0.5 Trials,"Emotion.Other,Cognition.Other",3
+TRUE,8080188,2003,McKay L C,Journal of Applied Physiology,1,Voluntary - Spontaneous Breathing,Interoception.Respiration Regulation,26
+TRUE,14050062,2012,Hargreaves I S,Brain and Language,1,Animal SCT > Concrete SCT,"Cognition.Language.Semantics,Cognition.Reasoning",16
+FALSE,14050062,2012,Hargreaves I S,Brain and Language,2,Concrete SCT > Animal SCT,"Cognition.Language.Semantics,Cognition.Reasoning",3
+FALSE,16040081,2009,Eser D,Human Brain Mapping,1,Injection of CCK-4,Action.Rest,34
+FALSE,16040081,2009,Eser D,Human Brain Mapping,2,Injection of Placebo,Action.Rest,3
+TRUE,16040081,2009,Eser D,Human Brain Mapping,3,Anticipatory Anxiety,Action.Rest,11

@@ -1,0 +1,158 @@
+TRUE,30061,2000,Savic I,Neuron,1,OS vs. AS,Perception.Olfaction,5
+FALSE,30061,2000,Savic I,Neuron,2,OD-i vs. OS,Perception.Olfaction,2
+FALSE,30061,2000,Savic I,Neuron,3,OD-q vs. OS,Perception.Olfaction,7
+FALSE,30061,2000,Savic I,Neuron,4,OM vs. OS,"Perception.Olfaction,Cognition.Memory.Explicit",8
+FALSE,30076,2000,Zatorre R J,Neuroreport,1,Affect vs. Baseline,"Perception.Olfaction,Emotion.Other",6
+TRUE,30076,2000,Zatorre R J,Neuroreport,2,Intensity vs. Baseline,Perception.Olfaction,5
+FALSE,30098,2002,Pessoa L,Proceedings of the National Academy of Sciences,1,Fearful > Neutral - Valence by Attention Interaction,Emotion.Fear,12
+TRUE,30098,2002,Pessoa L,Proceedings of the National Academy of Sciences,2,Fearful > Happy - Valence by Attention Interaction,Emotion.Fear,11
+TRUE,30126,1994,Decety J,Nature,1,Movement Observation - Visual Inspection,Action.Observation,32
+FALSE,30126,1994,Decety J,Nature,2,Movement Observation - Motor Imagery,Action.Observation,32
+TRUE,30126,1994,Decety J,Nature,3,Motor Imagery - Visual Inspection,Action.Imagination,34
+FALSE,30126,1994,Decety J,Nature,4,Motor Imagery - Movement Observation,Action.Imagination,52
+TRUE,30177,2000,Sobel N,Journal of Neurophysiology,1,Odorant vs. No-Odorant,Perception.Olfaction,32
+FALSE,30199,2002,Shaw M E,NeuroImage,1,"Activations in Controls, GLM",Cognition.Memory.Working,6
+TRUE,30199,2002,Shaw M E,NeuroImage,2,"Activations in Controls, CVA",Cognition.Memory.Working,3
+FALSE,30199,2002,Shaw M E,NeuroImage,3,"Activations in PTSD Patients, GLM",Cognition.Memory.Working,2
+FALSE,30199,2002,Shaw M E,NeuroImage,4,"Activations in PTSD Patients, CVA",Cognition.Memory.Working,4
+TRUE,30201,2000,Etard O,Neuroreport,1,Conjunction: (Naming vs. Rest) and (Verb vs. Rest),"Cognition.Language.Semantics,Cognition.Language.Speech,Action.Execution.Speech",21
+FALSE,30201,2000,Etard O,Neuroreport,2,(Verb - Rest) - (Naming - Rest),Cognition.Language.Semantics,13
+FALSE,30201,2000,Etard O,Neuroreport,3,(Naming - Rest) - (Verb - Rest),Cognition.Language.Semantics,5
+FALSE,30213,2001,Tan L H,NeuroImage,1,Semantic Relatedness Judgment vs. Crosshair Fixation,Cognition.Language.Semantics,36
+TRUE,30213,2001,Tan L H,NeuroImage,2,Homophone Decision vs. Crosshair Fixation,Cognition.Language.Phonology,38
+TRUE,30301,2003,Abel K M,Human Brain Mapping,1,"Neutral Faces vs. Fixation, Placebo",Cognition.Other,23
+FALSE,30301,2003,Abel K M,Human Brain Mapping,2,"Neutral Faces vs. Fixation, Ketamine",Pharmacology.Ketamine,9
+FALSE,30301,2003,Abel K M,Human Brain Mapping,3,Placebo vs. Ketamine,Pharmacology.Ketamine,2
+FALSE,30351,1996,Kawashima R,Brain Research,1,Response Selection - Control,"Cognition.Attention,Action.Execution",40
+TRUE,30351,1996,Kawashima R,Brain Research,2,Go/NoGo Task - Control Task,"Cognition.Attention,Action.Inhibition",39
+TRUE,30366,1997,Baker S C,Psychological Medicine,1,"Verbal Fluency - Repetition, Increases",Cognition.Language.Speech,10
+FALSE,30366,1997,Baker S C,Psychological Medicine,2,"Verbal Fluency - Repetition, Decreases",Cognition.Language.Speech,15
+FALSE,30366,1997,Baker S C,Psychological Medicine,3,"Depressed - Neutral, Increases",Emotion.Sadness,8
+FALSE,30366,1997,Baker S C,Psychological Medicine,4,"Depressed - Neutral, Decreases",Emotion.Sadness,4
+FALSE,30366,1997,Baker S C,Psychological Medicine,5,"Elated - Neutral, Increases",Emotion.Happiness,12
+FALSE,30366,1997,Baker S C,Psychological Medicine,6,"Elated - Neutral, Decreases",Emotion.Happiness,5
+TRUE,30412,2000,Redoute J,Human Brain Mapping,1,Explicit - Emotionally Neutral Film,Interoception.Sexuality,17
+FALSE,30412,2000,Redoute J,Human Brain Mapping,2,Conjunction 1 Increases,Interoception.Sexuality,14
+TRUE,30412,2000,Redoute J,Human Brain Mapping,3,Conjunction 2 Increases,Interoception.Sexuality,7
+FALSE,30412,2000,Redoute J,Human Brain Mapping,4,Emotionally Neutral - Explicit Film,Interoception.Sexuality,16
+FALSE,30412,2000,Redoute J,Human Brain Mapping,5,Conjunction 1 Decreases,Interoception.Sexuality,14
+FALSE,30412,2000,Redoute J,Human Brain Mapping,6,Conjunction 2 Decreases,Interoception.Sexuality,2
+TRUE,5040045,2001,Becerra L R,Neuron,1,"(Warm + Noxious) - Baseline, Early Phase",Perception.Somesthesis.Pain,31
+FALSE,5040045,2001,Becerra L R,Neuron,2,"Warm - Baseline, Early Phase",Perception.Somesthesis,4
+FALSE,5040045,2001,Becerra L R,Neuron,3,"(Warm + Noxious) - Baseline, Late Phase Increases",Perception.Somesthesis.Pain,9
+FALSE,5040045,2001,Becerra L R,Neuron,4,"(Warm + Noxious) - Baseline, Late Phase Decreases",Perception.Somesthesis.Pain,50
+FALSE,5040045,2001,Becerra L R,Neuron,5,"Warm - Baseline, Late Phase",Perception.Somesthesis,1
+FALSE,6050067,2004,Brown S,Cognitive Brain Research,1,Monotonic Vocalization vs. Rest,Cognition.Music,34
+FALSE,6050067,2004,Brown S,Cognitive Brain Research,2,Melody Repetition vs. Rest,Cognition.Music,19
+TRUE,6050067,2004,Brown S,Cognitive Brain Research,3,Harmonization vs. Rest,Cognition.Music,28
+TRUE,6080135,2004,Monks P J,Bipolar Disorders,1,"2-Back vs. Baseline, Controls",Cognition.Memory.Working,17
+FALSE,6080135,2004,Monks P J,Bipolar Disorders,2,"2-Back vs. Baseline, Bipolars",Cognition.Memory.Working,16
+FALSE,6080135,2004,Monks P J,Bipolar Disorders,3,"Controls > Bipolars, 2-Back",Cognition.Memory.Working,7
+FALSE,6080135,2004,Monks P J,Bipolar Disorders,4,"Bipolars > Controls, 2-Back",Cognition.Memory.Working,3
+FALSE,6080135,2004,Monks P J,Bipolar Disorders,5,"Sternberg, Controls",Cognition.Memory.Working,17
+FALSE,6080135,2004,Monks P J,Bipolar Disorders,6,"Sternberg, Bipolars",Cognition.Memory.Working,13
+FALSE,7010029,1998,Stevens A A,Archives of General Psychiatry,1,"WSPT vs. Baseline, Normals","Perception.Audition,Cognition.Memory.Working",21
+FALSE,7010029,1998,Stevens A A,Archives of General Psychiatry,2,"WSPT vs. Baseline, Schizophrenia Patients","Perception.Audition,Cognition.Memory.Working",21
+TRUE,7010029,1998,Stevens A A,Archives of General Psychiatry,3,"TSPT vs. Baseline, Normals","Perception.Audition,Cognition.Memory.Working",22
+FALSE,7010029,1998,Stevens A A,Archives of General Psychiatry,4,"TSPT vs. Baseline, Schizophrenia Patients","Perception.Audition,Cognition.Memory.Working",22
+FALSE,7080213,2003,de Araujo I E,Journal of Neurophysiology,1,Water - Tasteless,Interoception.Thirst,7
+FALSE,7080213,2003,de Araujo I E,Journal of Neurophysiology,2,Water AND Salt AND Glucose,Interoception.Thirst,4
+FALSE,7080213,2003,de Araujo I E,Journal of Neurophysiology,3,"Water - Tasteless, Pre- vs. Post-Satiety",Interoception.Thirst,2
+FALSE,7080213,2003,de Araujo I E,Journal of Neurophysiology,4,"Water, Pre- vs. Post-Satiety",Interoception.Thirst,2
+TRUE,7080213,2003,de Araujo I E,Journal of Neurophysiology,5,Brain Activity Correlated with Pleasantness Ratings of Water,Interoception.Thirst,5
+FALSE,7080213,2003,de Araujo I E,Journal of Neurophysiology,6,"Rest, Pre- vs. Post-Satiety",Interoception.Thirst,1
+FALSE,7080224,2006,Remijnse P L,Archives of General Psychiatry,1,"Reward, OCD Patients","Cognition.Other,Emotion.Other",4
+TRUE,7080224,2006,Remijnse P L,Archives of General Psychiatry,2,"Reward, Normals","Cognition.Other,Emotion.Other",9
+FALSE,7080224,2006,Remijnse P L,Archives of General Psychiatry,3,"Reward, Normals vs. OCD Patients","Cognition.Other,Emotion.Other",5
+FALSE,7080224,2006,Remijnse P L,Archives of General Psychiatry,4,"Punishment, OCD Patients","Cognition.Other,Emotion.Other",5
+TRUE,7080224,2006,Remijnse P L,Archives of General Psychiatry,5,"Punishment, Normals","Cognition.Other,Emotion.Other",5
+FALSE,7080224,2006,Remijnse P L,Archives of General Psychiatry,6,"Affective Switching, OCD Patients","Cognition.Other,Emotion.Other",5
+FALSE,7080224,2006,Remijnse P L,Archives of General Psychiatry,7,"Affective Switching, Normals","Cognition.Other,Emotion.Other",8
+FALSE,7080224,2006,Remijnse P L,Archives of General Psychiatry,8,"Affective Switching, Normals vs. OCD Patients","Cognition.Other,Emotion.Other",7
+FALSE,7110315,2006,Carlsson K,NeuroImage,1,Uncorrelated > Correlated,"Perception.Somesthesis.Pain,Cognition.Attention,Emotion.Anxiety",12
+FALSE,7110315,2006,Carlsson K,NeuroImage,2,Correlated > Uncorrelated,"Perception.Somesthesis.Pain,Emotion.Anxiety,Cognition.Attention",11
+FALSE,7110315,2006,Carlsson K,NeuroImage,3,Uncorrelated High > Correlated High,"Perception.Somesthesis.Pain,Cognition.Attention,Emotion.Anxiety",9
+FALSE,7110315,2006,Carlsson K,NeuroImage,4,Correlated High > Uncorrelated High,"Perception.Somesthesis.Pain,Emotion.Anxiety,Cognition.Attention",10
+FALSE,7110315,2006,Carlsson K,NeuroImage,5,Uncorrelated Low > Correlated Low,"Emotion.Anxiety,Cognition.Attention",8
+FALSE,7110315,2006,Carlsson K,NeuroImage,6,Correlated Low > Uncorrelated Low,"Emotion.Anxiety,Cognition.Attention",14
+FALSE,7110315,2006,Carlsson K,NeuroImage,7,High > Low,"Perception.Somesthesis.Pain,Emotion.Anxiety,Cognition.Attention",24
+TRUE,7110315,2006,Carlsson K,NeuroImage,8,Low > High,"Emotion.Anxiety,Cognition.Attention",2
+FALSE,7120357,2004,Bjork J M,Journal of Neuroscience,1,"Gain vs. Non-Gain Anticipation, Adults","Emotion.Other,Cognition.Other",13
+FALSE,7120357,2004,Bjork J M,Journal of Neuroscience,2,"Gain vs. Non-Gain Anticipation, Adolescents","Emotion.Other,Cognition.Other",8
+FALSE,7120357,2004,Bjork J M,Journal of Neuroscience,3,"Loss vs. Non-Loss Anticipation, Adults","Emotion.Other,Cognition.Other",4
+FALSE,7120357,2004,Bjork J M,Journal of Neuroscience,4,"Loss vs. Non-Loss Anticipation, Adolescents","Emotion.Other,Cognition.Other",5
+TRUE,7120357,2004,Bjork J M,Journal of Neuroscience,5,"Gain vs. Non-Gain Outcome, Adults","Emotion.Other,Cognition.Other",16
+FALSE,7120357,2004,Bjork J M,Journal of Neuroscience,6,"Gain vs. Non-Gain Outcome, Adolescents","Emotion.Other,Cognition.Other",17
+FALSE,7120357,2004,Bjork J M,Journal of Neuroscience,7,"Loss vs. Non-Loss Outcome, Adults","Emotion.Other,Cognition.Other",6
+FALSE,7120357,2004,Bjork J M,Journal of Neuroscience,8,"Loss vs. Non-Loss Outcome, Adolescents","Emotion.Other,Cognition.Other",4
+FALSE,7120367,2007,Liu X,Journal of Neuroscience,1,Bet > Bank,"Emotion.Other,Cognition.Other",5
+FALSE,7120367,2007,Liu X,Journal of Neuroscience,2,Bank > Bet,"Emotion.Other,Cognition.Other",8
+FALSE,7120367,2007,Liu X,Journal of Neuroscience,3,Win > Loss,"Emotion.Other,Cognition.Other",8
+FALSE,7120367,2007,Liu X,Journal of Neuroscience,4,Loss > Win,"Emotion.Other,Cognition.Other",6
+TRUE,7120367,2007,Liu X,Journal of Neuroscience,5,Right > Wrong,"Emotion.Other,Cognition.Other",8
+FALSE,7120367,2007,Liu X,Journal of Neuroscience,6,Wrong > Right,"Emotion.Other,Cognition.Other",7
+FALSE,7120376,2001,Knutson B,Neuroreport,1,Anticipation: Reward vs. No Reward Response,"Emotion.Other,Cognition.Other",13
+FALSE,7120376,2001,Knutson B,Neuroreport,2,Anticipation: Response vs. No Response,"Emotion.Other,Action.Execution,Cognition.Other",7
+TRUE,7120376,2001,Knutson B,Neuroreport,3,Outcome: $1.00 Reward vs. $50.00 Reward,"Emotion.Other,Cognition.Other",6
+FALSE,7120376,2001,Knutson B,Neuroreport,4,Outcome: All Reward vs. No Reward,"Emotion.Other,Cognition.Other",4
+FALSE,7120379,2008,Strohle A,NeuroImage,1,"Anticipation of Gain vs. Nongain, Healthy Controls","Emotion.Other,Cognition.Other",7
+FALSE,7120379,2008,Strohle A,NeuroImage,2,"Anticipation of Gain vs. Nongain, Healthy Controls > ADHD Patients","Emotion.Other,Cognition.Other",1
+TRUE,7120379,2008,Strohle A,NeuroImage,3,"Outcome of Gain vs. Nongain, Healthy Controls","Emotion.Other,Cognition.Other",2
+FALSE,7120379,2008,Strohle A,NeuroImage,4,"Outcome of Gain vs. Nongain, ADHD Patients","Emotion.Other,Cognition.Other",7
+FALSE,7120379,2008,Strohle A,NeuroImage,5,"Outcome of Gain vs. Nongain, ADHD Patients > Healthy Controls","Emotion.Other,Cognition.Other",8
+TRUE,8030083,2006,Coan J A,Psychological Science,1,"Threatened - Safe, No Hand Holding","Emotion.Anxiety,Emotion.Fear",24
+FALSE,8030083,2006,Coan J A,Psychological Science,2,"No Hand Holding, Threatened > Hand Holding with Spouse, Threatened","Emotion.Anxiety,Emotion.Fear",7
+FALSE,8030083,2006,Coan J A,Psychological Science,3,"No Hand Holding, Threatened > Hand Holding with Stranger, Threatened","Emotion.Anxiety,Emotion.Fear",5
+FALSE,8030083,2006,Coan J A,Psychological Science,4,"Hand Holding with Stranger > Hand Holding with Spouse, Threatened","Emotion.Anxiety,Emotion.Fear",1
+FALSE,8030083,2006,Coan J A,Psychological Science,5,Negative Correlations between WDAS and Threat-Related Activation during Hand Holding with Spouse,"Emotion.Anxiety,Emotion.Fear",3
+FALSE,8030083,2006,Coan J A,Psychological Science,6,Positive Correlation between Shock Pain Ratings and Threat-Related Activation,"Emotion.Anxiety,Emotion.Fear",2
+FALSE,8060158,2007,Sailer U,NeuroImage,1,"Wins vs. Losses, Exploratory Phase","Emotion.Other,Cognition.Other",5
+TRUE,8060158,2007,Sailer U,NeuroImage,2,"Correct vs. Wrong, Exploratory Phase","Emotion.Other,Cognition.Other",7
+FALSE,8060158,2007,Sailer U,NeuroImage,3,Interaction of Utilitarian and Performance Feedback,"Emotion.Other,Cognition.Other",15
+FALSE,8060158,2007,Sailer U,NeuroImage,4,"Wins vs. Losses, Exploratory vs. Proficiency Phase","Cognition.Memory,Emotion.Other,Cognition.Other",31
+TRUE,8060158,2007,Sailer U,NeuroImage,5,Interaction of Feedback and Learning Phase,"Cognition.Memory,Emotion.Other,Cognition.Other",4
+FALSE,8080233,2007,Qin S,NeuroImage,1,Hit Discontinuous Associations vs. Hit Simultaneous Associations,Cognition.Memory.Explicit,13
+TRUE,8080233,2007,Qin S,NeuroImage,2,Formation of New Memories Including Associations vs. Miss,Cognition.Memory.Explicit,20
+FALSE,8100250,2001,O'Doherty J,Journal of Neurophysiology,1,Glucose - Tasteless,Perception.Gustation,14
+TRUE,8100250,2001,O'Doherty J,Journal of Neurophysiology,2,Salt - Tasteless,Perception.Gustation,10
+TRUE,8110311,1992,Zatorre R J,Nature,1,Odor vs. Odorless,Perception.Olfaction,6
+FALSE,9010026,2007,Sabatinelli D,Journal of Neurophysiology,1,"Pleasant > Neutral, Study 1","Emotion.Other,Interoception.Sexuality",19
+TRUE,9010026,2007,Sabatinelli D,Journal of Neurophysiology,2,"Unpleasant > Neutral, Study 1",Emotion.Other,14
+FALSE,9010026,2007,Sabatinelli D,Journal of Neurophysiology,3,"Pleasant > Neutral, Study 2","Emotion.Other,Interoception.Sexuality",15
+FALSE,9010026,2007,Sabatinelli D,Journal of Neurophysiology,4,"Unpleasant > Neutral, Study 2",Emotion.Other,9
+FALSE,10050106,2003,Kringelbach M L,Cerebral Cortex,1,Correlation of Pleasantness Ratings with Activation,Perception.Gustation,1
+TRUE,10050106,2003,Kringelbach M L,Cerebral Cortex,2,(Chocolate Milk + Tomato Juice) > Neutral Solution,Perception.Gustation,5
+FALSE,10050106,2003,Kringelbach M L,Cerebral Cortex,3,"Satiation Effects of Food Type, Conjunction of Chocolate Milk & Tomato Juice",Perception.Gustation,3
+FALSE,10050106,2003,Kringelbach M L,Cerebral Cortex,4,Sensory-Specific Satiety-Related Change of Activation for Chocolate Milk,Perception.Gustation,4
+TRUE,10050109,2003,O'Doherty J P,Neuron,1,"Learning Rate and Signed PE Response, Responding to delta t(cs) & Signed(delta t(ucs)",Cognition.Attention,3
+FALSE,10050109,2003,O'Doherty J P,Neuron,2,Significant Effects to Slower Learning Rate,Cognition.Attention,2
+FALSE,10050109,2003,O'Doherty J P,Neuron,3,"Delta t(cs) & Delta t(ucs) Components, Delta t(cs) Masked with Signed Delta t(cs)",Cognition.Attention,17
+FALSE,10050109,2003,O'Doherty J P,Neuron,4,"Delta t(cs) & Delta t(ucs) Components, Delta t(cs) Masked with Absolute Value of Delta t(cs)",Cognition.Attention,3
+FALSE,10050109,2003,O'Doherty J P,Neuron,5,"TD Analysis of CSneut Condition, Less Stringent Test of Conjunction Between the Two Regressors",Cognition.Attention,3
+FALSE,10050109,2003,O'Doherty J P,Neuron,6,"TD Analysis of CSneut Condition, PE Responses in Reward & Neutral Conditions",Cognition.Attention,2
+FALSE,11010021,2009,Peters J,Journal of Neuroscience,1,"Positive Correlation with Subjective Value of Delayed Reward, Delay Discounting","Cognition.Other,Emotion.Other",25
+FALSE,11010021,2009,Peters J,Journal of Neuroscience,2,"Positive Correlation with Subjective Value of Delayed Reward, Delay > Probabilistic Discounting","Cognition.Other,Emotion.Other",8
+FALSE,11010021,2009,Peters J,Journal of Neuroscience,3,Subjective Valuation during Probabilistic Discounting,"Cognition.Other,Emotion.Other",59
+FALSE,11010021,2009,Peters J,Journal of Neuroscience,4,"Subjective Valuation during Probabilistic Discounting, Probabilistic Discounting > Delay Discounting","Cognition.Other,Emotion.Other",45
+FALSE,11010021,2009,Peters J,Journal of Neuroscience,5,Correlation between Subjective Value and both Delay Discounting and Probabilistic Discounting,"Cognition.Other,Emotion.Other",4
+FALSE,11010021,2009,Peters J,Journal of Neuroscience,6,"Correlation with Inverse Delay-to-Reward, Orthogonalized with Respect to Subjective Value","Cognition.Other,Emotion.Other",2
+FALSE,11010021,2009,Peters J,Journal of Neuroscience,7,"Correlation with Reward Probability, Orthogonalized with Respect to Subjective Value","Cognition.Other,Emotion.Other",32
+FALSE,11010021,2009,Peters J,Journal of Neuroscience,8,Subjective Value Correlation Delay Discounting,"Cognition.Other,Emotion.Other",19
+FALSE,11010021,2009,Peters J,Journal of Neuroscience,9,Correlation with Inverse Delay-to-Reward,"Cognition.Other,Emotion.Other",13
+TRUE,11010021,2009,Peters J,Journal of Neuroscience,10,Correlation with Reward Probability,"Cognition.Other,Emotion.Other",54
+FALSE,11010021,2009,Peters J,Journal of Neuroscience,11,"Correlation with Reward Magnitude, Delay Discounting","Cognition.Other,Emotion.Other",15
+FALSE,11010021,2009,Peters J,Journal of Neuroscience,12,"Correlation with Reward Magnitude, Probability Discounting","Cognition.Other,Emotion.Other",19
+FALSE,11030043,2006,Beaver J D,Journal of Neuroscience,1,Appetizing - Bland,Perception.Gustation,16
+FALSE,11030043,2006,Beaver J D,Journal of Neuroscience,2,Appetizing - Disgusting,Perception.Gustation,8
+FALSE,11030043,2006,Beaver J D,Journal of Neuroscience,3,Appetizing - Nonfood,Perception.Gustation,16
+FALSE,11030043,2006,Beaver J D,Journal of Neuroscience,4,Disgusting - Bland,Perception.Gustation,9
+TRUE,11030043,2006,Beaver J D,Journal of Neuroscience,5,Disgusting - Appetizing,Perception.Gustation,3
+FALSE,11030043,2006,Beaver J D,Journal of Neuroscience,6,Disgusting - Nonfood,Perception.Gustation,5
+FALSE,11080064,2009,Engelmann J B,Brain Research,1,Activations During Risky Choice,"Cognition.Other,Emotion.Other",25
+TRUE,11080064,2009,Engelmann J B,Brain Research,2,Correlations Between Risk Preference and Activations During Risky Choice,"Cognition.Other,Emotion.Other",18
+FALSE,11080064,2009,Engelmann J B,Brain Research,3,Correlations Between Risk Preference and Deactivations During Risky Choice,"Cognition.Other,Emotion.Other",1
+FALSE,11080064,2009,Engelmann J B,Brain Research,4,Activations During Anticipation Period After Risky Choice,"Cognition.Other,Emotion.Other",7
+FALSE,11080064,2009,Engelmann J B,Brain Research,5,Activations During the Outcome Period After (Won vs. Lost),"Cognition.Other,Emotion.Other",45
+FALSE,16040107,2002,Grossman M,Human Brain Mapping,1,All Verbs - Baseline,Cognition.Language.Semantics,3
+TRUE,16040107,2002,Grossman M,Human Brain Mapping,2,[Motion Verbs - Baseline] - [Cognition Verbs - Baseline],Cognition.Language.Semantics,3
+FALSE,16040107,2002,Grossman M,Human Brain Mapping,3,[Cognition Verbs - Baseline] - [Motion Verbs - Baseline],Cognition.Language.Semantics,1

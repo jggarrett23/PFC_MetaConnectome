@@ -1,0 +1,55 @@
+FALSE,30020,2000,Ehrsson H H,European Journal of Neuroscience,1,Foot vs. Rest,Action.Execution,9
+FALSE,30020,2000,Ehrsson H H,European Journal of Neuroscience,2,Hand vs. Rest,Action.Execution,14
+FALSE,30020,2000,Ehrsson H H,European Journal of Neuroscience,3,Simultaneous vs. Rest,Action.Execution,17
+FALSE,30020,2000,Ehrsson H H,European Journal of Neuroscience,4,Hand vs. Foot,Action.Execution,5
+FALSE,30020,2000,Ehrsson H H,European Journal of Neuroscience,5,Foot vs. Hand,Action.Execution,4
+TRUE,30020,2000,Ehrsson H H,European Journal of Neuroscience,6,Conjunction Analysis,Action.Execution,13
+FALSE,30020,2000,Ehrsson H H,European Journal of Neuroscience,7,{(Hand - Rest) + (Foot - Rest)} - (Simultaneous - Rest),Action.Execution,3
+TRUE,7080222,2000,Nour S,Brain,1,Micturition vs. Rest,Interoception.Gastrointestinal/Genitourinary (GI/GU),35
+FALSE,8040107,2007,Bjork J M,Behavioural Brain Research,1,"Anticipation: No Response, Probability 1.0 vs. Probability 0.5","Emotion.Other,Cognition.Other",1
+FALSE,8040107,2007,Bjork J M,Behavioural Brain Research,2,"Anticipation: Response, Probability 1.0 vs. Probability 0","Emotion.Other,Cognition.Other",16
+FALSE,8040107,2007,Bjork J M,Behavioural Brain Research,3,"Anticipation: Response, Probability 1.0 vs. Probability 0.5","Emotion.Other,Cognition.Other",2
+FALSE,8040107,2007,Bjork J M,Behavioural Brain Research,4,"Anticipation: Response, Probability 0.5 vs. Probability 0","Emotion.Other,Cognition.Other",10
+FALSE,8040107,2007,Bjork J M,Behavioural Brain Research,5,"(Response, Probability 1.0 vs. Probability 0) vs. (No Response, Probability 1.0 vs. Probability 0)","Emotion.Other,Cognition.Other",18
+TRUE,8040107,2007,Bjork J M,Behavioural Brain Research,6,"(Response, Probability 0.5 vs. Probability 0) vs. (No Response, Probability 0.5 vs. Probability 0)","Emotion.Other,Cognition.Other",9
+FALSE,8040107,2007,Bjork J M,Behavioural Brain Research,7,"Reward Notification: No Response, Probability 1.0 Wins vs. Probability 0 Non-Wins","Emotion.Other,Cognition.Other",7
+FALSE,8040107,2007,Bjork J M,Behavioural Brain Research,8,"Reward Notification: Response, Probability 1.0 Wins vs. Probability 0 Non-Wins","Emotion.Other,Cognition.Other",6
+FALSE,8040107,2007,Bjork J M,Behavioural Brain Research,9,Reward Notification: Win vs. Non-Win Notifications in all Probability 0.5 Trials,"Emotion.Other,Cognition.Other",3
+TRUE,9020046,2008,Olsson C J,Open Neuroimaging Journal,1,"Visualization vs. Rest, Active High Jumpers",Action.Imagination,9
+FALSE,9020046,2008,Olsson C J,Open Neuroimaging Journal,2,"Visualization vs. Rest, Novice High Jumpers",Action.Imagination,9
+FALSE,11010029,2010,Tseng M T,Human Brain Mapping,1,Innocuous Heat vs. Reference Temperature,Perception.Somesthesis,2
+FALSE,11010029,2010,Tseng M T,Human Brain Mapping,2,Noxious Heat vs. Reference Temperature,Perception.Somesthesis.Pain,7
+FALSE,11010029,2010,Tseng M T,Human Brain Mapping,3,Innocuous Heat > Noxious Heat,Perception.Somesthesis.Pain,23
+TRUE,11010029,2010,Tseng M T,Human Brain Mapping,4,Noxious Heat > Innocuous Heat,Perception.Somesthesis.Pain,24
+FALSE,11040051,2009,Freund W,Somatosensory and Motor Research,1,Right weak - rest,Perception.Somesthesis,14
+FALSE,11040051,2009,Freund W,Somatosensory and Motor Research,2,Left weak - rest,Perception.Somesthesis,11
+FALSE,11040051,2009,Freund W,Somatosensory and Motor Research,3,Right moderate - rest,Perception.Somesthesis,8
+FALSE,11040051,2009,Freund W,Somatosensory and Motor Research,4,Left moderate - rest,Perception.Somesthesis,17
+FALSE,11040051,2009,Freund W,Somatosensory and Motor Research,5,Right pain - rest,Perception.Somesthesis.Pain,12
+FALSE,11040051,2009,Freund W,Somatosensory and Motor Research,6,Left pain - rest,Perception.Somesthesis.Pain,22
+FALSE,11040051,2009,Freund W,Somatosensory and Motor Research,7,Right increase,Perception.Somesthesis.Pain,10
+FALSE,11040051,2009,Freund W,Somatosensory and Motor Research,8,Left increase,Perception.Somesthesis.Pain,19
+FALSE,11040051,2009,Freund W,Somatosensory and Motor Research,9,Right tonic pain early - rest,Perception.Somesthesis.Pain,12
+FALSE,11040051,2009,Freund W,Somatosensory and Motor Research,10,Left tonic pain early - rest,Perception.Somesthesis.Pain,9
+FALSE,11040051,2009,Freund W,Somatosensory and Motor Research,11,Right tonic pain late - rest,Perception.Somesthesis.Pain,7
+FALSE,11040051,2009,Freund W,Somatosensory and Motor Research,12,Left tonic pain late - rest,Perception.Somesthesis.Pain,14
+FALSE,11040051,2009,Freund W,Somatosensory and Motor Research,13,Right tonic pain early - tonic pain late,Perception.Somesthesis.Pain,12
+TRUE,11040051,2009,Freund W,Somatosensory and Motor Research,14,Left tonic pain early - tonic pain late,Perception.Somesthesis.Pain,13
+FALSE,11040051,2009,Freund W,Somatosensory and Motor Research,15,Right tonic pain late - tonic pain early,Perception.Somesthesis.Pain,13
+FALSE,11040051,2009,Freund W,Somatosensory and Motor Research,16,Left tonic pain late - tonic pain early,Perception.Somesthesis.Pain,9
+TRUE,12040030,2009,Goldstone A P,European Journal of Neuroscience,1,"High-Calorie > Low-Calorie, Fasted",Emotion.Other,38
+FALSE,12040030,2009,Goldstone A P,European Journal of Neuroscience,2,"High-Calorie > Low-Calorie, Fed",Emotion.Other,4
+FALSE,13060047,2002,Luft A R,Human Brain Mapping,1,Extension/flexion of right knee vs rest,Action.Execution,8
+FALSE,13060047,2002,Luft A R,Human Brain Mapping,2,Extension/flexion of left knee vs rest,Action.Execution,8
+TRUE,13060047,2002,Luft A R,Human Brain Mapping,3,Flexion/extension of right elbow vs rest,Action.Execution,8
+FALSE,13060047,2002,Luft A R,Human Brain Mapping,4,Flexion/extension of left elbow vs rest,Action.Execution,8
+FALSE,13060047,2002,Luft A R,Human Brain Mapping,5,Sequential thumb-finger opposition of right hand vs rest,Action.Execution,9
+FALSE,13060047,2002,Luft A R,Human Brain Mapping,6,Sequential thumb-finger opposition of left hand vs rest,Action.Execution,9
+FALSE,13060047,2002,Luft A R,Human Brain Mapping,7,Passive extension/flexion of right knee vs rest,Action.Execution,3
+FALSE,13060047,2002,Luft A R,Human Brain Mapping,8,Passive extension/flexion of left knee vs rest,Action.Execution,6
+FALSE,16050127,2009,Nahab F B,Human Brain Mapping,1,Control vs. Baseline,Action.Observation,5
+FALSE,16050127,2009,Nahab F B,Human Brain Mapping,2,Cough vs. Baseline,Action.Observation,11
+TRUE,16050127,2009,Nahab F B,Human Brain Mapping,3,Gape vs. Baseline,Action.Observation,15
+FALSE,16050127,2009,Nahab F B,Human Brain Mapping,4,Yawn vs. Baseline,Action.Observation,5
+FALSE,16050127,2009,Nahab F B,Human Brain Mapping,5,Gape vs. Yawn,Action.Observation,18
+FALSE,16050127,2009,Nahab F B,Human Brain Mapping,6,Yawn vs. Gape,Action.Observation,1

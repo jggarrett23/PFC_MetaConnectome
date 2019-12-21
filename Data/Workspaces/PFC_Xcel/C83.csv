@@ -1,0 +1,228 @@
+FALSE,30148,1998,Kohler S,Neuropsychologia,1,Retrieval > Perceptual Matching,Cognition.Memory.Explicit,14
+TRUE,30148,1998,Kohler S,Neuropsychologia,2,Perceptual Matching > Retrieval,Perception.Vision.Shape,13
+FALSE,30148,1998,Kohler S,Neuropsychologia,3,Spatial Processing > Object Processing,Perception.Vision.Shape,10
+FALSE,30148,1998,Kohler S,Neuropsychologia,4,Object Processing > Spatial Processing,Perception.Vision.Shape,12
+FALSE,30148,1998,Kohler S,Neuropsychologia,5,"Retrieval, Spatial > Object","Cognition.Memory.Explicit,Perception.Vision.Shape",1
+FALSE,30148,1998,Kohler S,Neuropsychologia,6,"Perceptual Matching, Object > Spatial",Perception.Vision.Shape,3
+FALSE,30148,1998,Kohler S,Neuropsychologia,7,"Retrieval, Object > Spatial","Cognition.Memory.Explicit,Perception.Vision.Shape",2
+FALSE,30148,1998,Kohler S,Neuropsychologia,8,"Perceptual Matching, Spatial > Object",Perception.Vision.Shape,4
+FALSE,30296,2001,Nakamura K,Neuropsychologia,1,Familiar - Vowel with Familiar - Self Voice,Cognition.Memory.Explicit,4
+FALSE,30296,2001,Nakamura K,Neuropsychologia,2,Familiar - Vowel,Cognition.Memory.Explicit,7
+TRUE,30296,2001,Nakamura K,Neuropsychologia,3,Self Voice - Vowel,"Cognition.Soma,Perception.Audition",7
+FALSE,30296,2001,Nakamura K,Neuropsychologia,4,Self Voice - Vowel with Self Voice - Familiar,"Cognition.Soma,Perception.Audition",2
+TRUE,30405,1995,Partiot A,Neuroreport,1,Non-Emotional Script - Control,"Cognition.Time,Action.Preparation",8
+FALSE,30405,1995,Partiot A,Neuroreport,2,Emotional Script - Control,"Cognition.Time,Emotion.Other,Action.Preparation",10
+TRUE,30425,1998,Casey B J,NeuroImage,1,"Memory - Motor, Pooled Data",Cognition.Memory.Working,11
+FALSE,30425,1998,Casey B J,NeuroImage,2,"Motor - Rest, Pooled Data",Action.Execution,11
+FALSE,30425,1998,Casey B J,NeuroImage,3,"Visual - Rest, Pooled Data",Perception.Vision,5
+FALSE,30425,1998,Casey B J,NeuroImage,4,"Memory - Motor, Boston Site",Cognition.Memory.Working,13
+FALSE,30425,1998,Casey B J,NeuroImage,5,"Memory - Motor, Madison Site",Cognition.Memory.Working,6
+FALSE,30425,1998,Casey B J,NeuroImage,6,"Memory - Motor, Minnesota Site",Cognition.Memory.Working,22
+FALSE,30425,1998,Casey B J,NeuroImage,7,"Memory - Motor, Pittsburgh Site",Cognition.Memory.Working,21
+FALSE,30425,1998,Casey B J,NeuroImage,8,"Motor - Visual, Boston Site",Action.Execution,11
+FALSE,30425,1998,Casey B J,NeuroImage,9,"Motor - Visual, Madison Site",Action.Execution,7
+FALSE,30425,1998,Casey B J,NeuroImage,10,"Motor - Visual, Minnesota Site",Action.Execution,12
+FALSE,30425,1998,Casey B J,NeuroImage,11,"Motor - Visual, Pittsburgh Site",Action.Execution,29
+FALSE,30425,1998,Casey B J,NeuroImage,12,"Visual - Rest, Boston Site",Perception.Vision,3
+FALSE,30425,1998,Casey B J,NeuroImage,13,"Visual - Rest, Pittsburgh Site",Perception.Vision,7
+FALSE,30429,1997,Cohen J D,Nature,1,Load,Cognition.Memory.Working,9
+TRUE,30429,1997,Cohen J D,Nature,2,Time,"Cognition.Memory.Working,Cognition.Time",10
+FALSE,30429,1997,Cohen J D,Nature,3,Load x Time,"Cognition.Memory.Working,Cognition.Time",8
+TRUE,6030022,2005,Habel U,NeuroImage,1,Sadness - Gender Discrimination,Emotion.Sadness,14
+FALSE,6030022,2005,Habel U,NeuroImage,2,Happiness - Gender Discrimination,Emotion.Happiness,8
+FALSE,6030022,2005,Habel U,NeuroImage,3,Sadness - Happiness,Emotion.Sadness,6
+FALSE,6030022,2005,Habel U,NeuroImage,4,Happiness - Sadness,Emotion.Happiness,5
+FALSE,6050072,2005,Rounis E,NeuroImage,1,Main Effects of Movement,Action.Execution,17
+FALSE,6050072,2005,Rounis E,NeuroImage,2,"Main Effects of 5 Hz rTMS Masked by the Main Effects of Movement, Increased rCBF",Perception.Somesthesis,17
+FALSE,6050072,2005,Rounis E,NeuroImage,3,"Main Effects of 5 Hz rTMS Masked by the Main Effects of Movement, Decreased rCBF",Perception.Somesthesis,11
+FALSE,6050072,2005,Rounis E,NeuroImage,4,"Conjunction of Main Effect of 1 Hz and 5 Hz rTMS, Increased rCBF",Perception.Somesthesis,20
+TRUE,6050072,2005,Rounis E,NeuroImage,5,"Conjunction of Main Effect of 1 Hz and 5 Hz rTMS, Decreased rCBF",Perception.Somesthesis,20
+FALSE,6050072,2005,Rounis E,NeuroImage,6,"1 Hz rTMS > 5 Hz rTMS, Masked by the Main Effects of Movement",Perception.Somesthesis,14
+FALSE,6050072,2005,Rounis E,NeuroImage,7,"5 Hz rTMS > 1 Hz rTMS, Masked by the Main Effects of Movement",Perception.Somesthesis,14
+FALSE,6080120,2005,Keedwell P A,Biological Psychiatry,1,"Depressed > Controls, Happy",Emotion.Happiness,6
+FALSE,6080120,2005,Keedwell P A,Biological Psychiatry,2,"Controls > Depressed, Happy",Emotion.Happiness,5
+FALSE,6080120,2005,Keedwell P A,Biological Psychiatry,3,"Depressed > Controls, Sad",Emotion.Sadness,7
+FALSE,6080120,2005,Keedwell P A,Biological Psychiatry,4,"Controls > Depressed, Sad",Emotion.Sadness,3
+FALSE,6080120,2005,Keedwell P A,Biological Psychiatry,5,"Happy > Sad, Controls",Emotion.Happiness,1
+TRUE,6080120,2005,Keedwell P A,Biological Psychiatry,6,"Sad > Happy, Controls",Emotion.Sadness,2
+FALSE,6080120,2005,Keedwell P A,Biological Psychiatry,7,"Happy > Sad, Depressed",Emotion.Happiness,1
+FALSE,6080120,2005,Keedwell P A,Biological Psychiatry,8,"Sad > Happy, Depressed",Emotion.Sadness,1
+TRUE,6120186,2001,Poldrack R A,Brain,1,"New MR vs. Plain Text, Mirror Reading I, Pre-Training","Cognition.Language.Orthography,Cognition.Language.Semantics",13
+FALSE,6120186,2001,Poldrack R A,Brain,2,"New MR vs. Plain Text, Mirror Reading I, Post-Training","Cognition.Language.Orthography,Cognition.Language.Semantics",7
+FALSE,6120186,2001,Poldrack R A,Brain,3,Learning-Related Increase,"Cognition.Language.Orthography,Cognition.Language.Semantics",10
+FALSE,6120186,2001,Poldrack R A,Brain,4,Learning-Related Decrease,"Cognition.Language.Orthography,Cognition.Language.Semantics",2
+FALSE,6120186,2001,Poldrack R A,Brain,5,"Short-Term Priming, Pre-Training","Cognition.Language.Orthography,Cognition.Language.Semantics",5
+FALSE,6120186,2001,Poldrack R A,Brain,6,"Short-Term Priming, Post-Training","Cognition.Language.Orthography,Cognition.Language.Semantics",17
+FALSE,6120186,2001,Poldrack R A,Brain,7,"Pre-Training, Mirror Reading II: SB > MR","Cognition.Language.Orthography,Cognition.Language.Semantics",1
+FALSE,6120186,2001,Poldrack R A,Brain,8,"Post-Training, Mirror Reading II: SB > MR","Cognition.Language.Orthography,Cognition.Language.Semantics",1
+FALSE,6120186,2001,Poldrack R A,Brain,9,"Pre-Training, Mirror Reading II: MR > SB","Cognition.Language.Orthography,Cognition.Language.Semantics",4
+FALSE,6120186,2001,Poldrack R A,Brain,10,"Post-Training, Mirror Reading II: MR > SB","Cognition.Language.Orthography,Cognition.Language.Semantics",12
+FALSE,6120186,2001,Poldrack R A,Brain,11,"Pre-Training, Mirror Reading II: IR > MR","Cognition.Language.Orthography,Cognition.Language.Semantics",4
+FALSE,6120186,2001,Poldrack R A,Brain,12,"Post-Training, Mirror Reading II: IR > MR","Cognition.Language.Orthography,Cognition.Language.Semantics",8
+FALSE,6120186,2001,Poldrack R A,Brain,13,"Pre-Training, Mirror Reading II: MR > IR","Cognition.Language.Orthography,Cognition.Language.Semantics",3
+FALSE,6120186,2001,Poldrack R A,Brain,14,"Post-Training, Mirror Reading II: MR > IR","Cognition.Language.Orthography,Cognition.Language.Semantics",4
+FALSE,7070165,2007,Addis D R,Neuropsychologia,1,Event Construction > Semantic Retrieval,"Action.Imagination,Cognition.Memory.Explicit",5
+TRUE,7070165,2007,Addis D R,Neuropsychologia,2,Event Elaboration > Visual Imagery,"Action.Imagination,Cognition.Memory.Explicit",23
+FALSE,7070165,2007,Addis D R,Neuropsychologia,3,Future Event Construction > Past Event Construction,"Action.Imagination,Cognition.Memory.Explicit",18
+FALSE,7070165,2007,Addis D R,Neuropsychologia,4,Future Event Elaboration > Past Event Elaboration,"Action.Imagination,Cognition.Memory.Explicit",1
+FALSE,7070165,2007,Addis D R,Neuropsychologia,5,Construction > Elaboration,"Action.Imagination,Cognition.Memory.Explicit",11
+FALSE,7070165,2007,Addis D R,Neuropsychologia,6,Elaboration > Construction,"Action.Imagination,Cognition.Memory.Explicit",8
+TRUE,7110332,2003,Ruby P,European Journal of Neuroscience,1,Third-Person Perspective - First-Person Perspective,Cognition.Social Cognition,13
+FALSE,7110332,2003,Ruby P,European Journal of Neuroscience,2,First-Person Perspective - Third-Person Perspective,Cognition.Social Cognition,7
+TRUE,7110335,2007,Tunik E,Journal of Neurophysiology,1,Velocity-Dependent Perturbation - Null > Position-Dependent Perturbation - Null,Action.Execution,13
+FALSE,8050131,2007,Johnson J D,Cerebral Cortex,1,"Encoding, Scene > Encoding, Sentence","Action.Imagination,Cognition.Memory.Explicit",6
+FALSE,8050131,2007,Johnson J D,Cerebral Cortex,2,"Encoding, Sentence > Encoding, Scene","Action.Imagination,Cognition.Memory.Explicit",12
+FALSE,8050131,2007,Johnson J D,Cerebral Cortex,3,"Recognition, Scene > Fixation",Cognition.Memory.Explicit,3
+TRUE,8050131,2007,Johnson J D,Cerebral Cortex,4,"Recognition, Sentence > Fixation",Cognition.Memory.Explicit,1
+FALSE,8050131,2007,Johnson J D,Cerebral Cortex,5,Content Independent Recollection Related Activity,Cognition.Memory.Explicit,24
+FALSE,8080207,2007,Benuzzi F,Brain Research Bulletin,1,Whole Faces vs. Masks,Perception.Vision.Shape,14
+FALSE,8080207,2007,Benuzzi F,Brain Research Bulletin,2,Upper Faces vs. Masks,Perception.Vision.Shape,6
+FALSE,8080207,2007,Benuzzi F,Brain Research Bulletin,3,Lower Faces vs. Masks,Perception.Vision.Shape,16
+FALSE,8080207,2007,Benuzzi F,Brain Research Bulletin,4,Whole Faces vs. Parts of Faces,Perception.Vision.Shape,10
+FALSE,8080207,2007,Benuzzi F,Brain Research Bulletin,5,Whole Faces vs. Upper Faces,Perception.Vision.Shape,7
+TRUE,8080207,2007,Benuzzi F,Brain Research Bulletin,6,Whole Faces vs. Lower Faces,Perception.Vision.Shape,11
+FALSE,8080207,2007,Benuzzi F,Brain Research Bulletin,7,Upper Faces vs. Whole Faces,Perception.Vision.Shape,2
+FALSE,8080207,2007,Benuzzi F,Brain Research Bulletin,8,Lower Faces vs. Whole Faces,Perception.Vision.Shape,11
+FALSE,8110297,2006,Ricciardi E,Neuroscience,1,"Tactile, 1-Back vs. Rest","Cognition.Memory.Working,Perception.Somesthesis",62
+FALSE,8110297,2006,Ricciardi E,Neuroscience,2,"Visual, 1-Back vs. Rest","Cognition.Memory.Working,Perception.Vision",44
+FALSE,8110297,2006,Ricciardi E,Neuroscience,3,Tactile Maintenance vs. Rest,Cognition.Memory.Working,46
+TRUE,8110297,2006,Ricciardi E,Neuroscience,4,Visual Maintenance vs. Rest,Cognition.Memory.Working,44
+FALSE,8110297,2006,Ricciardi E,Neuroscience,5,Overlapping,"Cognition.Memory.Working,Perception.Somesthesis,Perception.Vision",32
+FALSE,8110297,2006,Ricciardi E,Neuroscience,6,"Tactile Maintenance > Visual Maintenance, Interaction","Cognition.Memory.Working,Perception.Somesthesis",38
+FALSE,8110297,2006,Ricciardi E,Neuroscience,7,"Visual Maintenance > Tactile Maintenance, Interaction","Cognition.Memory.Working,Perception.Vision",12
+FALSE,8110298,2004,Ruby P,Journal of Cognitive Neuroscience,1,First Person (PN1+PE1) vs. Third Person (PN3+PE3),Cognition.Social Cognition,1
+TRUE,8110298,2004,Ruby P,Journal of Cognitive Neuroscience,2,Third Person (PN3+PE3) vs. First Person (PN1+PE1),Cognition.Social Cognition,10
+FALSE,8110298,2004,Ruby P,Journal of Cognitive Neuroscience,3,Emotional (PE1+PE3) vs. Neutral (PN1+PN3) Irrespective of Perspective,Cognition.Social Cognition,7
+FALSE,8110298,2004,Ruby P,Journal of Cognitive Neuroscience,4,Emotional (PE3-PE1) vs. Neutral (PN3-PN1) with Perspective Interactions,Cognition.Social Cognition,1
+FALSE,8110298,2004,Ruby P,Journal of Cognitive Neuroscience,5,Emotional (PE1-PE3) vs. Neutral (PN1-PN3) with Perspective Interactions,Cognition.Social Cognition,1
+FALSE,9020041,2007,Jabbi M,NeuroImage,1,"Correlation, Personal Distress + Disgusted Faces","Emotion.Other,Cognition.Other",19
+FALSE,9020041,2007,Jabbi M,NeuroImage,2,"Correlation, Fantasy + Disgusted Faces","Emotion.Other,Cognition.Other",19
+FALSE,9020041,2007,Jabbi M,NeuroImage,3,"Correlation, Empathic Concern + Disgusted Faces","Emotion.Other,Cognition.Other",4
+FALSE,9020041,2007,Jabbi M,NeuroImage,4,"Correlation, Perspective Taking + Disgusted Faces","Emotion.Other,Cognition.Other",16
+FALSE,9020041,2007,Jabbi M,NeuroImage,5,"Correlation, Personal Distress + Pleasant Faces","Emotion.Other,Cognition.Other",9
+TRUE,9020041,2007,Jabbi M,NeuroImage,6,"Correlation, Fantasy + Pleasant Faces","Emotion.Other,Cognition.Other",23
+TRUE,9020041,2007,Jabbi M,NeuroImage,7,"Correlation, Perspective Taking + Pleasant Faces","Emotion.Other,Cognition.Other",18
+FALSE,9020041,2007,Jabbi M,NeuroImage,8,"Correlation, Personal Distress + Neutral Faces","Emotion.Other,Cognition.Other",12
+FALSE,9020041,2007,Jabbi M,NeuroImage,9,"Correlation, Fantasy + Neutral Faces","Emotion.Other,Cognition.Other",16
+FALSE,9020041,2007,Jabbi M,NeuroImage,10,"Correlation, Empathic Concern + Neutral Faces","Emotion.Other,Cognition.Other",2
+TRUE,9020041,2007,Jabbi M,NeuroImage,11,"Correlation, Perspective Taking + Neutral Faces","Emotion.Other,Cognition.Other",15
+FALSE,9020041,2007,Jabbi M,NeuroImage,12,Unpleasant Taste - Neutral Taste + Disgusted Faces - Neutral Faces,"Perception.Gustation,Emotion.Disgust",5
+FALSE,9020041,2007,Jabbi M,NeuroImage,13,Pleasant Taste - Neutral Taste + Pleasant Faces - Neutral Faces,"Emotion.Other,Perception.Gustation",2
+TRUE,9020043,2004,Lanius R A,American Journal of Psychiatry,1,"Script Driven Imagery > Rest, Subjects Without PTSD",Cognition.Memory.Explicit,16
+FALSE,9020043,2004,Lanius R A,American Journal of Psychiatry,2,"Script Driven Imagery > Rest, Subjects With PTSD",Cognition.Memory.Explicit,20
+TRUE,9090097,2008,Bragulat V,Alcoholism: Clinical and Experimental Research,1,Alcoholic Odor > Non Appetitive Odors,"Perception.Olfaction,Pharmacology.Alcohol",11
+FALSE,9090097,2008,Bragulat V,Alcoholism: Clinical and Experimental Research,2,Alcohol Odors > Appetitive Odors,"Perception.Olfaction,Pharmacology.Alcohol",4
+TRUE,9090105,2008,Chandrasekhar P V,NeuroImage,1,Activations in Response to Regret,"Emotion.Other,Cognition.Attention,Perception.Somesthesis.Pain",12
+FALSE,9090105,2008,Chandrasekhar P V,NeuroImage,2,Activations in Response to Rejoice,"Cognition.Attention,Emotion.Other",16
+FALSE,9090105,2008,Chandrasekhar P V,NeuroImage,3,Activations in Response to Regret and Rejoice,"Cognition.Attention,Emotion.Other,Perception.Somesthesis.Pain",14
+FALSE,9090105,2008,Chandrasekhar P V,NeuroImage,4,Regions Activated with the Linear Increase of Probability of Shock in the Anticipation Phase,"Cognition.Attention,Emotion.Other",20
+FALSE,9090127,2008,Koeneke S,Behavioral and Brain Functions,1,Anticipation Effect of Losing Trials (Increasing Linearly with Subjective Preference),"Emotion.Other,Cognition.Other",2
+FALSE,9090127,2008,Koeneke S,Behavioral and Brain Functions,2,Anticipation Effect of Losing Trials (Decreasing Linearly with Subjective Preference),"Emotion.Other,Cognition.Other",7
+FALSE,9090127,2008,Koeneke S,Behavioral and Brain Functions,3,Outcome of Lost Losing Trials (Increasing Linearly with Subjective Preference),"Emotion.Other,Cognition.Other",2
+FALSE,9090127,2008,Koeneke S,Behavioral and Brain Functions,4,Outcome of Lost Losing Trials (Decreasing Linearly with Subjective Preference),"Emotion.Other,Cognition.Other",1
+FALSE,9090127,2008,Koeneke S,Behavioral and Brain Functions,5,Main Effects of the Anticipation Phase of Winning Trials (WA),"Emotion.Other,Cognition.Other",21
+TRUE,9090127,2008,Koeneke S,Behavioral and Brain Functions,6,Main Effect of the Outcome Phase of Won Winning Trials (WOW),"Emotion.Other,Cognition.Other",42
+FALSE,9090127,2008,Koeneke S,Behavioral and Brain Functions,7,"Preference-Dependent Activation during WA, Increasing Linearly with Subjective Preference","Emotion.Other,Cognition.Other",5
+FALSE,9090127,2008,Koeneke S,Behavioral and Brain Functions,8,"Preference-Dependent Activation during WA, Decreasing Linearly with Subjective Preference","Emotion.Other,Cognition.Other",14
+FALSE,9090127,2008,Koeneke S,Behavioral and Brain Functions,9,"Preference-Dependent Activation during WOW, Increasing Linearly with Subjective Preference","Emotion.Other,Cognition.Other",28
+FALSE,10030041,2007,Knutson B,Neuron,1,Product + Price > Fixation,"Cognition.Other,Emotion.Other",14
+FALSE,10030041,2007,Knutson B,Neuron,2,Price > Fixation,"Cognition.Other,Emotion.Other",6
+TRUE,10030041,2007,Knutson B,Neuron,3,Choice > Fixation,"Cognition.Other,Emotion.Other",18
+FALSE,10080169,2008,Hooker C I,Neuropsychologia,1,Fear Learning > Neutral Learning,"Cognition.Other,Emotion.Fear",10
+FALSE,10080169,2008,Hooker C I,Neuropsychologia,2,Negative Object Recognition > Neutral Object Recognition,"Emotion.Other,Cognition.Memory.Explicit",9
+FALSE,10080169,2008,Hooker C I,Neuropsychologia,3,"Fear Learning > Neutral Learning, Positive Correlations with Neuroticism","Cognition.Other,Emotion.Fear",6
+FALSE,10080169,2008,Hooker C I,Neuropsychologia,4,"Negative Object Recognition > Neutral Object Recognition, Positive Correlations with Neuroticism","Emotion.Other,Cognition.Memory.Explicit",8
+FALSE,10080169,2008,Hooker C I,Neuropsychologia,5,"Fear Learning > Neutral Learning, Positive Correlation with Extraversion","Cognition.Other,Emotion.Fear",2
+FALSE,10080169,2008,Hooker C I,Neuropsychologia,6,"Negative Object Recognition > Neutral Object Recognition, Positive Correlation with Extraversion","Emotion.Other,Cognition.Memory.Explicit",10
+FALSE,10080169,2008,Hooker C I,Neuropsychologia,7,"Fear Learning > Neutral Learning, Positive Correlation with Agreeableness","Cognition.Other,Emotion.Fear",13
+FALSE,10080169,2008,Hooker C I,Neuropsychologia,8,"Negative Object Recognition > Neutral Object Recognition, Positive Correlation with Agreeableness","Emotion.Other,Cognition.Memory.Explicit",14
+FALSE,10080169,2008,Hooker C I,Neuropsychologia,9,"Fear Learning > Neutral Learning, Positive Correlation with Conscientiousness","Cognition.Other,Emotion.Fear",2
+FALSE,10080169,2008,Hooker C I,Neuropsychologia,10,"Fear Learning > Neutral Learning, Positive Correlation with Openness","Cognition.Other,Emotion.Fear",2
+TRUE,10080169,2008,Hooker C I,Neuropsychologia,11,Happy Learning > Neutral Learning,"Cognition.Other,Emotion.Happiness",18
+FALSE,10080169,2008,Hooker C I,Neuropsychologia,12,Positive Object Recognition > Neutral Object Recognition,"Emotion.Other,Cognition.Memory.Explicit",11
+FALSE,10080169,2008,Hooker C I,Neuropsychologia,13,"Happy Learning > Neutral Learning, Positive Correlation with Extraversion","Cognition.Other,Emotion.Happiness",1
+FALSE,10080169,2008,Hooker C I,Neuropsychologia,14,"Positive Object Recognition > Neutral Object Recognition, Positive Correlation wtih Extraversion","Emotion.Other,Cognition.Memory.Explicit",4
+FALSE,10080169,2008,Hooker C I,Neuropsychologia,15,"Happy Learning > Neutral Learning, Negative Correlation with Extraversion","Cognition.Other,Emotion.Happiness",11
+FALSE,10080169,2008,Hooker C I,Neuropsychologia,16,"Positive Object Recognition > Neutral Object Recognition, Negative Correlation wtih Extraversion","Emotion.Other,Cognition.Memory.Explicit",19
+FALSE,10080169,2008,Hooker C I,Neuropsychologia,17,"Happy Learning > Neutral Learning, Positive Correlation with Neuroticism","Cognition.Other,Emotion.Happiness",6
+FALSE,10080169,2008,Hooker C I,Neuropsychologia,18,"Positive Object Recognition > Neutral Object Recognition, Positive Correlation with Neuroticism","Emotion.Other,Cognition.Memory.Explicit",2
+FALSE,10080169,2008,Hooker C I,Neuropsychologia,19,"Happy Learning > Neutral Learning, Positive Correlation with Conscientiousness","Cognition.Other,Emotion.Happiness",1
+FALSE,10080169,2008,Hooker C I,Neuropsychologia,20,"Positive Object Recognition > Neutral Object Recognition, Positive Correlation with Conscientiousnes","Emotion.Other,Cognition.Memory.Explicit",2
+FALSE,10080169,2008,Hooker C I,Neuropsychologia,21,"Positive Object Recognition > Neutral Object Recognition, Positive Correlation with Openness","Emotion.Other,Cognition.Memory.Explicit",7
+FALSE,10080201,2007,Schonberg T,Journal of Neuroscience,1,"Prediction Error Correlations in Ventral and Dorsal Striatum, Healthy Learners","Cognition.Other,Emotion.Other",2
+FALSE,10080201,2007,Schonberg T,Journal of Neuroscience,2,Parameter Estimates of Correlation to Learning Criterion,"Cognition.Other,Emotion.Other",2
+TRUE,10080201,2007,Schonberg T,Journal of Neuroscience,3,"Areas Showing Effects Outside of the Striatal ROIs, Learners - Non-Learners","Cognition.Other,Emotion.Other",13
+FALSE,10080201,2007,Schonberg T,Journal of Neuroscience,4,Acitivity in Visual Cortical Areas Related to Trial Onset - Learner & Non-Learners,"Cognition.Other,Emotion.Other",1
+FALSE,11080073,2010,Hartstra E,Neuropsychologia,1,First Phase > Third Phase Contrast,"Cognition.Other,Emotion.Other",17
+FALSE,11080073,2010,Hartstra E,Neuropsychologia,2,Third Phase > First Phase Contrast,"Cognition.Other,Emotion.Other",12
+FALSE,11080073,2010,Hartstra E,Neuropsychologia,3,First Phase > Third Phase (Reward Trials Only),"Cognition.Other,Emotion.Other",20
+TRUE,11080073,2010,Hartstra E,Neuropsychologia,4,Third Phase > First Phase (Reward Trials Only),"Cognition.Other,Emotion.Other",16
+FALSE,11080073,2010,Hartstra E,Neuropsychologia,5,Third Phase > First Phase (Punishment Trials Only),"Cognition.Other,Emotion.Other",8
+FALSE,11080087,2010,Smith D V,Journal of Neuroscience,1,Monetary Rewards (Regardless of Value) > Photographs of Faces,"Cognition.Other,Emotion.Other",6
+FALSE,11080087,2010,Smith D V,Journal of Neuroscience,2,Photographs of Faces (Regardless of Attractiveness) > Monetary Rewards,"Cognition.Other,Emotion.Other",3
+TRUE,11080087,2010,Smith D V,Journal of Neuroscience,3,Sensitivity to Monetary Value: Large Gains (+$5 & +$2) > Large Losses (-$5 & -$2),"Cognition.Other,Emotion.Other",10
+FALSE,11080087,2010,Smith D V,Journal of Neuroscience,4,Increasing Activation with Increasing Monetary Reward Size,"Cognition.Other,Emotion.Other",5
+FALSE,11080087,2010,Smith D V,Journal of Neuroscience,5,Sensitivity to Social Value: Attractive Faces (4-Star) > Unattractive Faces (1-Star),"Cognition.Other,Emotion.Other",11
+FALSE,11080087,2010,Smith D V,Journal of Neuroscience,6,Increasing Activation with Increasing Social Reward Size,"Cognition.Other,Emotion.Other",19
+FALSE,13020018,2011,Zandbelt B B,Biological Psychiatry,1,"Parametric Effect of Stop-Signal Probability on Go-Signal Activation, Schizophrenia Patients","Cognition.Attention,Action.Execution",1
+FALSE,13020018,2011,Zandbelt B B,Biological Psychiatry,2,"Parametric Effect of Stop-Signal Probability on Go-Signal Activation, Schizophrenia Siblings","Cognition.Attention,Action.Execution",18
+FALSE,13020018,2011,Zandbelt B B,Biological Psychiatry,3,"Parametric Effect of Stop-Signal Probability on Go-Signal Activation, Healthy Controls","Cognition.Attention,Action.Execution",86
+FALSE,13020018,2011,Zandbelt B B,Biological Psychiatry,4,"Successful Stop-Signal > Failed Stop-Signal, Schizophrenia Patients","Action.Inhibition,Cognition.Attention",9
+FALSE,13020018,2011,Zandbelt B B,Biological Psychiatry,5,"Failed Stop-Signal > Successful Stop-Signal, Schizophrenia Patients","Action.Inhibition,Cognition.Attention",10
+FALSE,13020018,2011,Zandbelt B B,Biological Psychiatry,6,"Successful Stop-Signal > Failed Stop-Signal, Schizophrenia Siblings","Action.Inhibition,Cognition.Attention",5
+FALSE,13020018,2011,Zandbelt B B,Biological Psychiatry,7,"Failed Stop-Signal > Successful Stop-Signal, Schizophrenia Siblings","Action.Inhibition,Cognition.Attention",3
+FALSE,13020018,2011,Zandbelt B B,Biological Psychiatry,8,"Successful Stop-Signal > Failed Stop-Signal, Healthy Controls","Action.Inhibition,Cognition.Attention",17
+FALSE,13020018,2011,Zandbelt B B,Biological Psychiatry,9,"Failed Stop-Signal > Successful Stop-Signal, Healthy Controls","Action.Inhibition,Cognition.Attention",4
+FALSE,13020018,2011,Zandbelt B B,Biological Psychiatry,10,"Successful Stop-Signal > Go-Signal 0% Stop-Signal Probability, Schizophrenia Patients","Action.Inhibition,Cognition.Attention",48
+FALSE,13020018,2011,Zandbelt B B,Biological Psychiatry,11,"Go-Signal 0% Stop-Signal Probability > Successful Stop-Signal, Schizophrenia Patients","Action.Inhibition,Cognition.Attention",98
+FALSE,13020018,2011,Zandbelt B B,Biological Psychiatry,12,"Successful Stop-Signal > Go-Signal 0% Stop-Signal Probability, Schizophrenia Siblings","Action.Inhibition,Cognition.Attention",81
+FALSE,13020018,2011,Zandbelt B B,Biological Psychiatry,13,"Go-Signal 0% Stop-Signal Probability > Successful Stop-Signal, Schizophrenia Siblings","Action.Inhibition,Cognition.Attention",36
+FALSE,13020018,2011,Zandbelt B B,Biological Psychiatry,14,"Successful Stop-Signal > Go-Signal 0% Stop-Signal Probability, Healthy Controls","Action.Inhibition,Cognition.Attention",66
+TRUE,13020018,2011,Zandbelt B B,Biological Psychiatry,15,"Go-Signal 0% Stop-Signal Probability > Successful Stop-Signal, Healthy Controls","Action.Inhibition,Cognition.Attention",57
+FALSE,14010008,2010,Greimel E,Journal of Neural Transmission,1,"Other > Control, Correlations with Age","Perception.Vision.Shape,Emotion.Other",1
+FALSE,14010008,2010,Greimel E,Journal of Neural Transmission,2,"Self > Control, Correlation with Age","Perception.Vision.Shape,Emotion.Other,Cognition.Social Cognition",1
+FALSE,14010008,2010,Greimel E,Journal of Neural Transmission,3,"Self vs. Other, Correlations with Age","Perception.Vision.Shape,Cognition.Social Cognition,Emotion.Other",1
+TRUE,14010008,2010,Greimel E,Journal of Neural Transmission,4,Other > Control,"Emotion.Other,Perception.Vision.Shape,Cognition.Social Cognition",21
+FALSE,14010008,2010,Greimel E,Journal of Neural Transmission,5,Self > Control,"Cognition.Social Cognition,Emotion.Other,Perception.Vision.Shape",18
+FALSE,14010008,2010,Greimel E,Journal of Neural Transmission,6,Self > Other,"Cognition.Social Cognition,Emotion.Other",8
+FALSE,14010008,2010,Greimel E,Journal of Neural Transmission,7,Other > Self,"Cognition.Social Cognition,Emotion.Other",5
+TRUE,14010021,2007,Nieuwland M S,NeuroImage,1,Referential ambiguity > Referential coherence,"Cognition.Reasoning,Cognition.Language.Semantics",8
+FALSE,14010021,2007,Nieuwland M S,NeuroImage,2,Referential failure > Referential coherence,"Cognition.Reasoning,Cognition.Language.Semantics",6
+FALSE,14010021,2007,Nieuwland M S,NeuroImage,3,Semantic anomaly > Semantic coherence,"Cognition.Reasoning,Cognition.Language.Semantics",4
+TRUE,14010021,2007,Nieuwland M S,NeuroImage,4,Referential ambiguity > Referential failure,"Cognition.Reasoning,Cognition.Language.Semantics",5
+FALSE,14010021,2007,Nieuwland M S,NeuroImage,5,Referential ambiguity < Referential coherence,"Cognition.Reasoning,Cognition.Language.Semantics",5
+FALSE,14010021,2007,Nieuwland M S,NeuroImage,6,Referential failure < Referential coherence,"Cognition.Reasoning,Cognition.Language.Semantics",2
+FALSE,14010021,2007,Nieuwland M S,NeuroImage,7,Semantic anomaly < Semantic coherence,"Cognition.Reasoning,Cognition.Language.Semantics",8
+FALSE,14010021,2007,Nieuwland M S,NeuroImage,8,Referential ambiguity < Referential failure,"Cognition.Reasoning,Cognition.Language.Semantics",2
+TRUE,16030046,2009,Callan A M,Human Brain Mapping,1,Driver Occluded View (DO) > Driver Occluded View with Camera (DOC),"Cognition.Attention,Perception.Vision",18
+FALSE,16030046,2009,Callan A M,Human Brain Mapping,2,DOC > DO,"Cognition.Attention,Perception.Vision",18
+FALSE,16030046,2009,Callan A M,Human Brain Mapping,3,Driver Non-Occluded View with Camera (DNC) > Driver Non-Occluded View (DN),"Cognition.Attention,Perception.Vision",11
+FALSE,16040083,2011,Fan J,NeuroImage,1,All Prime and Target Events in Common,"Cognition.Attention,Emotion.Other",18
+FALSE,16040083,2011,Fan J,NeuroImage,2,All Face Primes,"Cognition.Attention,Emotion.Other",17
+TRUE,16040083,2011,Fan J,NeuroImage,3,Fear Prime,"Cognition.Attention,Emotion.Fear",25
+FALSE,16040083,2011,Fan J,NeuroImage,4,Fear Target,"Cognition.Attention,Emotion.Fear",8
+FALSE,16040083,2011,Fan J,NeuroImage,5,Fearful Targets Primed by Fearful Primes,"Cognition.Attention,Emotion.Fear",13
+FALSE,16040109,2011,Haase L,Appetite,1,"Sucrose > Water, Hunger, Male Healthy Controls",Perception.Gustation,14
+FALSE,16040109,2011,Haase L,Appetite,2,"NaCl > Water, Hunger, Female Healthy Controls",Perception.Gustation,7
+FALSE,16040109,2011,Haase L,Appetite,3,"Caffeine > Water, Hunger, Female Healthy Controls",Perception.Gustation,2
+FALSE,16040109,2011,Haase L,Appetite,4,"Sucrose > Water, Hunger, Female Healthy Controls",Perception.Gustation,9
+FALSE,16040109,2011,Haase L,Appetite,5,"Citric Acid > Water, Hunger, Female Healthy Controls",Perception.Gustation,18
+FALSE,16040109,2011,Haase L,Appetite,6,"Caffeine > Water, Satiety, Male Healthy Controls",Perception.Gustation,8
+FALSE,16040109,2011,Haase L,Appetite,7,"Sucrose > Water, Satiety, Male Healthy Controls",Perception.Gustation,6
+FALSE,16040109,2011,Haase L,Appetite,8,"Citric Acid > Water, Satiety, Male Healthy Controls",Perception.Gustation,6
+FALSE,16040109,2011,Haase L,Appetite,9,"NaCl > Water, Satiety, Female Healthy Controls",Perception.Gustation,1
+FALSE,16040109,2011,Haase L,Appetite,10,"Caffeine > Water, Satiety, Female Healthy Controls",Perception.Gustation,6
+FALSE,16040109,2011,Haase L,Appetite,11,"Sucrose > Water, Satiety, Female Healthy Controls",Perception.Gustation,2
+FALSE,16040109,2011,Haase L,Appetite,12,"Citric Acid < Water, Satiety, Female Healthy Controls",Perception.Gustation,3
+FALSE,16040109,2011,Haase L,Appetite,13,"NaCl > Water, Hunger, Female - Male Healthy Controls",Perception.Gustation,2
+FALSE,16040109,2011,Haase L,Appetite,14,"Citric Acid > Water, Hunger, Female - Male Healthy Controls",Perception.Gustation,11
+FALSE,16040109,2011,Haase L,Appetite,15,"Caffeine > Water, Satiety, Female - Male Healthy Controls",Perception.Gustation,5
+FALSE,16040109,2011,Haase L,Appetite,16,"Sucrose > Water, Satiety, Female - Male Healthy Controls",Perception.Gustation,3
+FALSE,16040109,2011,Haase L,Appetite,17,"Citric Acid > Water, Satiety, Female - Male Healthy Controls",Perception.Gustation,4
+TRUE,16040109,2011,Haase L,Appetite,18,"Caffeine, Hunger > Satiety, Male > Female Healthy Controls",Perception.Gustation,21
+FALSE,16040109,2011,Haase L,Appetite,19,"Caffeine, Hunger > Satiety, Female > Male Healthy Controls",Perception.Gustation,2
+TRUE,16040109,2011,Haase L,Appetite,20,"Citric Acid, Hunger > Satiety, Male > Female Healthy Controls",Perception.Gustation,5
+FALSE,16040109,2011,Haase L,Appetite,21,"Citric Acid, Hunger > Satiety, Female > Male Healthy Controls",Perception.Gustation,8
+FALSE,16040109,2011,Haase L,Appetite,22,"NaCl, Hunger > Satiety, Male > Female Healthy Controls",Perception.Gustation,8
+FALSE,16040109,2011,Haase L,Appetite,23,"NaCl, Hunger > Satiety, Female > Male Healthy Controls",Perception.Gustation,2
+FALSE,16040109,2011,Haase L,Appetite,24,"Sucrose, Hunger > Satiety, Male > Female Healthy Controls",Perception.Gustation,24

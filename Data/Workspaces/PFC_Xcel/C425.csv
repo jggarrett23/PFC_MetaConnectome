@@ -1,0 +1,73 @@
+FALSE,5070120,2003,Astafiev S V,Journal of Neuroscience,1,Attention vs. Fixation,Cognition.Attention,12
+FALSE,5070120,2003,Astafiev S V,Journal of Neuroscience,2,Saccade vs. Fixation,"Perception.Vision.Motion,Action.Execution",10
+FALSE,5070120,2003,Astafiev S V,Journal of Neuroscience,3,Pointing vs. Fixation,Action.Execution,25
+FALSE,5070120,2003,Astafiev S V,Journal of Neuroscience,4,Attention > Saccade,Cognition.Attention,1
+TRUE,5070120,2003,Astafiev S V,Journal of Neuroscience,5,Pointing > Saccade,Action.Execution,10
+FALSE,5070120,2003,Astafiev S V,Journal of Neuroscience,6,Pointing > Attention,Action.Execution,4
+FALSE,5090227,2003,Dreher J C,Cerebral Cortex,1,Task Switching vs. Baseline,Cognition.Attention,14
+TRUE,5090227,2003,Dreher J C,Cerebral Cortex,2,Dual Task vs. Baseline,Cognition.Attention,25
+FALSE,5090227,2003,Dreher J C,Cerebral Cortex,3,Task Switching vs. Dual Task,Cognition.Attention,9
+FALSE,5090227,2003,Dreher J C,Cerebral Cortex,4,Dual Task vs. Task Switching,Cognition.Attention,9
+TRUE,7080222,2000,Nour S,Brain,1,Micturition vs. Rest,Interoception.Gastrointestinal/Genitourinary (GI/GU),35
+TRUE,8080179,1996,Fink G R,Journal of Applied Physiology,1,Volitional Loaded Breathing vs. Passive Ventilation,Interoception.Respiration Regulation,14
+FALSE,8080179,1996,Fink G R,Journal of Applied Physiology,2,Volitional Loaded Breathing vs. Volitional Unloaded Breathing,"Action.Execution,Interoception.Respiration Regulation",6
+TRUE,8080191,1993,Ramsay S C,Journal of Physiology,1,Active Inspiration vs. Passive Inspiration,Interoception.Respiration Regulation,5
+FALSE,8080191,1993,Ramsay S C,Journal of Physiology,2,Active Expiration vs. Passive Expiration,Interoception.Respiration Regulation,9
+TRUE,9090105,2008,Chandrasekhar P V,NeuroImage,1,Activations in Response to Regret,"Emotion.Other,Cognition.Attention,Perception.Somesthesis.Pain",12
+FALSE,9090105,2008,Chandrasekhar P V,NeuroImage,2,Activations in Response to Rejoice,"Cognition.Attention,Emotion.Other",16
+FALSE,9090105,2008,Chandrasekhar P V,NeuroImage,3,Activations in Response to Regret and Rejoice,"Cognition.Attention,Emotion.Other,Perception.Somesthesis.Pain",14
+FALSE,9090105,2008,Chandrasekhar P V,NeuroImage,4,Regions Activated with the Linear Increase of Probability of Shock in the Anticipation Phase,"Cognition.Attention,Emotion.Other",20
+TRUE,9090152,2008,Seseke S,NeuroImage,1,"Activation During Relaxation and Contraction, Males","Interoception.Gastrointestinal/Genitourinary (GI/GU),Action.Execution",20
+FALSE,9090152,2008,Seseke S,NeuroImage,2,"Relax > Contract, Males",Interoception.Gastrointestinal/Genitourinary (GI/GU),5
+FALSE,9090152,2008,Seseke S,NeuroImage,3,"Contract > Relax, Males","Action.Execution,Interoception.Gastrointestinal/Genitourinary (GI/GU)",15
+FALSE,9090152,2008,Seseke S,NeuroImage,4,"Activation During Relaxation and Contraction, Males> Females","Action.Execution,Interoception.Gastrointestinal/Genitourinary (GI/GU)",10
+FALSE,9090152,2008,Seseke S,NeuroImage,5,"Activation During Relaxation and Contraction, Females > Males","Action.Execution,Interoception.Gastrointestinal/Genitourinary (GI/GU)",2
+TRUE,10030087,2008,Helmchen C,Human Brain Mapping,1,Thermal Pain > Laser Pain,Perception.Somesthesis.Pain,15
+FALSE,10030087,2008,Helmchen C,Human Brain Mapping,2,Thermal Pain = Laser Pain,Perception.Somesthesis.Pain,71
+FALSE,12020001,2008,Berlingeri M,Cognitive Neuropsychology,1,Noun vs. Baseline (GCST),"Cognition.Language.Speech,Cognition.Language.Semantics",28
+FALSE,12020001,2008,Berlingeri M,Cognitive Neuropsychology,2,Verb vs. Baseline (GCST),"Cognition.Language.Speech,Cognition.Language.Semantics",30
+FALSE,12020001,2008,Berlingeri M,Cognitive Neuropsychology,3,Nouns vs. Verbs (GCST),"Cognition.Language.Speech,Cognition.Language.Semantics",9
+TRUE,12020001,2008,Berlingeri M,Cognitive Neuropsychology,4,Verbs vs. Noun (GCST),"Cognition.Language.Speech,Cognition.Language.Semantics",18
+FALSE,12020001,2008,Berlingeri M,Cognitive Neuropsychology,5,Noun vs. Baseline (PNT),"Cognition.Language.Speech,Cognition.Language.Semantics",8
+FALSE,12020001,2008,Berlingeri M,Cognitive Neuropsychology,6,Verbs vs. Baseline (PNT),"Cognition.Language.Speech,Cognition.Language.Semantics",26
+FALSE,12020001,2008,Berlingeri M,Cognitive Neuropsychology,7,Verbs vs. Noun (PNT),"Cognition.Language.Speech,Cognition.Language.Semantics",14
+FALSE,12020001,2008,Berlingeri M,Cognitive Neuropsychology,8,Verb vs. Noun (PNT + GCST) (Inclusive Mask of Baseline),"Cognition.Language.Speech,Cognition.Language.Semantics",22
+FALSE,12020001,2008,Berlingeri M,Cognitive Neuropsychology,9,Verbs vs. Noun (PNT) + Nouns vs. Verb (GCST) (Inclusive Mask of Baseline),"Cognition.Language.Speech,Cognition.Language.Semantics",15
+FALSE,13020018,2011,Zandbelt B B,Biological Psychiatry,1,"Parametric Effect of Stop-Signal Probability on Go-Signal Activation, Schizophrenia Patients","Cognition.Attention,Action.Execution",1
+FALSE,13020018,2011,Zandbelt B B,Biological Psychiatry,2,"Parametric Effect of Stop-Signal Probability on Go-Signal Activation, Schizophrenia Siblings","Cognition.Attention,Action.Execution",18
+TRUE,13020018,2011,Zandbelt B B,Biological Psychiatry,3,"Parametric Effect of Stop-Signal Probability on Go-Signal Activation, Healthy Controls","Cognition.Attention,Action.Execution",86
+FALSE,13020018,2011,Zandbelt B B,Biological Psychiatry,4,"Successful Stop-Signal > Failed Stop-Signal, Schizophrenia Patients","Action.Inhibition,Cognition.Attention",9
+FALSE,13020018,2011,Zandbelt B B,Biological Psychiatry,5,"Failed Stop-Signal > Successful Stop-Signal, Schizophrenia Patients","Action.Inhibition,Cognition.Attention",10
+FALSE,13020018,2011,Zandbelt B B,Biological Psychiatry,6,"Successful Stop-Signal > Failed Stop-Signal, Schizophrenia Siblings","Action.Inhibition,Cognition.Attention",5
+FALSE,13020018,2011,Zandbelt B B,Biological Psychiatry,7,"Failed Stop-Signal > Successful Stop-Signal, Schizophrenia Siblings","Action.Inhibition,Cognition.Attention",3
+FALSE,13020018,2011,Zandbelt B B,Biological Psychiatry,8,"Successful Stop-Signal > Failed Stop-Signal, Healthy Controls","Action.Inhibition,Cognition.Attention",17
+FALSE,13020018,2011,Zandbelt B B,Biological Psychiatry,9,"Failed Stop-Signal > Successful Stop-Signal, Healthy Controls","Action.Inhibition,Cognition.Attention",4
+FALSE,13020018,2011,Zandbelt B B,Biological Psychiatry,10,"Successful Stop-Signal > Go-Signal 0% Stop-Signal Probability, Schizophrenia Patients","Action.Inhibition,Cognition.Attention",48
+FALSE,13020018,2011,Zandbelt B B,Biological Psychiatry,11,"Go-Signal 0% Stop-Signal Probability > Successful Stop-Signal, Schizophrenia Patients","Action.Inhibition,Cognition.Attention",98
+FALSE,13020018,2011,Zandbelt B B,Biological Psychiatry,12,"Successful Stop-Signal > Go-Signal 0% Stop-Signal Probability, Schizophrenia Siblings","Action.Inhibition,Cognition.Attention",81
+FALSE,13020018,2011,Zandbelt B B,Biological Psychiatry,13,"Go-Signal 0% Stop-Signal Probability > Successful Stop-Signal, Schizophrenia Siblings","Action.Inhibition,Cognition.Attention",36
+FALSE,13020018,2011,Zandbelt B B,Biological Psychiatry,14,"Successful Stop-Signal > Go-Signal 0% Stop-Signal Probability, Healthy Controls","Action.Inhibition,Cognition.Attention",66
+FALSE,13020018,2011,Zandbelt B B,Biological Psychiatry,15,"Go-Signal 0% Stop-Signal Probability > Successful Stop-Signal, Healthy Controls","Action.Inhibition,Cognition.Attention",57
+FALSE,13060047,2002,Luft A R,Human Brain Mapping,1,Extension/flexion of right knee vs rest,Action.Execution,8
+TRUE,13060047,2002,Luft A R,Human Brain Mapping,2,Extension/flexion of left knee vs rest,Action.Execution,8
+FALSE,13060047,2002,Luft A R,Human Brain Mapping,3,Flexion/extension of right elbow vs rest,Action.Execution,8
+FALSE,13060047,2002,Luft A R,Human Brain Mapping,4,Flexion/extension of left elbow vs rest,Action.Execution,8
+FALSE,13060047,2002,Luft A R,Human Brain Mapping,5,Sequential thumb-finger opposition of right hand vs rest,Action.Execution,9
+FALSE,13060047,2002,Luft A R,Human Brain Mapping,6,Sequential thumb-finger opposition of left hand vs rest,Action.Execution,9
+FALSE,13060047,2002,Luft A R,Human Brain Mapping,7,Passive extension/flexion of right knee vs rest,Action.Execution,3
+FALSE,13060047,2002,Luft A R,Human Brain Mapping,8,Passive extension/flexion of left knee vs rest,Action.Execution,6
+FALSE,14100237,2007,Scheibel R S,Neurorehabilitation and Neural Repair,1,"Incompatible minus Compatible, Traumatic Brain Injury Patients",Cognition.Attention,18
+FALSE,14100237,2007,Scheibel R S,Neurorehabilitation and Neural Repair,2,"Incompatible minus Compatible, Traumatic Brain Injury > Orthopedic Injury Patients",Cognition.Attention,9
+TRUE,14100237,2007,Scheibel R S,Neurorehabilitation and Neural Repair,3,"Positive Correlation between Accuracy and (Incompatible - Compatible Activation), Orthopedic Injury",Cognition.Attention,6
+FALSE,14100237,2007,Scheibel R S,Neurorehabilitation and Neural Repair,4,"Positive Correlation between Accuracy and (Incompatible - Compatible Activation), OI > TBI Patients",Cognition.Attention,17
+FALSE,14100237,2007,Scheibel R S,Neurorehabilitation and Neural Repair,5,"Negative Correlation between GCS and (Incompatible - Compatible Activation), TBI Patients",Cognition.Attention,6
+TRUE,15110167,2014,Loggia M L,Arthritis & Rheumatism,1,Healthy Controls: Pain Anticipation,Perception.Vision.Color,39
+FALSE,15110167,2014,Loggia M L,Arthritis & Rheumatism,2,FM Patients: Pain Anticipation,Perception.Vision.Color,39
+FALSE,15110167,2014,Loggia M L,Arthritis & Rheumatism,3,Healthy Controls > FM Patients: Pain Anticipation,Perception.Vision.Color,16
+FALSE,15110167,2014,Loggia M L,Arthritis & Rheumatism,4,Healthy Controls: Pain,Perception.Somesthesis.Pain,24
+FALSE,15110167,2014,Loggia M L,Arthritis & Rheumatism,5,FM Patients: Pain,Perception.Somesthesis.Pain,29
+FALSE,15110167,2014,Loggia M L,Arthritis & Rheumatism,6,Healthy Controls: Pain,Perception.Somesthesis.Pain,9
+FALSE,15110167,2014,Loggia M L,Arthritis & Rheumatism,7,FM Patients: Pain,Perception.Somesthesis.Pain,4
+FALSE,15110167,2014,Loggia M L,Arthritis & Rheumatism,8,Healthy Controls: Relief Anticipation,Perception.Vision.Color,30
+FALSE,15110167,2014,Loggia M L,Arthritis & Rheumatism,9,FM Patients: Relief Anticipation,Perception.Vision.Color,16
+FALSE,15110167,2014,Loggia M L,Arthritis & Rheumatism,10,Healthy Controls > FM Patients: Relief Anticipation,Perception.Vision.Color,9

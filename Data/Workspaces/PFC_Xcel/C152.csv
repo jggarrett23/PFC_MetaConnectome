@@ -1,0 +1,199 @@
+FALSE,30064,2002,Sevostianov A,Human Brain Mapping,1,Pictures > Words,Cognition.Memory.Working,8
+FALSE,30064,2002,Sevostianov A,Human Brain Mapping,2,Words > Pictures,Cognition.Memory.Working,4
+TRUE,30064,2002,Sevostianov A,Human Brain Mapping,3,Mixed > (Pictures and Words),Cognition.Memory.Working,8
+FALSE,30164,1999,Poldrack R A,NeuroImage,1,Semantic > Case,Cognition.Language.Semantics,19
+FALSE,30164,1999,Poldrack R A,NeuroImage,2,Case > Semantic,Cognition.Language.Orthography,3
+FALSE,30164,1999,Poldrack R A,NeuroImage,3,Phonological > Case,Cognition.Language.Phonology,7
+FALSE,30164,1999,Poldrack R A,NeuroImage,4,Case > Phonological,Cognition.Language.Orthography,6
+FALSE,30164,1999,Poldrack R A,NeuroImage,5,Semantic > Phonological,Cognition.Language.Semantics,6
+FALSE,30164,1999,Poldrack R A,NeuroImage,6,Phonological > Semantic,Cognition.Language.Phonology,12
+FALSE,30164,1999,Poldrack R A,NeuroImage,7,Pseudoword Phonological > Case,Cognition.Language.Phonology,14
+FALSE,30164,1999,Poldrack R A,NeuroImage,8,Case > Pseudoword Phonological,Cognition.Language.Orthography,8
+FALSE,30164,1999,Poldrack R A,NeuroImage,9,Semantic > Phonological (Double Subtraction),Cognition.Language.Semantics,16
+FALSE,30164,1999,Poldrack R A,NeuroImage,10,Phonological > Semantic (Double Subtraction),Cognition.Language.Phonology,3
+TRUE,30164,1999,Poldrack R A,NeuroImage,11,Semantic > Pseudoword Phonological (Double Subtraction),Cognition.Language.Semantics,18
+FALSE,30164,1999,Poldrack R A,NeuroImage,12,Pseudoword Phonological > Semantic (Double Subtraction),Cognition.Language.Phonology,10
+TRUE,30351,1996,Kawashima R,Brain Research,1,Response Selection - Control,"Cognition.Attention,Action.Execution",40
+FALSE,30351,1996,Kawashima R,Brain Research,2,Go/NoGo Task - Control Task,"Cognition.Attention,Action.Inhibition",39
+FALSE,30367,1997,Beauregard M,Journal of Cognitive Neuroscience,1,Random Letters - Baseline,Cognition.Language.Orthography,18
+FALSE,30367,1997,Beauregard M,Journal of Cognitive Neuroscience,2,Baseline - Random Letters,Cognition.Language.Orthography,8
+FALSE,30367,1997,Beauregard M,Journal of Cognitive Neuroscience,3,Concrete Words - Baseline,Cognition.Language.Orthography,17
+FALSE,30367,1997,Beauregard M,Journal of Cognitive Neuroscience,4,Baseline - Concrete Words,Cognition.Language.Orthography,11
+FALSE,30367,1997,Beauregard M,Journal of Cognitive Neuroscience,5,Abstract Words - Baseline,Cognition.Language.Orthography,14
+FALSE,30367,1997,Beauregard M,Journal of Cognitive Neuroscience,6,Baseline - Abstract Words,Cognition.Language.Orthography,13
+TRUE,30367,1997,Beauregard M,Journal of Cognitive Neuroscience,7,Emotional Words - Baseline,"Emotion.Other,Cognition.Language.Orthography",22
+FALSE,30367,1997,Beauregard M,Journal of Cognitive Neuroscience,8,Baseline - Emotional Words,"Emotion.Other,Cognition.Language.Orthography",18
+FALSE,30367,1997,Beauregard M,Journal of Cognitive Neuroscience,9,Emotional Words - Concrete Words,"Emotion.Other,Cognition.Language.Semantics,Cognition.Language.Orthography",10
+FALSE,30367,1997,Beauregard M,Journal of Cognitive Neuroscience,10,Random-Letter Instructions - Baseline,"Cognition.Attention,Action.Preparation",3
+FALSE,30367,1997,Beauregard M,Journal of Cognitive Neuroscience,11,Baseline - Random-Letters Instructions,"Cognition.Attention,Action.Preparation",2
+FALSE,30367,1997,Beauregard M,Journal of Cognitive Neuroscience,12,Word Instructions - Baseline,"Cognition.Attention,Action.Preparation",3
+FALSE,30367,1997,Beauregard M,Journal of Cognitive Neuroscience,13,Baseline - Word Instructions,"Cognition.Attention,Action.Preparation",5
+FALSE,30367,1997,Beauregard M,Journal of Cognitive Neuroscience,14,Concrete Words - Word Instructions,Cognition.Language.Orthography,11
+FALSE,30367,1997,Beauregard M,Journal of Cognitive Neuroscience,15,Word Instructions - Concrete Words,"Action.Preparation,Cognition.Attention",6
+FALSE,30367,1997,Beauregard M,Journal of Cognitive Neuroscience,16,Abstract Words - Word Instructions,Cognition.Language.Orthography,9
+FALSE,30367,1997,Beauregard M,Journal of Cognitive Neuroscience,17,Word Instructions - Abstract Words,"Action.Preparation,Cognition.Attention",9
+FALSE,30367,1997,Beauregard M,Journal of Cognitive Neuroscience,18,Emotional Words - Word Instructions,"Emotion.Other,Cognition.Language.Orthography",20
+FALSE,30367,1997,Beauregard M,Journal of Cognitive Neuroscience,19,Word Instructions - Emotional Words,"Action.Preparation,Cognition.Attention",12
+FALSE,30375,1998,Carlson S,Cerebral Cortex,1,Two-Back vs. Zero-Back,Cognition.Memory.Working,28
+FALSE,30375,1998,Carlson S,Cerebral Cortex,2,One-Back vs. Zero-Back,Cognition.Memory.Working,17
+TRUE,30375,1998,Carlson S,Cerebral Cortex,3,Two-Back vs. One-Back,Cognition.Memory.Working,26
+FALSE,30425,1998,Casey B J,NeuroImage,1,"Memory - Motor, Pooled Data",Cognition.Memory.Working,11
+FALSE,30425,1998,Casey B J,NeuroImage,2,"Motor - Rest, Pooled Data",Action.Execution,11
+FALSE,30425,1998,Casey B J,NeuroImage,3,"Visual - Rest, Pooled Data",Perception.Vision,5
+FALSE,30425,1998,Casey B J,NeuroImage,4,"Memory - Motor, Boston Site",Cognition.Memory.Working,13
+FALSE,30425,1998,Casey B J,NeuroImage,5,"Memory - Motor, Madison Site",Cognition.Memory.Working,6
+FALSE,30425,1998,Casey B J,NeuroImage,6,"Memory - Motor, Minnesota Site",Cognition.Memory.Working,22
+TRUE,30425,1998,Casey B J,NeuroImage,7,"Memory - Motor, Pittsburgh Site",Cognition.Memory.Working,21
+FALSE,30425,1998,Casey B J,NeuroImage,8,"Motor - Visual, Boston Site",Action.Execution,11
+FALSE,30425,1998,Casey B J,NeuroImage,9,"Motor - Visual, Madison Site",Action.Execution,7
+FALSE,30425,1998,Casey B J,NeuroImage,10,"Motor - Visual, Minnesota Site",Action.Execution,12
+FALSE,30425,1998,Casey B J,NeuroImage,11,"Motor - Visual, Pittsburgh Site",Action.Execution,29
+FALSE,30425,1998,Casey B J,NeuroImage,12,"Visual - Rest, Boston Site",Perception.Vision,3
+FALSE,30425,1998,Casey B J,NeuroImage,13,"Visual - Rest, Pittsburgh Site",Perception.Vision,7
+FALSE,4020011,1994,Price C J,Brain,1,"Reading - Feature, 150",Cognition.Language.Speech,12
+TRUE,4020011,1994,Price C J,Brain,2,"Reading - Feature, 1000",Cognition.Language.Speech,3
+FALSE,4020011,1994,Price C J,Brain,3,"Reading - Feature, 150 + 1000",Cognition.Language.Speech,10
+FALSE,4020011,1994,Price C J,Brain,4,"Lexical - Feature, 150",Cognition.Language.Semantics,8
+FALSE,4020011,1994,Price C J,Brain,5,"Lexical - Feature, 1000",Cognition.Language.Semantics,6
+FALSE,4020011,1994,Price C J,Brain,6,"Lexical - Feature, 150 + 1000",Cognition.Language.Semantics,9
+FALSE,4020011,1994,Price C J,Brain,7,"Lexical - Reading, 150",Cognition.Language.Semantics,3
+FALSE,4020011,1994,Price C J,Brain,8,"Lexical - Reading, 1000",Cognition.Language.Semantics,5
+FALSE,4020011,1994,Price C J,Brain,9,"Reading - Lexical, 150",Cognition.Language.Speech,4
+FALSE,4020011,1994,Price C J,Brain,10,"Word Viewing - False Font Viewing, 150","Cognition.Language.Semantics,Cognition.Language.Speech",16
+TRUE,4020011,1994,Price C J,Brain,11,"Word Viewing - False Font Viewing, 981","Cognition.Language.Semantics,Cognition.Language.Speech",11
+TRUE,4020011,1994,Price C J,Brain,12,"Word Viewing - False Font Viewing, 150 + 981","Cognition.Language.Semantics,Cognition.Language.Speech",19
+TRUE,5080193,2000,Stanescu-Cosson R,Brain,1,All Calculation vs. Letter Matching,Cognition.Other,16
+FALSE,5080193,2000,Stanescu-Cosson R,Brain,2,Small Numbers vs. Letter Matching,Cognition.Other,7
+FALSE,5080193,2000,Stanescu-Cosson R,Brain,3,Exact Calculation > Approximation,Cognition.Other,12
+FALSE,5080193,2000,Stanescu-Cosson R,Brain,4,Approximation > Exact Calculation,Cognition.Other,20
+FALSE,5080193,2000,Stanescu-Cosson R,Brain,5,Problem Size Effect During Exact Calculation,Cognition.Other,14
+FALSE,7050125,2007,Gu X,NeuroImage,1,Rating Painful Pictures vs. Counting Neutral Pictures,Perception.Somesthesis.Pain,6
+FALSE,7050125,2007,Gu X,NeuroImage,2,Rating Painful Cartoons vs. Counting Neutral Cartoons,Perception.Somesthesis.Pain,7
+FALSE,7050125,2007,Gu X,NeuroImage,3,Rating vs. Counting Painful Pictures,Perception.Somesthesis.Pain,5
+TRUE,7050125,2007,Gu X,NeuroImage,4,Rating vs. Counting Painful Cartoons,Perception.Somesthesis.Pain,4
+TRUE,7110324,2005,Johnson-Frey S H,Cerebral Cortex,1,"Tool, No Go, Right > Move, No Go, Right","Action.Inhibition,Cognition.Attention",26
+FALSE,7110324,2005,Johnson-Frey S H,Cerebral Cortex,2,"Tool, Go, Right > Tool, No Go, Right","Action.Execution,Cognition.Attention",7
+FALSE,7110324,2005,Johnson-Frey S H,Cerebral Cortex,3,"Tool, No Go, Left > Move, No Go, Left","Action.Inhibition,Cognition.Attention",13
+FALSE,7110324,2005,Johnson-Frey S H,Cerebral Cortex,4,"Tool, Go, Left > Tool, No Go, Left","Action.Execution,Cognition.Attention",13
+FALSE,7110324,2005,Johnson-Frey S H,Cerebral Cortex,5,"(Tool, No Go, Right > Move, No Go, Right) + (Tool, No Go, Left > Move, No Go, Left)","Action.Inhibition,Cognition.Attention",15
+FALSE,7110325,2007,Kensinger E A,Neuropsychologia,1,"Overall Recognition, Neutral + Negative","Cognition.Memory.Explicit,Emotion.Other",23
+FALSE,7110325,2007,Kensinger E A,Neuropsychologia,2,"Overall Recognition, Negative","Cognition.Memory.Explicit,Emotion.Other",19
+TRUE,7110325,2007,Kensinger E A,Neuropsychologia,3,"Overall Recognition, Neutral",Cognition.Memory.Explicit,25
+FALSE,7110325,2007,Kensinger E A,Neuropsychologia,4,"Successful Recognition, Negative","Cognition.Memory.Explicit,Emotion.Other",30
+FALSE,7110325,2007,Kensinger E A,Neuropsychologia,5,"False Recognition, Negative","Cognition.Memory.Explicit,Emotion.Other",1
+FALSE,7110325,2007,Kensinger E A,Neuropsychologia,6,"Successful Recognition + False Recognition, Neutral",Cognition.Memory.Explicit,16
+FALSE,7110325,2007,Kensinger E A,Neuropsychologia,7,"Successful Recognition, Neutral",Cognition.Memory.Explicit,16
+FALSE,7110325,2007,Kensinger E A,Neuropsychologia,8,"False Recognition, Neutral",Cognition.Memory.Explicit,14
+FALSE,7110325,2007,Kensinger E A,Neuropsychologia,9,"Visually Specific Recognition, Negative + Neutral","Cognition.Memory.Explicit,Emotion.Other",1
+FALSE,7110325,2007,Kensinger E A,Neuropsychologia,10,"Visually Specific Recognition, Negative","Cognition.Memory.Explicit,Emotion.Other",12
+FALSE,7110325,2007,Kensinger E A,Neuropsychologia,11,"Visually Specific Recognition, Neutral",Cognition.Memory.Explicit,1
+FALSE,7110353,2005,Phan K L,Academic Radiology,1,Lie > Truth,"Cognition.Social Cognition,Emotion.Other",11
+TRUE,7110353,2005,Phan K L,Academic Radiology,2,Lie > Recognition,"Cognition.Social Cognition,Emotion.Other",8
+TRUE,8040104,2008,Iaria G,Human Brain Mapping,1,Emotional Processing - Orientation Discrimination,Emotion.Other,15
+FALSE,8040104,2008,Iaria G,Human Brain Mapping,2,"Orientation Discrimination, Positive and Negative - Orientation Discrimination, Neutral",Emotion.Other,6
+TRUE,8050123,2003,Dobbins I G,Neuropsychologia,1,Source > Recency,Cognition.Memory.Explicit,25
+FALSE,8050123,2003,Dobbins I G,Neuropsychologia,2,Recency > Source,Cognition.Memory.Explicit,18
+FALSE,8050123,2003,Dobbins I G,Neuropsychologia,3,"Source, Hit > Source, Miss",Cognition.Memory.Explicit,24
+FALSE,8050123,2003,Dobbins I G,Neuropsychologia,4,"Source, Miss > Source, Hit",Cognition.Memory.Explicit,9
+FALSE,8050123,2003,Dobbins I G,Neuropsychologia,5,"Recency, Hit > Recency, Miss",Cognition.Memory.Explicit,3
+FALSE,8050123,2003,Dobbins I G,Neuropsychologia,6,"Recency, Miss > Recency, Hit",Cognition.Memory.Explicit,6
+TRUE,8060165,2005,Woodruff C C,Neuropsychologia,1,Old/New Effects Common to Remembering Words and Pictures,Cognition.Memory.Explicit,15
+FALSE,8060165,2005,Woodruff C C,Neuropsychologia,2,Words > Pictures,Cognition.Memory.Explicit,4
+FALSE,8060165,2005,Woodruff C C,Neuropsychologia,3,Pictures > Words,Cognition.Memory.Explicit,10
+FALSE,9010021,2006,Vollm B A,NeuroImage,1,Theory of Mind Strip vs. Physical Causality 1 Strip,"Emotion.Other,Cognition.Social Cognition",13
+TRUE,9010021,2006,Vollm B A,NeuroImage,2,Empathy Strip vs. Physical Causality 2 Strip,"Emotion.Other,Cognition.Social Cognition",9
+FALSE,9010021,2006,Vollm B A,NeuroImage,3,Conjunction Analysis of Theory of Mind Strip and Empathy Strip,"Emotion.Other,Cognition.Social Cognition",15
+FALSE,9010021,2006,Vollm B A,NeuroImage,4,(ToM Strip - Physical Causality 1 Strip) vs. (Empathy Strip vs. Physical Causality 2 Strip),"Emotion.Other,Cognition.Social Cognition",4
+FALSE,9010021,2006,Vollm B A,NeuroImage,5,(Empathy Strip - Physical Causality 2 Strip) vs. (ToM Strip - Physical Causality 1 Strip),"Emotion.Other,Cognition.Social Cognition",5
+TRUE,9010027,2007,Winston J S,Neuropsychologia,1,Attractiveness Judgment > Age Judgment,"Perception.Vision,Emotion.Other",16
+FALSE,9010027,2007,Winston J S,Neuropsychologia,2,Age Judgment > Attractiveness Judgment,"Perception.Vision,Emotion.Other",2
+FALSE,9010027,2007,Winston J S,Neuropsychologia,3,Task x Attractiveness Interaction,"Perception.Vision,Emotion.Other",1
+FALSE,9010027,2007,Winston J S,Neuropsychologia,4,High Attractiveness + Low Attractiveness > Medium Attractiveness,"Perception.Vision,Emotion.Other",3
+FALSE,9090105,2008,Chandrasekhar P V,NeuroImage,1,Activations in Response to Regret,"Emotion.Other,Cognition.Attention,Perception.Somesthesis.Pain",12
+TRUE,9090105,2008,Chandrasekhar P V,NeuroImage,2,Activations in Response to Rejoice,"Cognition.Attention,Emotion.Other",16
+FALSE,9090105,2008,Chandrasekhar P V,NeuroImage,3,Activations in Response to Regret and Rejoice,"Cognition.Attention,Emotion.Other,Perception.Somesthesis.Pain",14
+FALSE,9090105,2008,Chandrasekhar P V,NeuroImage,4,Regions Activated with the Linear Increase of Probability of Shock in the Anticipation Phase,"Cognition.Attention,Emotion.Other",20
+TRUE,9090115,2006,Harenski C L,NeuroImage,1,"Watch, Moral > Number Discrimination","Emotion.Other,Cognition.Social Cognition",7
+TRUE,9090115,2006,Harenski C L,NeuroImage,2,"Watch, Non-moral > Number Discrimination",Emotion.Other,5
+FALSE,9090115,2006,Harenski C L,NeuroImage,3,"Watch, Moral > Watch, Non-moral","Emotion.Other,Cognition.Social Cognition",2
+FALSE,9090115,2006,Harenski C L,NeuroImage,4,"Watch, Non-moral > Watch, Moral",Emotion.Other,1
+TRUE,9090115,2006,Harenski C L,NeuroImage,5,"Decrease, Moral > Number Discrimination","Action.Inhibition,Emotion.Other,Cognition.Social Cognition",12
+FALSE,9090115,2006,Harenski C L,NeuroImage,6,"Decrease, Non-moral > Number Discrimination","Action.Inhibition,Emotion.Other",10
+FALSE,9090115,2006,Harenski C L,NeuroImage,7,"Decrease, Moral > Watch, Moral","Action.Inhibition,Cognition.Social Cognition,Emotion.Other",7
+FALSE,9090115,2006,Harenski C L,NeuroImage,8,"Decrease, Moral > Decrease, Non-moral","Action.Inhibition,Emotion.Other,Cognition.Social Cognition",13
+FALSE,9090115,2006,Harenski C L,NeuroImage,9,"Decrease, Non-moral > Decrease, Moral","Action.Inhibition,Emotion.Other",1
+FALSE,9090169,2009,Xu L,Brain Research,1,Loss > Gain,"Cognition.Other,Emotion.Other",22
+TRUE,9090169,2009,Xu L,Brain Research,2,Gain > Fixation,"Cognition.Other,Emotion.Other",19
+FALSE,9090169,2009,Xu L,Brain Research,3,"Immediate Reward > Delayed Reward, Gain","Cognition.Other,Emotion.Other",12
+FALSE,9090169,2009,Xu L,Brain Research,4,Loss > Fixation,"Cognition.Other,Emotion.Other",18
+FALSE,9090169,2009,Xu L,Brain Research,5,"Immediate Loss > Delayed Loss, Loss","Cognition.Other,Emotion.Other",21
+FALSE,9100175,2001,Gusnard D A,Proceedings of the National Academy of Sciences,1,Internally Cued Condition (ICC) > Fixation,Emotion.Other,1
+FALSE,9100175,2001,Gusnard D A,Proceedings of the National Academy of Sciences,2,Externally Cued Condition (ECC) > Fixation,Cognition.Other,1
+TRUE,9100175,2001,Gusnard D A,Proceedings of the National Academy of Sciences,3,Internally Cued Condition (ICC) > Externally Cued Condition (ECC),Emotion.Other,6
+FALSE,9100175,2001,Gusnard D A,Proceedings of the National Academy of Sciences,4,Fixation > Internally Cued Condition (ICC),Emotion.Other,5
+FALSE,9100175,2001,Gusnard D A,Proceedings of the National Academy of Sciences,5,Fixation > Externally Cued Condition (ECC),Cognition.Other,5
+TRUE,9110181,2004,Ochsner K N,Journal of Cognitive Neuroscience,1,Self Judgment > In-Out,"Emotion.Other,Cognition.Social Cognition",26
+FALSE,9110181,2004,Ochsner K N,Journal of Cognitive Neuroscience,2,Other Judgment > In-Out,"Emotion.Other,Cognition.Social Cognition",12
+TRUE,9110181,2004,Ochsner K N,Journal of Cognitive Neuroscience,3,Self Judgment + Other Judgment > In-Out,"Emotion.Other,Cognition.Social Cognition",15
+FALSE,9110181,2004,Ochsner K N,Journal of Cognitive Neuroscience,4,Self Judgment > Other Judgment,"Emotion.Other,Cognition.Social Cognition",3
+FALSE,9110181,2004,Ochsner K N,Journal of Cognitive Neuroscience,5,Other Judgment > Self Judgment,"Emotion.Other,Cognition.Social Cognition",4
+FALSE,10030018,2008,Bokde A L W,Psychiatry Research,1,"Face Matching vs. Attention, Healthy Controls",Perception.Vision.Shape,10
+FALSE,10030018,2008,Bokde A L W,Psychiatry Research,2,"Location Matching vs. Attention, Healthy Controls","Perception.Vision,Cognition.Space",10
+FALSE,10030018,2008,Bokde A L W,Psychiatry Research,3,"Face Matching vs. Attention, MCI Patients",Perception.Vision.Shape,10
+FALSE,10030018,2008,Bokde A L W,Psychiatry Research,4,"Location Matching vs. Attention, MCI Patients","Cognition.Space,Perception.Vision",13
+TRUE,10030018,2008,Bokde A L W,Psychiatry Research,5,"Face Matching vs. Location Matching, Healthy Controls",Perception.Vision.Shape,30
+FALSE,10030018,2008,Bokde A L W,Psychiatry Research,6,"Location Matching vs. Face Matching, Healthy Controls","Perception.Vision,Cognition.Space",6
+FALSE,10030018,2008,Bokde A L W,Psychiatry Research,7,"MCI Patients > Healthy Controls, Location Matching","Perception.Vision,Cognition.Space",16
+FALSE,10080207,2008,Tanaka S C,Journal of Neuroscience,1,Contrast of High vs. Low Objective Contingency,"Cognition.Other,Emotion.Other",3
+TRUE,10080207,2008,Tanaka S C,Journal of Neuroscience,2,Contrast of Sessions with High vs. Low Causality Judgments,"Cognition.Other,Emotion.Other",6
+TRUE,10100221,1999,Elliott R,Neuropsychologia,1,Guessing vs. Reporting (Suit + Color),"Cognition.Other,Emotion.Other",19
+FALSE,10100221,1999,Elliott R,Neuropsychologia,2,Activations Associated with Increasing Task Difficulty - Suit vs. Color,"Cognition.Other,Emotion.Other",1
+FALSE,10100221,1999,Elliott R,Neuropsychologia,3,Modulation of Guessing by Task Difficulty - Suit vs. Color,"Cognition.Other,Emotion.Other",3
+FALSE,10100221,1999,Elliott R,Neuropsychologia,4,Activations Associated with Difficulty in Context of Prediction - Suit vs. Color,"Cognition.Other,Emotion.Other",3
+TRUE,11030034,2008,Cohen M X,NeuroImage,1,Reward > Loss (p,"Cognition.Other,Emotion.Other,Cognition.Attention,Cognition.Reasoning",47
+FALSE,11030034,2008,Cohen M X,NeuroImage,2,Reward > Loss (FWE p < .05),"Cognition.Other,Emotion.Other,Cognition.Attention,Cognition.Reasoning",4
+FALSE,11030034,2008,Cohen M X,NeuroImage,3,Loss > Reward,"Cognition.Other,Emotion.Other,Cognition.Attention,Cognition.Reasoning",10
+FALSE,11030034,2008,Cohen M X,NeuroImage,4,Loss Switch > Loss Stay,"Cognition.Other,Emotion.Other,Cognition.Attention,Cognition.Reasoning",5
+FALSE,11030034,2008,Cohen M X,NeuroImage,5,Loss Stay > Loss Switch,"Cognition.Other,Emotion.Other,Cognition.Attention,Cognition.Reasoning",3
+FALSE,12040037,2010,Frank S,Brain Research,1,High-Calorie > Low-Calorie,"Cognition.Memory.Working,Cognition.Attention",9
+FALSE,12040037,2010,Frank S,Brain Research,2,"High-Calorie, Hungry > High-Calorie, Satiated, Healthy Control Women","Cognition.Memory.Working,Cognition.Attention",6
+FALSE,12040037,2010,Frank S,Brain Research,3,Main Effect Task: 1-Back > Control,Cognition.Memory.Working,6
+TRUE,12040037,2010,Frank S,Brain Research,4,Main Effect Food: Food > Non-Food,"Cognition.Memory.Working,Cognition.Attention",9
+FALSE,12040037,2010,Frank S,Brain Research,5,High-Calorie > Non-Food,"Cognition.Memory.Working,Cognition.Attention",12
+FALSE,12040037,2010,Frank S,Brain Research,6,Low-Calorie > Non-Food,Cognition.Memory.Working,9
+FALSE,12100079,2004,Wright P,Neuroreport,1,Fear > Neutral,Emotion.Fear,3
+FALSE,12100079,2004,Wright P,Neuroreport,2,Neutral > Fear,Emotion.Fear,1
+FALSE,12100079,2004,Wright P,Neuroreport,3,Contamination > Neutral,Emotion.Disgust,4
+TRUE,12100079,2004,Wright P,Neuroreport,4,Mutilation > Neutral,Emotion.Disgust,18
+FALSE,12100079,2004,Wright P,Neuroreport,5,Neutral > Mutilation,Emotion.Disgust,1
+FALSE,13020012,2010,Pavuluri M N,Journal of Clinical Psychiatry,1,"Stop vs. Go, Adolescent Bipolar Disorder Patients > Healthy Controls, Baseline","Action.Inhibition,Cognition.Attention",4
+FALSE,13020012,2010,Pavuluri M N,Journal of Clinical Psychiatry,2,"Stop vs. Go, Healthy Controls > Adolescent Bipolar Disorder Patients, Baseline","Action.Inhibition,Cognition.Attention",4
+FALSE,13020012,2010,Pavuluri M N,Journal of Clinical Psychiatry,3,"Stop vs. Go, Adolescent Bipolar Disorder Patients > Healthy Controls, Follow-Up","Action.Inhibition,Cognition.Attention",1
+FALSE,13020012,2010,Pavuluri M N,Journal of Clinical Psychiatry,4,"Stop vs. Go, Healthy Controls > Adolescent Bipolar Disorder Patients, Follow-Up","Action.Inhibition,Cognition.Attention",4
+FALSE,13020012,2010,Pavuluri M N,Journal of Clinical Psychiatry,5,"Stop vs. Go, Adolescent Bipolar Disorder Patients > Healthy Controls, Follow-Up > Baseline","Pharmacology.Psychiatric Medications.Antipsychotics,Action.Inhibition,Cognition.Attention",6
+FALSE,13020012,2010,Pavuluri M N,Journal of Clinical Psychiatry,6,"Stop vs. Go, Healthy Controls > Adolescent Bipolar Disorder Patients, Follow-Up > Baseline","Pharmacology.Psychiatric Medications.Antipsychotics,Action.Inhibition,Cognition.Attention",3
+FALSE,13020012,2010,Pavuluri M N,Journal of Clinical Psychiatry,7,"Stop vs. Go, Adolescent Bipolar Disorder Patients, Follow-Up > Baseline","Pharmacology.Psychiatric Medications.Antipsychotics,Action.Inhibition,Cognition.Attention",10
+TRUE,13020012,2010,Pavuluri M N,Journal of Clinical Psychiatry,8,"Stop vs. Go, Healthy Controls, Baseline > Follow-Up","Action.Inhibition,Cognition.Attention",3
+FALSE,13020012,2010,Pavuluri M N,Journal of Clinical Psychiatry,9,"Stop vs. Go, Healthy Controls, Follow-Up > Baseline","Action.Inhibition,Cognition.Attention",6
+FALSE,14010002,2012,Contreras J M,Social Cognitive and Affective Neuroscience,1,Categorical Knowledge (Non-Social > Social),"Cognition.Language.Semantics,Cognition.Social Cognition",8
+FALSE,14010002,2012,Contreras J M,Social Cognitive and Affective Neuroscience,2,Feature Verification (Object > Person),"Cognition.Language.Semantics,Cognition.Social Cognition",2
+TRUE,14010002,2012,Contreras J M,Social Cognitive and Affective Neuroscience,3,Categorical Knowledge (Social > Non-Social),"Cognition.Language.Semantics,Cognition.Social Cognition",10
+FALSE,14010002,2012,Contreras J M,Social Cognitive and Affective Neuroscience,4,Feature Verification (Person > Object),"Cognition.Language.Semantics,Cognition.Social Cognition",9
+TRUE,14050079,2012,Uchiyama H,Cortex,1,Metaphor effect [(Mc-Cm)+(Mi-Im)],Cognition.Language.Semantics,11
+FALSE,14050079,2012,Uchiyama H,Cortex,2,Metaphor-specific effect [(Mc-Cm)+(Mi-Im)]-[(Sc-Cs)-(Si-Is)],Cognition.Language.Semantics,2
+FALSE,14050079,2012,Uchiyama H,Cortex,3,Sarcasm effect [(Sc-Cs)+(Si-Is)],Cognition.Language.Semantics,6
+FALSE,14050079,2012,Uchiyama H,Cortex,4,Coherence effect [(Mc-Cm)-(Mi-Im)]+[(Sc-Cs)-(Si-Is)],Cognition.Language.Semantics,2
+FALSE,14050079,2012,Uchiyama H,Cortex,5,Sarcasm and metaphor effects by the conjunction analysis,Cognition.Language.Semantics,3
+TRUE,14120250,2010,Castelli I,Neuropsychologia,1,EYES > BASELINE young,Cognition.Social Cognition,18
+FALSE,14120250,2010,Castelli I,Neuropsychologia,2,YOUNG > OLD eye condition,Cognition.Social Cognition,4
+FALSE,14120250,2010,Castelli I,Neuropsychologia,3,EYES > BASELINE old,Cognition.Social Cognition,19
+FALSE,14120250,2010,Castelli I,Neuropsychologia,4,OLD > YOUNG eye condition,Cognition.Social Cognition,6
+FALSE,14120250,2010,Castelli I,Neuropsychologia,5,MR Strange Stories old,Cognition.Social Cognition,4
+FALSE,14120250,2010,Castelli I,Neuropsychologia,6,MR Strange Stories young,Cognition.Social Cognition,1
+FALSE,14120250,2010,Castelli I,Neuropsychologia,7,MR Say-prediction test old,Cognition.Social Cognition,1
+FALSE,14120250,2010,Castelli I,Neuropsychologia,8,MR Say-prediction test young,Cognition.Social Cognition,5
+FALSE,16040086,2006,Foerde K,Proceedings of the National Academy of Sciences,1,"ST correct > DT correct, Probe trials",Cognition.Memory.Working,18
+TRUE,16040086,2006,Foerde K,Proceedings of the National Academy of Sciences,2,"ST > DT, Training trials","Cognition.Memory.Working,Perception.Audition",6
+FALSE,16040086,2006,Foerde K,Proceedings of the National Academy of Sciences,3,"DT > ST, Training trials","Cognition.Memory.Working,Perception.Audition",36
+FALSE,16040086,2006,Foerde K,Proceedings of the National Academy of Sciences,4,"Bold activity vs. Accuracy, Probe task",Cognition.Memory.Working,2
+FALSE,16040086,2006,Foerde K,Proceedings of the National Academy of Sciences,5,"Bold activity vs. Declarative knowledge, Probe task",Cognition.Memory.Working,2

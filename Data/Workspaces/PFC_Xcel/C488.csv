@@ -1,0 +1,360 @@
+TRUE,30005,1998,Beauregard M,Neuroreport,1,Subliminal Incidental Encoding - Baseline,Cognition.Memory.Explicit,4
+FALSE,30005,1998,Beauregard M,Neuroreport,2,Primed - Unprimed Semantic Category Decision,"Cognition.Language.Semantics,Cognition.Memory.Explicit",2
+FALSE,30005,1998,Beauregard M,Neuroreport,3,Unprimed Semantic Category Decision - Baseline,Cognition.Language.Semantics,10
+TRUE,30016,2001,Desmurget M,Journal of Neuroscience,1,Overall hand-reaching effect,"Action.Execution,Perception.Vision.Motion",17
+FALSE,30016,2001,Desmurget M,Journal of Neuroscience,2,Strict hand-reaching effect,Action.Execution,14
+FALSE,30016,2001,Desmurget M,Journal of Neuroscience,3,Eye error correction effect,"Perception.Vision.Motion,Action.Execution",3
+FALSE,30020,2000,Ehrsson H H,European Journal of Neuroscience,1,Foot vs. Rest,Action.Execution,9
+TRUE,30020,2000,Ehrsson H H,European Journal of Neuroscience,2,Hand vs. Rest,Action.Execution,14
+FALSE,30020,2000,Ehrsson H H,European Journal of Neuroscience,3,Simultaneous vs. Rest,Action.Execution,17
+FALSE,30020,2000,Ehrsson H H,European Journal of Neuroscience,4,Hand vs. Foot,Action.Execution,5
+FALSE,30020,2000,Ehrsson H H,European Journal of Neuroscience,5,Foot vs. Hand,Action.Execution,4
+TRUE,30020,2000,Ehrsson H H,European Journal of Neuroscience,6,Conjunction Analysis,Action.Execution,13
+FALSE,30020,2000,Ehrsson H H,European Journal of Neuroscience,7,{(Hand - Rest) + (Foot - Rest)} - (Simultaneous - Rest),Action.Execution,3
+FALSE,30029,2001,Herath P,Cerebral Cortex,1,Visual - Control,Perception.Vision,11
+TRUE,30029,2001,Herath P,Cerebral Cortex,2,Somatosensory - Control,Perception.Somesthesis,4
+FALSE,30029,2001,Herath P,Cerebral Cortex,3,Dual-Short ISI - Control,"Perception.Somesthesis,Perception.Vision",9
+FALSE,30029,2001,Herath P,Cerebral Cortex,4,Dual-Long ISI - Control,"Perception.Somesthesis,Perception.Vision",5
+FALSE,30029,2001,Herath P,Cerebral Cortex,5,Dual Task - Single Tasks,"Perception.Somesthesis,Perception.Vision",9
+FALSE,30029,2001,Herath P,Cerebral Cortex,6,Dual Short ISI - Long ISI,"Perception.Somesthesis,Perception.Vision",2
+FALSE,30048,1999,Naito E,Journal of Neuroscience,1,(LOW + ILLUSION + HIGH) vs. REST,Perception.Somesthesis,4
+TRUE,30048,1999,Naito E,Journal of Neuroscience,2,ILLUSION vs. REST,Perception.Somesthesis,3
+FALSE,30048,1999,Naito E,Journal of Neuroscience,3,(LOW + HIGH) vs. REST,Perception.Somesthesis,2
+TRUE,30072,1998,Turner R S,Journal of Neurophysiology,1,Movement Related Activations,"Action.Execution,Perception.Vision.Motion",15
+FALSE,30072,1998,Turner R S,Journal of Neurophysiology,2,Rate-Related Activations,"Perception.Vision.Motion,Action.Execution",8
+FALSE,30074,2000,Wheeler M E,Proceedings of the National Academy of Sciences,1,Picture Recall > Sound Recall,"Cognition.Memory.Explicit,Perception.Vision.Shape",13
+TRUE,30074,2000,Wheeler M E,Proceedings of the National Academy of Sciences,2,Sound Recall > Picture Recall,"Cognition.Memory.Explicit,Perception.Audition",9
+FALSE,30074,2000,Wheeler M E,Proceedings of the National Academy of Sciences,3,Picture Recall - Fixation,"Cognition.Memory.Explicit,Perception.Vision.Shape",3
+FALSE,30074,2000,Wheeler M E,Proceedings of the National Academy of Sciences,4,Sound Recall - Fixation,"Cognition.Memory.Explicit,Perception.Audition",1
+FALSE,30103,2002,Simon O,Neuron,1,Calculation vs. Calculation Control,Cognition.Other,23
+FALSE,30103,2002,Simon O,Neuron,2,Language vs. Language Control,Cognition.Language.Phonology,7
+FALSE,30103,2002,Simon O,Neuron,3,Saccades vs. Saccades Control,"Perception.Vision.Motion,Action.Execution",17
+FALSE,30103,2002,Simon O,Neuron,4,Grasping vs. Grasping Control,Action.Execution,16
+TRUE,30103,2002,Simon O,Neuron,5,Pointing vs. Pointing Control,Action.Execution,16
+FALSE,30103,2002,Simon O,Neuron,6,Attention vs. Attention Control,Cognition.Attention,12
+FALSE,30103,2002,Simon O,Neuron,7,Calculation Only,Cognition.Other,1
+FALSE,30103,2002,Simon O,Neuron,8,Grasping Only,Action.Execution,6
+FALSE,30103,2002,Simon O,Neuron,9,Saccades Only,"Perception.Vision.Motion,Action.Execution",5
+FALSE,30103,2002,Simon O,Neuron,10,Attention Only,Cognition.Attention,1
+FALSE,30103,2002,Simon O,Neuron,11,Manual Tasks Only (Grasping and Pointing),Action.Execution,3
+FALSE,30103,2002,Simon O,Neuron,12,Visuospatial Tasks,"Action.Execution,Cognition.Attention,Perception.Vision.Motion",2
+FALSE,30103,2002,Simon O,Neuron,13,"Calculation, Saccades, and Language","Perception.Vision.Motion,Cognition.Language.Phonology,Cognition.Other,Action.Execution",1
+TRUE,30117,2002,Bunge S A,NeuroImage,1,Incongruent vs. Neutral,Cognition.Attention,27
+FALSE,30143,1999,Joliot M,NeuroImage,1,PET,Action.Execution,11
+FALSE,30143,1999,Joliot M,NeuroImage,2,fMRI-Average,Action.Execution,16
+TRUE,30143,1999,Joliot M,NeuroImage,3,fMRI-Correlation,Action.Execution,20
+TRUE,30187,1997,Winstein C J,Journal of Neurophysiology,1,Movement-Related Brain Areas During Reciprocal Aiming,Action.Execution,19
+TRUE,30193,1998,Ellermann J M,Journal of Magnetic Resonance,1,Composite Functional Maps,"Cognition.Attention,Perception.Vision.Motion,Perception.Vision,Action.Execution",50
+TRUE,30254,2000,Carey L M,NeuroImage,1,Initial Scan: Right Hand Finger Tapping - Rest,Action.Execution,3
+FALSE,30254,2000,Carey L M,NeuroImage,2,Six-Month Scan: Right Hand Finger Tapping - Rest,Action.Execution,3
+FALSE,30257,1999,Hagoort P,Journal of Cognitive Neuroscience,1,Silent Words - Fixation,Cognition.Language.Orthography,7
+FALSE,30257,1999,Hagoort P,Journal of Cognitive Neuroscience,2,Silent Pseudowords - Fixation,Cognition.Language.Orthography,9
+FALSE,30257,1999,Hagoort P,Journal of Cognitive Neuroscience,3,Aloud - Silent Words,Action.Execution.Speech,17
+FALSE,30257,1999,Hagoort P,Journal of Cognitive Neuroscience,4,Aloud - Silent Pseudowords,Action.Execution.Speech,13
+FALSE,30257,1999,Hagoort P,Journal of Cognitive Neuroscience,5,Silent - Aloud Words,Action.Execution.Speech,11
+FALSE,30257,1999,Hagoort P,Journal of Cognitive Neuroscience,6,Silent - Aloud Pseudowords,Action.Execution.Speech,10
+FALSE,30257,1999,Hagoort P,Journal of Cognitive Neuroscience,7,Pseudowords - Words,Cognition.Language.Semantics,9
+TRUE,30257,1999,Hagoort P,Journal of Cognitive Neuroscience,8,Words - Pseudowords,Cognition.Language.Semantics,8
+FALSE,30300,2002,Umetsu A,NeuroImage,1,R-FP vs. Control,Action.Execution,3
+TRUE,30300,2002,Umetsu A,NeuroImage,2,L-FP vs. Control,Action.Execution,6
+FALSE,30300,2002,Umetsu A,NeuroImage,3,R-FEP vs. Control,Action.Execution,8
+FALSE,30300,2002,Umetsu A,NeuroImage,4,L-FEP vs. Control,Action.Execution,13
+TRUE,30351,1996,Kawashima R,Brain Research,1,Response Selection - Control,"Cognition.Attention,Action.Execution",40
+TRUE,30351,1996,Kawashima R,Brain Research,2,Go/NoGo Task - Control Task,"Cognition.Attention,Action.Inhibition",39
+FALSE,30395,2000,Liotti M,Biological Psychiatry,1,Sadness > Neutral,Emotion.Sadness,7
+FALSE,30395,2000,Liotti M,Biological Psychiatry,2,Neutral > Sadness,Emotion.Sadness,7
+TRUE,30395,2000,Liotti M,Biological Psychiatry,3,Anxiety > Neutral,Emotion.Anxiety,13
+FALSE,30395,2000,Liotti M,Biological Psychiatry,4,Neutral > Anxiety,Emotion.Anxiety,8
+TRUE,4020006,1992,Grafton S T,Journal of Neuroscience,1,Pursuit vs. Control,Action.Execution,11
+FALSE,4020006,1992,Grafton S T,Journal of Neuroscience,2,Pursuit Learning,Action.Motor Learning,3
+FALSE,5040033,2004,Ibinson J W,Anesthesiology,1,Tingling vs. Rest,Perception.Somesthesis,4
+FALSE,5040033,2004,Ibinson J W,Anesthesiology,2,Pain vs. Rest,Perception.Somesthesis.Pain,7
+TRUE,5040033,2004,Ibinson J W,Anesthesiology,3,Pain vs. Tingling (Main Effect),Perception.Somesthesis.Pain,6
+TRUE,5070091,2004,Lerner A,NeuroImage,1,"Tapping - Rest, Normals",Action.Execution,9
+FALSE,5070091,2004,Lerner A,NeuroImage,2,"Tapping - Rest, Patients",Action.Execution,6
+FALSE,5070091,2004,Lerner A,NeuroImage,3,"Writing - Rest, Normals",Action.Execution,4
+FALSE,5070091,2004,Lerner A,NeuroImage,4,"Writing - Rest, Patients",Action.Execution,7
+FALSE,5070091,2004,Lerner A,NeuroImage,5,"Tapping: Patients - Normals, Increases",Action.Execution,1
+FALSE,5070091,2004,Lerner A,NeuroImage,6,"Tapping: Patients - Normals, Decreases",Action.Execution,1
+FALSE,5070091,2004,Lerner A,NeuroImage,7,"Writing: Patients - Normals, Increases",Action.Execution,2
+FALSE,5070091,2004,Lerner A,NeuroImage,8,"Writing: Patients - Normals, Decreases",Action.Execution,1
+TRUE,5070133,1998,Dejardin S,European Journal of Neuroscience,1,Saccades vs. Rest,"Perception.Vision.Motion,Action.Execution",12
+FALSE,5070168,1999,Petit L,Journal of Neurophysiology,1,"Pursuit vs. Control, S1",Perception.Vision.Motion,8
+TRUE,5070168,1999,Petit L,Journal of Neurophysiology,2,"Pursuit vs. Control, S2",Perception.Vision.Motion,8
+FALSE,5070168,1999,Petit L,Journal of Neurophysiology,3,"Pursuit vs. Control, S3",Perception.Vision.Motion,8
+TRUE,5070168,1999,Petit L,Journal of Neurophysiology,4,"Pursuit vs. Control, S4",Perception.Vision.Motion,5
+FALSE,5070168,1999,Petit L,Journal of Neurophysiology,5,"Pursuit vs. Control, S5",Perception.Vision.Motion,8
+FALSE,5070168,1999,Petit L,Journal of Neurophysiology,6,"Saccades vs. Control, S1","Perception.Vision.Motion,Action.Execution",8
+FALSE,5070168,1999,Petit L,Journal of Neurophysiology,7,"Saccades vs. Control, S2","Perception.Vision.Motion,Action.Execution",8
+FALSE,5070168,1999,Petit L,Journal of Neurophysiology,8,"Saccades vs. Control, S3","Perception.Vision.Motion,Action.Execution",8
+FALSE,5070168,1999,Petit L,Journal of Neurophysiology,9,"Saccades vs. Control, S4","Perception.Vision.Motion,Action.Execution",8
+FALSE,5070168,1999,Petit L,Journal of Neurophysiology,10,"Saccades vs. Control, S5","Perception.Vision.Motion,Action.Execution",8
+TRUE,5070168,1999,Petit L,Journal of Neurophysiology,11,"Pursuit vs. Control, Mean",Perception.Vision.Motion,8
+FALSE,5070168,1999,Petit L,Journal of Neurophysiology,12,"Saccades vs. Control, Mean","Perception.Vision.Motion,Action.Execution",8
+FALSE,5090231,2002,Gagnon D,Brain,1,CPT > Fixation,"Perception.Vision.Motion,Action.Execution",15
+FALSE,5090231,2002,Gagnon D,Brain,2,DPT > Fixation,"Perception.Vision.Motion,Action.Execution",14
+FALSE,5090231,2002,Gagnon D,Brain,3,TPT > Fixation,"Perception.Vision.Motion,Action.Execution",12
+FALSE,5090231,2002,Gagnon D,Brain,4,SCT > Fixation,"Perception.Vision.Motion,Action.Execution",10
+TRUE,5090231,2002,Gagnon D,Brain,5,CPT > SCT,"Perception.Vision.Motion,Action.Execution",3
+FALSE,5090231,2002,Gagnon D,Brain,6,TPT > SCT,"Perception.Vision.Motion,Action.Execution",5
+FALSE,5090231,2002,Gagnon D,Brain,7,DPT > SCT,"Perception.Vision.Motion,Action.Execution",2
+TRUE,5090241,2002,Rushworth M F,Journal of Neurophysiology,1,"Switch - Stay, RS, Increases",Cognition.Attention,4
+FALSE,5090241,2002,Rushworth M F,Journal of Neurophysiology,2,"Switch - Stay, VS, Increases",Cognition.Attention,2
+FALSE,5090241,2002,Rushworth M F,Journal of Neurophysiology,3,"Switch - Stay, RS, Decreases",Cognition.Attention,5
+FALSE,5090241,2002,Rushworth M F,Journal of Neurophysiology,4,"Switch - Stay, VS, Decreases",Cognition.Attention,4
+FALSE,5120249,2000,Kiehl K A,Psychophysiology,1,"Task 1, Errors of Commission","Action.Inhibition,Cognition.Attention",4
+TRUE,5120249,2000,Kiehl K A,Psychophysiology,2,"Task 1, Correct Rejects","Action.Inhibition,Cognition.Attention",8
+FALSE,5120249,2000,Kiehl K A,Psychophysiology,3,"Task 1, Errors of Commission vs. Correct Rejects","Action.Inhibition,Cognition.Attention",2
+FALSE,5120249,2000,Kiehl K A,Psychophysiology,4,"Task 2, Correct Hits","Action.Inhibition,Cognition.Attention",12
+FALSE,6080115,2005,Caldwell J A,Behavioral Neuroscience,1,"Significant Activations in SWMT, Pilots",Cognition.Memory.Working,11
+TRUE,6080115,2005,Caldwell J A,Behavioral Neuroscience,2,"Significant Activations in SWMT, Fatigue-Resistant Non-Pilots",Cognition.Memory.Working,9
+FALSE,6080115,2005,Caldwell J A,Behavioral Neuroscience,3,"Significant Activations in SWMT, Fatigue-Vulnerable Non-Pilots",Cognition.Memory.Working,9
+FALSE,6080122,2003,Kumari V,Biological Psychiatry,1,"Negative > Reference Picture-Caption Pairs, Controls",Cognition.Language.Semantics,9
+FALSE,6080122,2003,Kumari V,Biological Psychiatry,2,"Reference > Negative Picture-Caption Pairs, Controls",Cognition.Language.Semantics,4
+FALSE,6080122,2003,Kumari V,Biological Psychiatry,3,"Positive > Reference Picture-Caption Pairs, Controls",Cognition.Language.Semantics,3
+FALSE,6080122,2003,Kumari V,Biological Psychiatry,4,"Reference > Positive Picture-Caption Pairs, Controls",Cognition.Language.Semantics,4
+FALSE,6080122,2003,Kumari V,Biological Psychiatry,5,"Negative > Reference Picture-Caption Pairs, Depressed",Cognition.Language.Semantics,7
+FALSE,6080122,2003,Kumari V,Biological Psychiatry,6,"Reference > Negative Picture-Caption Pairs, Depressed",Cognition.Language.Semantics,10
+FALSE,6080122,2003,Kumari V,Biological Psychiatry,7,"Positive > Reference Picture-Caption Pairs, Depressed",Cognition.Language.Semantics,16
+FALSE,6080122,2003,Kumari V,Biological Psychiatry,8,"Reference > Positive Picture-Caption Pairs, Depressed",Cognition.Language.Semantics,11
+FALSE,6080122,2003,Kumari V,Biological Psychiatry,9,"Negative > Positive Picture-Caption Pairs, Controls",Cognition.Language.Semantics,19
+TRUE,6080122,2003,Kumari V,Biological Psychiatry,10,"Positive > Negative Picture-Caption Pairs, Controls",Cognition.Language.Semantics,28
+FALSE,6080122,2003,Kumari V,Biological Psychiatry,11,"Negative > Positive Picture-Caption Pairs, Depressed",Cognition.Language.Semantics,14
+FALSE,6080122,2003,Kumari V,Biological Psychiatry,12,"Positive > Negative Picture-Caption Pairs, Depressed",Cognition.Language.Semantics,16
+FALSE,6080122,2003,Kumari V,Biological Psychiatry,13,"Negative > Reference Picture-Caption Pairs, Controls > Patients",Cognition.Language.Semantics,4
+FALSE,6080122,2003,Kumari V,Biological Psychiatry,14,"Negative > Reference Picture-Caption Pairs, Patients > Controls",Cognition.Language.Semantics,4
+FALSE,6080122,2003,Kumari V,Biological Psychiatry,15,"Positive > Reference Picture-Caption Pairs, Controls > Patients",Cognition.Language.Semantics,4
+FALSE,6080122,2003,Kumari V,Biological Psychiatry,16,"Positive > Reference Picture-Caption Pairs, Patients > Controls",Cognition.Language.Semantics,5
+FALSE,6080122,2003,Kumari V,Biological Psychiatry,17,"Positive > Negative Picture-Caption Pairs, Controls > Patients",Cognition.Language.Semantics,4
+FALSE,6080122,2003,Kumari V,Biological Psychiatry,18,"Positive > Negative Picture-Caption Pairs, Patients > Controls",Cognition.Language.Semantics,5
+FALSE,6080126,2004,Mendrek A,British Journal of Psychiatry,1,"2-Back > 0-Back, Pilot Study",Cognition.Memory.Working,6
+FALSE,6080126,2004,Mendrek A,British Journal of Psychiatry,2,"0-Back > 2-Back, Pilot Study",Cognition.Memory.Working,2
+FALSE,6080126,2004,Mendrek A,British Journal of Psychiatry,3,"2-Back vs. 0-Back, Controls, Pre-Treatment",Cognition.Memory.Working,8
+FALSE,6080126,2004,Mendrek A,British Journal of Psychiatry,4,"0-Back vs. Rest, Controls, Pre-Treatment",Cognition.Attention,2
+FALSE,6080126,2004,Mendrek A,British Journal of Psychiatry,5,"2-Back vs. 0-Back, Controls, Post-Treatment",Cognition.Memory.Working,8
+TRUE,6080126,2004,Mendrek A,British Journal of Psychiatry,6,"0-Back vs. Rest, Controls, Post-Treatment",Cognition.Attention,2
+FALSE,6080126,2004,Mendrek A,British Journal of Psychiatry,7,"2-Back vs. 0-Back, Schizophrenics, Pre-Treatment",Cognition.Memory.Working,5
+FALSE,6080126,2004,Mendrek A,British Journal of Psychiatry,8,"0-Back vs. Rest, Schizophrenics, Pre-Treatment",Cognition.Attention,5
+FALSE,6080126,2004,Mendrek A,British Journal of Psychiatry,9,"2-Back vs. 0-Back, Schizophrenics, Post-Treatment","Cognition.Memory.Working,Pharmacology.Psychiatric Medications.Antipsychotics",7
+FALSE,6080126,2004,Mendrek A,British Journal of Psychiatry,10,"0-Back vs. Rest, Schizophrenics, Post-Treatment","Cognition.Attention,Pharmacology.Psychiatric Medications.Antipsychotics",2
+FALSE,6080126,2004,Mendrek A,British Journal of Psychiatry,11,"2-Back vs. 0-Back, Controls > Schizophrenics, Pre-Treatment",Cognition.Memory.Working,7
+FALSE,6080126,2004,Mendrek A,British Journal of Psychiatry,12,"0-Back vs. Rest, Schizophrenics > Controls, Pre-Treatment",Cognition.Attention,5
+FALSE,6080126,2004,Mendrek A,British Journal of Psychiatry,13,"2-Back vs. 0-Back, Controls > Schizophrenics, Post-Treatment","Cognition.Memory.Working,Pharmacology.Psychiatric Medications.Antipsychotics",3
+FALSE,6080126,2004,Mendrek A,British Journal of Psychiatry,14,"0-Back vs. Rest, Schizophrenics > Controls, Post-Treatment","Cognition.Attention,Pharmacology.Psychiatric Medications.Antipsychotics",1
+FALSE,6080126,2004,Mendrek A,British Journal of Psychiatry,15,"Post-Treatment > Pre-Treatment, 2-Back vs. 0-Back, Schizophrenics","Cognition.Memory.Working,Pharmacology.Psychiatric Medications.Antipsychotics",4
+FALSE,6080126,2004,Mendrek A,British Journal of Psychiatry,16,"Pre-Treatment vs. Post-Treatment, 0-Back vs. Rest, Schizophrenics","Cognition.Attention,Pharmacology.Psychiatric Medications.Antipsychotics",3
+TRUE,6080137,2005,Mu Q,Sleep,1,"Sternberg > Control, Normal Sleep State",Cognition.Memory.Working,6
+FALSE,6080137,2005,Mu Q,Sleep,2,"Sternberg > Control, Sleep Deprived State",Cognition.Memory.Working,5
+FALSE,6080137,2005,Mu Q,Sleep,3,Normal Sleep State > Sleep Deprived State,Cognition.Memory.Working,8
+TRUE,6080137,2005,Mu Q,Sleep,4,"Sternberg Load 1 > Control, Normal Sleep State",Cognition.Memory.Working,7
+FALSE,6080137,2005,Mu Q,Sleep,5,"Sternberg Load 1 > Control, Sleep Deprived State",Cognition.Memory.Working,2
+FALSE,6080137,2005,Mu Q,Sleep,6,"Normal Sleep State > Sleep Deprived State, Sternberg Load 1",Cognition.Memory.Working,1
+TRUE,6080137,2005,Mu Q,Sleep,7,"Sternberg Load 3 > Control, Normal Sleep State",Cognition.Memory.Working,5
+FALSE,6080137,2005,Mu Q,Sleep,8,"Sternberg Load 3 > Control, Sleep Deprived State",Cognition.Memory.Working,1
+FALSE,6080137,2005,Mu Q,Sleep,9,"Normal Sleep State > Sleep Deprived State, Sternberg Load 3",Cognition.Memory.Working,4
+FALSE,6080137,2005,Mu Q,Sleep,10,"Sternberg Load 6 > Control, Normal Sleep State",Cognition.Memory.Working,6
+FALSE,6080137,2005,Mu Q,Sleep,11,"Sternberg Load 6 > Control, Sleep Deprived State",Cognition.Memory.Working,5
+FALSE,6080137,2005,Mu Q,Sleep,12,"Normal Sleep State > Sleep Deprived State, Sternberg Load 6",Cognition.Memory.Working,9
+FALSE,6080142,2005,Volle E,Cerebral Cortex,1,"MemG Delay One, 1 Square vs. Fixation",Cognition.Memory.Working,2
+FALSE,6080142,2005,Volle E,Cerebral Cortex,2,"MemG Delay One, 3 Square vs. 1 Square",Cognition.Memory.Working,7
+FALSE,6080142,2005,Volle E,Cerebral Cortex,3,"MemG Delay One, 5 Square vs. 3 Square",Cognition.Memory.Working,11
+TRUE,6080142,2005,Volle E,Cerebral Cortex,4,MemG Delay Two vs. MemG Delay One,Cognition.Memory.Working,17
+FALSE,6080142,2005,Volle E,Cerebral Cortex,5,MemG Delay Two vs. VisG Delay Two,Cognition.Memory.Working,2
+FALSE,7020069,2007,Basho S,Neuropsychologia,1,Overall Effects for Category-Driven Word Generation,"Cognition.Language.Semantics,Cognition.Language.Speech,Action.Execution.Speech",6
+FALSE,7020069,2007,Basho S,Neuropsychologia,2,Factor-Specific Effects for Paced,"Cognition.Language.Semantics,Cognition.Language.Speech,Action.Execution.Speech",7
+FALSE,7020069,2007,Basho S,Neuropsychologia,3,Factor-Specific Effects for Unpaced,"Cognition.Language.Semantics,Cognition.Language.Speech,Action.Execution.Speech",1
+FALSE,7020069,2007,Basho S,Neuropsychologia,4,Factor-Specific Effects for Overt,"Cognition.Language.Semantics,Cognition.Language.Speech,Action.Execution.Speech",2
+FALSE,7020069,2007,Basho S,Neuropsychologia,5,Factor-Specific Effects for Covert,"Cognition.Language.Semantics,Cognition.Language.Speech",3
+FALSE,7020069,2007,Basho S,Neuropsychologia,6,Paced > Unpaced,"Cognition.Language.Semantics,Cognition.Language.Speech,Action.Execution.Speech",11
+TRUE,7020069,2007,Basho S,Neuropsychologia,7,Covert > Overt,"Cognition.Language.Semantics,Cognition.Language.Speech",8
+FALSE,7050132,2006,Rektor I,Experimental Brain Research,1,Dots vs. Fixation,Action.Execution,11
+TRUE,7050132,2006,Rektor I,Experimental Brain Research,2,Alphabet vs. Fixation,"Action.Execution,Cognition.Language.Orthography",9
+FALSE,7110343,2007,Cross E S,Journal of Cognitive Neuroscience,1,Activity during Movement Preparation (NoGo),"Cognition.Memory.Working,Action.Inhibition,Cognition.Attention",26
+FALSE,7110343,2007,Cross E S,Journal of Cognitive Neuroscience,2,Activity during Movement Execution (Go),"Cognition.Memory.Working,Cognition.Attention,Action.Execution",34
+FALSE,7110343,2007,Cross E S,Journal of Cognitive Neuroscience,3,Study Time: Random Increasing (Early > Late) > Block Increasing (Early > Late),"Cognition.Memory.Working,Cognition.Attention,Action.Inhibition,Action.Execution",4
+FALSE,7110343,2007,Cross E S,Journal of Cognitive Neuroscience,4,Study Time: Block Increasing (Early > Late) > Random Increasing (Early > Late),"Cognition.Memory.Working,Cognition.Attention,Action.Execution,Action.Inhibition",2
+FALSE,7110343,2007,Cross E S,Journal of Cognitive Neuroscience,5,Movement Time: Random Increasing (Early > Late) > Block Increasing (Early > Late),"Cognition.Memory.Working,Action.Execution,Cognition.Attention",2
+TRUE,7110343,2007,Cross E S,Journal of Cognitive Neuroscience,6,Movement Time: Block Increasing (Early > Late) > Random Increasing (Early > Late),"Cognition.Memory.Working,Cognition.Attention,Action.Execution",53
+FALSE,7120365,2005,Langleben D D,Human Brain Mapping,1,Lie > Repeat Distracter,"Emotion.Other,Cognition.Social Cognition",19
+TRUE,7120365,2005,Langleben D D,Human Brain Mapping,2,Truth > Lie,"Emotion.Other,Cognition.Social Cognition",39
+FALSE,7120365,2005,Langleben D D,Human Brain Mapping,3,Lie > Truth,"Emotion.Other,Cognition.Social Cognition",4
+FALSE,8020041,2007,Gizewski E R,NeuroImage,1,"Signal Changes for Activated Regions, Subject 1, 1.5T Scanner",Action.Execution,4
+TRUE,8020041,2007,Gizewski E R,NeuroImage,2,"Signal Changes for Activated Regions, Subject 1, 7T Scanner",Action.Execution,5
+TRUE,8020041,2007,Gizewski E R,NeuroImage,3,"Signal Changes for Activated Regions, Subject 2, 1.5T Scanner",Action.Execution,5
+FALSE,8020041,2007,Gizewski E R,NeuroImage,4,"Signal Changes for Activated Regions, Subject 2, 7T Scanner",Action.Execution,5
+FALSE,8020041,2007,Gizewski E R,NeuroImage,5,"Signal Changes for Activated Regions, Subject 3, 1.5T Scanner",Action.Execution,4
+FALSE,8020041,2007,Gizewski E R,NeuroImage,6,"Signal Changes for Activated Regions, Subject 3, 7T Scanner",Action.Execution,5
+FALSE,8020041,2007,Gizewski E R,NeuroImage,7,"Signal Changes for Activated Regions, Subject 4, 1.5T Scanner",Action.Execution,4
+FALSE,8020041,2007,Gizewski E R,NeuroImage,8,"Signal Changes for Activated Regions, Subject 4, 7T Scanner",Action.Execution,5
+FALSE,8020041,2007,Gizewski E R,NeuroImage,9,"Signal Changes for Activated Regions, Subject 5, 1.5T Scanner",Action.Execution,4
+FALSE,8020041,2007,Gizewski E R,NeuroImage,10,"Signal Changes for Activated Regions, Subject 5, 7T Scanner",Action.Execution,5
+FALSE,8020041,2007,Gizewski E R,NeuroImage,11,"Signal Changes for Activated Regions, Subject 6, 1.5T Scanner",Action.Execution,4
+FALSE,8020041,2007,Gizewski E R,NeuroImage,12,"Signal Changes for Activated Regions, Subject 6, 7T Scanner",Action.Execution,5
+FALSE,8020041,2007,Gizewski E R,NeuroImage,13,"Signal Changes for Activated Regions, Subject 7, 1.5T Scanner",Action.Execution,4
+FALSE,8020041,2007,Gizewski E R,NeuroImage,14,"Signal Changes for Activated Regions, Subject 7, 7T Scanner",Action.Execution,5
+FALSE,8020041,2007,Gizewski E R,NeuroImage,15,"Signal Changes for Activated Regions, Subject 8, 1.5T Scanner",Action.Execution,3
+FALSE,8020041,2007,Gizewski E R,NeuroImage,16,"Signal Changes for Activated Regions, Subject 8, 7T Scanner",Action.Execution,5
+FALSE,8020041,2007,Gizewski E R,NeuroImage,17,"Signal Changes for Activated Regions, Subject 9, 1.5T Scanner",Action.Execution,3
+FALSE,8020041,2007,Gizewski E R,NeuroImage,18,"Signal Changes for Activated Regions, Subject 9, 7T Scanner",Action.Execution,5
+TRUE,8020062,1995,Stephan K M,Journal of Neurophysiology,1,Imagined Movement vs. Motor Preparation,Action.Imagination,26
+FALSE,8020062,1995,Stephan K M,Journal of Neurophysiology,2,Executed Movement vs. Motor Preparation,Action.Execution,41
+TRUE,8020062,1995,Stephan K M,Journal of Neurophysiology,3,Executed vs. Imagined Movements,Action.Execution,21
+FALSE,8020062,1995,Stephan K M,Journal of Neurophysiology,4,Imagined vs. Executed Movements,Action.Imagination,3
+FALSE,8040108,2007,Samanez-Larkin G R,Nature Neuroscience,1,"Gain vs Non-gain Anticipation, Younger Adults","Emotion.Other,Cognition.Other",21
+FALSE,8040108,2007,Samanez-Larkin G R,Nature Neuroscience,2,"Loss vs Non-loss Anticipation, Younger Adults","Emotion.Other,Cognition.Other",11
+FALSE,8040108,2007,Samanez-Larkin G R,Nature Neuroscience,3,"Gain vs Non-gain Outcome, Younger Adults","Emotion.Other,Cognition.Other",3
+FALSE,8040108,2007,Samanez-Larkin G R,Nature Neuroscience,4,"Non-loss vs Loss Outcome, Younger Adults","Emotion.Other,Cognition.Other",3
+TRUE,8040108,2007,Samanez-Larkin G R,Nature Neuroscience,5,"Gain vs Non-gain Anticipation, Older Adults","Emotion.Other,Cognition.Other",43
+FALSE,8040108,2007,Samanez-Larkin G R,Nature Neuroscience,6,"Loss vs Non-loss Anticipation, Older Adults","Emotion.Other,Cognition.Other",5
+FALSE,8040108,2007,Samanez-Larkin G R,Nature Neuroscience,7,"Gain vs Non-gain Outcome, Older Adults","Emotion.Other,Cognition.Other",3
+FALSE,8040108,2007,Samanez-Larkin G R,Nature Neuroscience,8,"Nonloss vs Loss Outcome, Older Adults","Emotion.Other,Cognition.Other",3
+FALSE,8040108,2007,Samanez-Larkin G R,Nature Neuroscience,9,"Loss vs Non-loss Anticipation, Older > Younger Adults","Emotion.Other,Cognition.Other",2
+FALSE,8040108,2007,Samanez-Larkin G R,Nature Neuroscience,10,"Gain vs Non-gain Outcome, Older > Younger Adults","Emotion.Other,Cognition.Other",1
+FALSE,8040108,2007,Samanez-Larkin G R,Nature Neuroscience,11,"Non-loss vs Loss Outcome, Older > Younger Adults","Emotion.Other,Cognition.Other",4
+FALSE,8060149,2003,Martin-Soelch C,European Journal of Neuroscience,1,"Activity Positively Correlated with Monetary Amount, All Subjects","Emotion.Other,Cognition.Other",32
+FALSE,8060149,2003,Martin-Soelch C,European Journal of Neuroscience,2,"Activity Positively Correlated with Mood Scores, All Subjects","Emotion.Other,Cognition.Other",6
+FALSE,8060149,2003,Martin-Soelch C,European Journal of Neuroscience,3,"Activity Positively Correlated with Monetary Amount, Smokers","Emotion.Other,Cognition.Other,Pharmacology.Nicotine",17
+TRUE,8060149,2003,Martin-Soelch C,European Journal of Neuroscience,4,"Activity Positively Correlated with Monetary Amount, Nonsmokers","Emotion.Other,Cognition.Other",27
+FALSE,8060149,2003,Martin-Soelch C,European Journal of Neuroscience,5,"Activity Positively Correlated with Mood Scores, Smokers","Emotion.Other,Cognition.Other",21
+FALSE,8060149,2003,Martin-Soelch C,European Journal of Neuroscience,6,"Activity Positively Correlated with Mood Scores, Nonsmokers","Emotion.Other,Cognition.Other",5
+FALSE,8080177,2007,Eippert F,Human Brain Mapping,1,Decrease - View,Emotion.Other,10
+TRUE,8080177,2007,Eippert F,Human Brain Mapping,2,Increase - View,Emotion.Other,26
+TRUE,8080179,1996,Fink G R,Journal of Applied Physiology,1,Volitional Loaded Breathing vs. Passive Ventilation,Interoception.Respiration Regulation,14
+FALSE,8080179,1996,Fink G R,Journal of Applied Physiology,2,Volitional Loaded Breathing vs. Volitional Unloaded Breathing,"Action.Execution,Interoception.Respiration Regulation",6
+FALSE,8110297,2006,Ricciardi E,Neuroscience,1,"Tactile, 1-Back vs. Rest","Cognition.Memory.Working,Perception.Somesthesis",62
+FALSE,8110297,2006,Ricciardi E,Neuroscience,2,"Visual, 1-Back vs. Rest","Cognition.Memory.Working,Perception.Vision",44
+TRUE,8110297,2006,Ricciardi E,Neuroscience,3,Tactile Maintenance vs. Rest,Cognition.Memory.Working,46
+FALSE,8110297,2006,Ricciardi E,Neuroscience,4,Visual Maintenance vs. Rest,Cognition.Memory.Working,44
+FALSE,8110297,2006,Ricciardi E,Neuroscience,5,Overlapping,"Cognition.Memory.Working,Perception.Somesthesis,Perception.Vision",32
+FALSE,8110297,2006,Ricciardi E,Neuroscience,6,"Tactile Maintenance > Visual Maintenance, Interaction","Cognition.Memory.Working,Perception.Somesthesis",38
+FALSE,8110297,2006,Ricciardi E,Neuroscience,7,"Visual Maintenance > Tactile Maintenance, Interaction","Cognition.Memory.Working,Perception.Vision",12
+FALSE,9010008,2009,Guillot A,Human Brain Mapping,1,Physical Execution vs. Passive Listening,Action.Execution,39
+TRUE,9010008,2009,Guillot A,Human Brain Mapping,2,Visual Imagery vs. Passive Listening,Action.Imagination,34
+TRUE,9010008,2009,Guillot A,Human Brain Mapping,3,Kinesthetic Imagery vs. Passive Listening,"Action.Imagination,Cognition.Soma",44
+FALSE,9010008,2009,Guillot A,Human Brain Mapping,4,Visual Imagery vs. Kinesthetic Imagery,Action.Imagination,9
+FALSE,9010008,2009,Guillot A,Human Brain Mapping,5,Kinesthetic Imagery vs. Visual Imagery,"Action.Imagination,Cognition.Soma",18
+FALSE,9020041,2007,Jabbi M,NeuroImage,1,"Correlation, Personal Distress + Disgusted Faces","Emotion.Other,Cognition.Other",19
+FALSE,9020041,2007,Jabbi M,NeuroImage,2,"Correlation, Fantasy + Disgusted Faces","Emotion.Other,Cognition.Other",19
+FALSE,9020041,2007,Jabbi M,NeuroImage,3,"Correlation, Empathic Concern + Disgusted Faces","Emotion.Other,Cognition.Other",4
+FALSE,9020041,2007,Jabbi M,NeuroImage,4,"Correlation, Perspective Taking + Disgusted Faces","Emotion.Other,Cognition.Other",16
+FALSE,9020041,2007,Jabbi M,NeuroImage,5,"Correlation, Personal Distress + Pleasant Faces","Emotion.Other,Cognition.Other",9
+FALSE,9020041,2007,Jabbi M,NeuroImage,6,"Correlation, Fantasy + Pleasant Faces","Emotion.Other,Cognition.Other",23
+FALSE,9020041,2007,Jabbi M,NeuroImage,7,"Correlation, Perspective Taking + Pleasant Faces","Emotion.Other,Cognition.Other",18
+TRUE,9020041,2007,Jabbi M,NeuroImage,8,"Correlation, Personal Distress + Neutral Faces","Emotion.Other,Cognition.Other",12
+FALSE,9020041,2007,Jabbi M,NeuroImage,9,"Correlation, Fantasy + Neutral Faces","Emotion.Other,Cognition.Other",16
+FALSE,9020041,2007,Jabbi M,NeuroImage,10,"Correlation, Empathic Concern + Neutral Faces","Emotion.Other,Cognition.Other",2
+FALSE,9020041,2007,Jabbi M,NeuroImage,11,"Correlation, Perspective Taking + Neutral Faces","Emotion.Other,Cognition.Other",15
+FALSE,9020041,2007,Jabbi M,NeuroImage,12,Unpleasant Taste - Neutral Taste + Disgusted Faces - Neutral Faces,"Perception.Gustation,Emotion.Disgust",5
+FALSE,9020041,2007,Jabbi M,NeuroImage,13,Pleasant Taste - Neutral Taste + Pleasant Faces - Neutral Faces,"Emotion.Other,Perception.Gustation",2
+TRUE,10080159,2000,Ehrsson H H,Journal of Neurophysiology,1,Precision Grip - Matching Rest,Action.Execution,27
+TRUE,10080159,2000,Ehrsson H H,Journal of Neurophysiology,2,Power Grip - Matching Rest,Action.Execution,11
+FALSE,10080159,2000,Ehrsson H H,Journal of Neurophysiology,3,Power Grip - Precision Grip,Action.Execution,3
+FALSE,10080159,2000,Ehrsson H H,Journal of Neurophysiology,4,Precision Grip - Power Grip,Action.Execution,9
+FALSE,11010033,2008,van Duinen H,Human Brain Mapping,1,Right Index Finger Abduction > Rest,Action.Execution,30
+FALSE,11010033,2008,van Duinen H,Human Brain Mapping,2,Left Index Finger Abduction > Rest,Action.Execution,46
+TRUE,11010033,2008,van Duinen H,Human Brain Mapping,3,Right Finger MVC vs. Right Finger Submaximum,Action.Execution,33
+FALSE,11010033,2008,van Duinen H,Human Brain Mapping,4,Left Finger MVC vs Left Finger Submaximum,Action.Execution,34
+FALSE,11010033,2008,van Duinen H,Human Brain Mapping,5,"Activity Correlating with ""Activation Per Se"", Right Contractions",Action.Execution,29
+FALSE,11010033,2008,van Duinen H,Human Brain Mapping,6,"Activity Correlating with ""Activation Per Se"", Left Contractions",Action.Execution,25
+TRUE,11030044,2007,Christmann C,NeuroImage,1,Pain - Baseline,Perception.Somesthesis.Pain,29
+TRUE,11030044,2007,Christmann C,NeuroImage,2,"Pain - Baseline, Correlation with Pain Intensity Rating",Perception.Somesthesis.Pain,9
+FALSE,11030044,2007,Christmann C,NeuroImage,3,"Pain - Baseline, Positive Correlation with Pain Unpleasantness Rating",Perception.Somesthesis.Pain,5
+FALSE,11030044,2007,Christmann C,NeuroImage,4,"Pain - Baseline, Negative Correlation with Pain Unpleasantness Rating",Perception.Somesthesis.Pain,8
+TRUE,13030020,1996,Kawashima R,Brain Research,1,Arm minus Rest,Action.Execution,11
+TRUE,13030020,1996,Kawashima R,Brain Research,2,Finger minus Rest,Action.Execution,14
+TRUE,13040039,2010,Georgiadis J R,NeuroImage,1,Stimulation > Flaccid,"Interoception.Sexuality,Perception.Somesthesis",17
+FALSE,13040039,2010,Georgiadis J R,NeuroImage,2,Stimulation < Flaccid (Deactivations),"Interoception.Sexuality,Perception.Somesthesis",11
+TRUE,13040039,2010,Georgiadis J R,NeuroImage,3,Stimulation > Post-Stimulation,"Interoception.Sexuality,Perception.Somesthesis",19
+FALSE,13040039,2010,Georgiadis J R,NeuroImage,4,Stimulation < Post-Stimulation (Deactivations),"Interoception.Sexuality,Perception.Somesthesis",7
+FALSE,13040039,2010,Georgiadis J R,NeuroImage,5,Positive Correlation between rCBF and Penile Circumference,"Interoception.Sexuality,Perception.Somesthesis",16
+FALSE,13040039,2010,Georgiadis J R,NeuroImage,6,Negative Correlation between rCBF and Penile Circumference (Deactivations),"Interoception.Sexuality,Perception.Somesthesis",10
+FALSE,13040039,2010,Georgiadis J R,NeuroImage,7,Positive Correlation between rCBF and Rate of Penile Circumferential Change,"Interoception.Sexuality,Perception.Somesthesis",14
+FALSE,13040039,2010,Georgiadis J R,NeuroImage,8,Negative Correlation between rCBF and Rate of Penile Circumferential Change (Deactivations),"Interoception.Sexuality,Perception.Somesthesis",4
+TRUE,13040039,2010,Georgiadis J R,NeuroImage,9,Positive Correlation between rCBF and Subjective Sexual Arousal,"Interoception.Sexuality,Perception.Somesthesis",17
+FALSE,13040039,2010,Georgiadis J R,NeuroImage,10,Negative Correlation between rCBF and Subjective Sexual Arousal (Deactivations),"Interoception.Sexuality,Perception.Somesthesis",1
+FALSE,14050061,2012,Gutchess A H,NeuroImage,1,False Alarms: Positive Modulations (Lrg>Med>Small),Cognition.Memory.Explicit,4
+FALSE,14050061,2012,Gutchess A H,NeuroImage,2,False Alarms: Negative Modulations (Small>Med>Lrg),Cognition.Memory.Explicit,3
+FALSE,14050061,2012,Gutchess A H,NeuroImage,3,Hits: Positive Modulations (Lrg>Med>Small),Cognition.Memory.Explicit,4
+FALSE,14050061,2012,Gutchess A H,NeuroImage,4,Hits: Negative Modulations (Small>Med>Lrg),Cognition.Memory.Explicit,12
+FALSE,14050061,2012,Gutchess A H,NeuroImage,5,False alarms > hits,Cognition.Memory.Explicit,12
+FALSE,14050061,2012,Gutchess A H,NeuroImage,6,Hits > false alarms,Cognition.Memory.Explicit,10
+FALSE,14050061,2012,Gutchess A H,NeuroImage,7,Hits-Novel and False alarms-Novel,Cognition.Memory.Explicit,64
+TRUE,14050061,2012,Gutchess A H,NeuroImage,8,All Hits - All False Alarms,Cognition.Memory.Explicit,12
+FALSE,14050061,2012,Gutchess A H,NeuroImage,9,All False Alarms - All Hits,Cognition.Memory.Explicit,9
+TRUE,14070147,2010,Kasahara M,Neurology,1,"Move - Rest, Healthy Controls",Action.Execution,12
+FALSE,14070147,2010,Kasahara M,Neurology,2,"Move - Rest, Traumatic Brain Injury Patients",Action.Execution,14
+TRUE,14110240,2008,Abraham A,Consciousness and Cognition,1,Mental state or intentional relations (M) > Non-intentional relations (PO),Cognition.Social Cognition,22
+FALSE,14110240,2008,Abraham A,Consciousness and Cognition,2,M > Person-spatial (P) relations,Cognition.Social Cognition,16
+FALSE,14110240,2008,Abraham A,Consciousness and Cognition,3,P > Object-spatial (O) relations,Cognition.Social Cognition,5
+FALSE,15070099,2008,Bensafi M,Neuroscience,1,CO2 > Baseline,Perception.Olfaction,10
+FALSE,15070099,2008,Bensafi M,Neuroscience,2,H2S > Baseline,Perception.Olfaction,4
+TRUE,15070099,2008,Bensafi M,Neuroscience,3,CO2 High > CO2 Low,Perception.Olfaction,3
+FALSE,15070099,2008,Bensafi M,Neuroscience,4,H2S High > H2S Low,Perception.Olfaction,8
+FALSE,15100130,2011,van Beilen M,PLoS ONE,1,Patients: Affected > Unaffected Execution,Action.Execution,3
+FALSE,15100130,2011,van Beilen M,PLoS ONE,2,Patients: Affected < Unaffected Execution,Action.Execution,7
+FALSE,15100130,2011,van Beilen M,PLoS ONE,3,"Feigners Affected > Patients, Unaffected Execution",Action.Execution,2
+FALSE,15100130,2011,van Beilen M,PLoS ONE,4,"Feigners Affected < Patients, Unaffected Execution",Action.Execution,3
+FALSE,15100130,2011,van Beilen M,PLoS ONE,5,"Healthy Controls: Right > Left, Execution",Action.Execution,3
+FALSE,15100130,2011,van Beilen M,PLoS ONE,6,"Healthy Controls: Right < Left, Execution",Action.Execution,3
+FALSE,15100130,2011,van Beilen M,PLoS ONE,7,"Patients > Healthy Controls, Affected Execution",Action.Execution,1
+FALSE,15100130,2011,van Beilen M,PLoS ONE,8,"Feigners > Healthy Controls, Affected Execution",Action.Execution,2
+FALSE,15100130,2011,van Beilen M,PLoS ONE,9,"Feigners > Patients, Affected Execution",Action.Execution,2
+FALSE,15100130,2011,van Beilen M,PLoS ONE,10,"Feigners > Healthy Controls, Affected Imagery",Action.Imagination,1
+FALSE,15100130,2011,van Beilen M,PLoS ONE,11,"Patients < Healthy Controls, Affected Execution",Action.Execution,4
+FALSE,15100130,2011,van Beilen M,PLoS ONE,12,"Patients > Healthy Controls, Affected Execution",Action.Execution,7
+FALSE,15100130,2011,van Beilen M,PLoS ONE,13,"Feigners < Healthy Controls, Affected Execution",Action.Execution,4
+FALSE,15100130,2011,van Beilen M,PLoS ONE,14,"Feigners > Healthy Controls, Affected Execution",Action.Execution,13
+FALSE,15100130,2011,van Beilen M,PLoS ONE,15,"Patients < Feigners, Affected Execution",Action.Execution,13
+FALSE,15100130,2011,van Beilen M,PLoS ONE,16,"Patients < Healthy Controls, Unaffected Execution",Action.Execution,4
+FALSE,15100130,2011,van Beilen M,PLoS ONE,17,"Patients > Healthy Controls, Unaffected Execution",Action.Execution,2
+FALSE,15100130,2011,van Beilen M,PLoS ONE,18,"Feigners < Healthy Controls, Unaffected Execution",Action.Execution,2
+FALSE,15100130,2011,van Beilen M,PLoS ONE,19,"Feigners > Healthy Controls, Unaffected Execution",Action.Execution,8
+FALSE,15100130,2011,van Beilen M,PLoS ONE,20,"Patients < Feigners, Unaffected Execution",Action.Execution,13
+FALSE,15100130,2011,van Beilen M,PLoS ONE,21,"Patients > Feigners, Unaffected Execution",Action.Execution,3
+FALSE,15100130,2011,van Beilen M,PLoS ONE,22,"Patients < Healthy Controls, Affected Imagery",Action.Imagination,1
+TRUE,15100130,2011,van Beilen M,PLoS ONE,23,"Feigners > Healthy Controls, Affected Imagery",Action.Imagination,9
+FALSE,15100130,2011,van Beilen M,PLoS ONE,24,"Patients < Feigners, Affected Imagery",Action.Imagination,6
+FALSE,15100130,2011,van Beilen M,PLoS ONE,25,Patients < Healthy Controls Unaffected Imagery,Action.Imagination,1
+FALSE,15100130,2011,van Beilen M,PLoS ONE,26,"Feigners > Healthy Controls, Unaffected Imagery",Action.Imagination,8
+FALSE,15100130,2011,van Beilen M,PLoS ONE,27,"Patients < Feigners, Unaffected Imagery",Action.Imagination,6
+FALSE,15100130,2011,van Beilen M,PLoS ONE,28,Conjunction Analysis: Patients < Healthy Controls & Patients < Feigners,Action.Execution,1
+FALSE,15100130,2011,van Beilen M,PLoS ONE,29,Conjunction Analysis: Patients > Healthy Controls & Feigners > Healthy Controls,Action.Execution,4
+FALSE,15100130,2011,van Beilen M,PLoS ONE,30,Conjunction Analysis: Patients < Healthy Controls & Patients < Feigners,Action.Execution,1
+FALSE,16040097,2009,Goldin P R,Archives of General Psychiatry,1,"Look Harsh Faces vs. Look Neutral Scenes, Social Anxiety Disorder Patients > Healthy Controls",Emotion.Other,11
+FALSE,16040097,2009,Goldin P R,Archives of General Psychiatry,2,"Look Harsh Faces vs. Look Neutral Scenes, Healthy Controls > Social Anxiety Disorder Patients",Emotion.Other,3
+FALSE,16040097,2009,Goldin P R,Archives of General Psychiatry,3,"Regulate Harsh Faces vs. Look Harsh Faces, Healthy Controls > Social Anxiety Disorder Patients",Emotion.Other,20
+FALSE,16040097,2009,Goldin P R,Archives of General Psychiatry,4,"Regulate Violent Scenes vs. Look Violent Scenes, Social Anxiety Disorder Patients > Healthy Controls",Emotion.Other,3
+FALSE,16040097,2009,Goldin P R,Archives of General Psychiatry,5,"Regulate Violent Scenes vs. Look Violent Scenes, Healthy Controls > Social Anxiety Disorder Patients",Emotion.Other,3
+FALSE,16040097,2009,Goldin P R,Archives of General Psychiatry,6,"Look Harsh Faces > Look Neutral Scenes, Social Anxiety Disorder Patients",Emotion.Other,14
+FALSE,16040097,2009,Goldin P R,Archives of General Psychiatry,7,"Look Neutral Scenes > Look Harsh Faces, Social Anxiety Disorder Patients",Emotion.Other,9
+FALSE,16040097,2009,Goldin P R,Archives of General Psychiatry,8,"Look Harsh Faces > Look Neutral Scenes, Healthy Controls",Emotion.Other,9
+FALSE,16040097,2009,Goldin P R,Archives of General Psychiatry,9,"Look Neutral Scenes > Look Harsh Faces, Healthy Controls",Emotion.Other,5
+FALSE,16040097,2009,Goldin P R,Archives of General Psychiatry,10,"Look Violent Scenes > Look Neutral Scenes, Social Anxiety Disorder Patients",Emotion.Other,17
+FALSE,16040097,2009,Goldin P R,Archives of General Psychiatry,11,"Look Neutral Scenes > Look Violent Scenes, Social Anxiety Disorder Patients",Emotion.Other,7
+FALSE,16040097,2009,Goldin P R,Archives of General Psychiatry,12,"Look Violent Scenes > Look Neutral Scenes, Healthy Controls",Emotion.Other,23
+TRUE,16040097,2009,Goldin P R,Archives of General Psychiatry,13,"Look Neutral Scenes > Look Violent Scenes, Healthy Controls",Emotion.Other,11
+FALSE,16040097,2009,Goldin P R,Archives of General Psychiatry,14,"Regulate Harsh Faces > Look Harsh Faces, Social Anxiety Disorder Patients",Emotion.Other,11
+FALSE,16040097,2009,Goldin P R,Archives of General Psychiatry,15,"Look Harsh Faces > Regulate Harsh Faces, Social Anxiety Disorder Patients",Emotion.Other,12
+FALSE,16040097,2009,Goldin P R,Archives of General Psychiatry,16,"Regulate Harsh Faces > Look Harsh Faces, Healthy Controls",Emotion.Other,15
+TRUE,16040098,2010,Gonzales Andino S L,Human Brain Mapping,1,Positive Correlation Between Gamma Band Oscillations and Reaction Time,Cognition.Attention,9
+TRUE,60100160,2003,Riecker A,NeuroImage,1,Main Effect All Frequencies,Action.Execution,8
+FALSE,60100160,2003,Riecker A,NeuroImage,2,"First Order Term, Positive Linear Effect",Action.Execution,5
+FALSE,60100160,2003,Riecker A,NeuroImage,3,"First Order Term, Negative Linear Effect",Action.Execution,2
+TRUE,60100160,2003,Riecker A,NeuroImage,4,2 Hz Tapping vs. Control,Action.Execution,8
+FALSE,60100160,2003,Riecker A,NeuroImage,5,2.5 Hz Tapping vs. Control,Action.Execution,8
+TRUE,60100160,2003,Riecker A,NeuroImage,6,3 Hz Tapping vs. Control,Action.Execution,8
+TRUE,60100160,2003,Riecker A,NeuroImage,7,4 Hz Tapping vs. Control,Action.Execution,7
+TRUE,60100160,2003,Riecker A,NeuroImage,8,5 Hz Tapping vs. Control,Action.Execution,6
+FALSE,60100160,2003,Riecker A,NeuroImage,9,6 Hz Tapping vs. Control,Action.Execution,6
+TRUE,60100167,1995,Dettmers C,Journal of Neurophysiology,1,Comparison Between Movement and Rest,Action.Execution,39
+FALSE,60100167,1995,Dettmers C,Journal of Neurophysiology,2,Correlation Between rCBF and Force,Action.Execution,19
+FALSE,60100172,2005,Lacourse M G,NeuroImage,1,"Novel, Move vs. Rest",Action.Execution,18
+FALSE,60100172,2005,Lacourse M G,NeuroImage,2,"Novel, Image vs. Rest",Action.Imagination,16
+FALSE,60100172,2005,Lacourse M G,NeuroImage,3,"Skilled, Move vs. Rest",Action.Execution,17
+FALSE,60100172,2005,Lacourse M G,NeuroImage,4,"Skilled, Image vs. Rest",Action.Imagination,16
+FALSE,60100172,2005,Lacourse M G,NeuroImage,5,"Novel, Image > Move",Action.Imagination,2
+TRUE,60100172,2005,Lacourse M G,NeuroImage,6,"Novel, Move > Image",Action.Execution,15
+FALSE,60100172,2005,Lacourse M G,NeuroImage,7,"Skilled, Image > Move",Action.Imagination,5
+FALSE,60100172,2005,Lacourse M G,NeuroImage,8,"Skilled, Move > Image",Action.Execution,13
+FALSE,60100172,2005,Lacourse M G,NeuroImage,9,"Novel > Skilled, Move",Action.Execution,16
+FALSE,60100172,2005,Lacourse M G,NeuroImage,10,"Novel > Skilled, Image",Action.Imagination,8

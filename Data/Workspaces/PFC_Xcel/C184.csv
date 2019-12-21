@@ -1,0 +1,119 @@
+FALSE,30126,1994,Decety J,Nature,1,Movement Observation - Visual Inspection,Action.Observation,32
+FALSE,30126,1994,Decety J,Nature,2,Movement Observation - Motor Imagery,Action.Observation,32
+FALSE,30126,1994,Decety J,Nature,3,Motor Imagery - Visual Inspection,Action.Imagination,34
+TRUE,30126,1994,Decety J,Nature,4,Motor Imagery - Movement Observation,Action.Imagination,52
+TRUE,30228,1995,Carter C S,NeuroImage,1,Incongruent - Neutral,Cognition.Attention,6
+FALSE,30228,1995,Carter C S,NeuroImage,2,Neutral - Incongruent,Cognition.Attention,3
+FALSE,30228,1995,Carter C S,NeuroImage,3,Congruent - Neutral,Cognition.Attention,6
+FALSE,30228,1995,Carter C S,NeuroImage,4,Neutral - Congruent,Cognition.Attention,4
+FALSE,30228,1995,Carter C S,NeuroImage,5,Incongruent - Congruent,Cognition.Attention,7
+FALSE,30228,1995,Carter C S,NeuroImage,6,Congruent - Incongruent,Cognition.Attention,2
+FALSE,30310,2003,Fan J,NeuroImage,1,Flanker Incongruent - Congruent,Cognition.Attention,14
+FALSE,30310,2003,Fan J,NeuroImage,2,Stroop Incongruent - Congruent,Cognition.Attention,14
+FALSE,30310,2003,Fan J,NeuroImage,3,Spatial Incongruent - Congruent,Cognition.Attention,11
+TRUE,30310,2003,Fan J,NeuroImage,4,Conjunction Analysis Incongruent - Congruent,Cognition.Attention,14
+TRUE,30428,1994,Cohen J D,Human Brain Mapping,1,Memory - Control,Cognition.Memory.Working,9
+FALSE,4020003,1994,Becker J T,Human Brain Mapping,1,3WR - Rest,Cognition.Memory.Working,15
+TRUE,4020003,1994,Becker J T,Human Brain Mapping,2,12WR - 3WR,Cognition.Memory.Working,13
+TRUE,5070144,2004,Kelly A M,European Journal of Neuroscience,1,Fast and Slow Successful Response Inhibitions,"Action.Inhibition,Cognition.Attention",23
+FALSE,5070144,2004,Kelly A M,European Journal of Neuroscience,2,Fast > Slow Stops,"Action.Inhibition,Cognition.Attention",7
+TRUE,5070144,2004,Kelly A M,European Journal of Neuroscience,3,Slow > Fast Stops,"Action.Inhibition,Cognition.Attention",3
+FALSE,6050055,2004,Ino T,Brain Research Bulletin,1,"Encoding, Good Performance Group",Cognition.Memory.Explicit,15
+FALSE,6050055,2004,Ino T,Brain Research Bulletin,2,"Encoding, Poor Performance Group",Cognition.Memory.Explicit,14
+FALSE,6050055,2004,Ino T,Brain Research Bulletin,3,"Recall, Good Performance Group",Cognition.Memory.Explicit,18
+FALSE,6050055,2004,Ino T,Brain Research Bulletin,4,Recall Poor Performance Group,Cognition.Memory.Explicit,12
+FALSE,6050055,2004,Ino T,Brain Research Bulletin,5,"Encoding and Recall, Good Performance Group",Cognition.Memory.Explicit,19
+FALSE,6050055,2004,Ino T,Brain Research Bulletin,6,"Encoding and Recall, Poor Performance Group",Cognition.Memory.Explicit,21
+FALSE,6050055,2004,Ino T,Brain Research Bulletin,7,"Encoding, Good Performance > Poor Performance",Cognition.Memory.Explicit,5
+FALSE,6050055,2004,Ino T,Brain Research Bulletin,8,"Recall, Good Performance > Poor Performance",Cognition.Memory.Explicit,5
+FALSE,6050055,2004,Ino T,Brain Research Bulletin,9,"Encoding and Recall, Good Performance > Poor Performance",Cognition.Memory.Explicit,9
+FALSE,6050055,2004,Ino T,Brain Research Bulletin,10,"Encoding, Poor Performance > Good Performance",Cognition.Memory.Explicit,9
+TRUE,6050055,2004,Ino T,Brain Research Bulletin,11,"Recall, Poor Performance > Good Performance",Cognition.Memory.Explicit,4
+FALSE,6050055,2004,Ino T,Brain Research Bulletin,12,"Encoding and Recall, Poor Performance > Good Performance",Cognition.Memory.Explicit,8
+FALSE,6050055,2004,Ino T,Brain Research Bulletin,13,"Regression Analysis, Positive Effect on Memory Performance, Encoding",Cognition.Memory.Explicit,7
+FALSE,6050055,2004,Ino T,Brain Research Bulletin,14,"Regression Analysis, Positive Effect on Memory Performance, Recall",Cognition.Memory.Explicit,6
+FALSE,6050055,2004,Ino T,Brain Research Bulletin,15,"Regression Analysis, Positive Effect on Memory Performance, Encoding and Recall",Cognition.Memory.Explicit,13
+FALSE,6050055,2004,Ino T,Brain Research Bulletin,16,"Regression Analysis, Negative Effect on Memory Performance, Encoding",Cognition.Memory.Explicit,12
+TRUE,6050055,2004,Ino T,Brain Research Bulletin,17,"Regression Analysis, Negative Effect on Memory Performance, Recall",Cognition.Memory.Explicit,5
+FALSE,6050055,2004,Ino T,Brain Research Bulletin,18,"Regression Analysis, Negative Effect on Memory Performance, Encoding and Recall",Cognition.Memory.Explicit,9
+FALSE,7020068,2001,Barch D M,Cerebral Cortex,1,Manual But Not Vocal,Cognition.Attention,5
+FALSE,7020068,2001,Barch D M,Cerebral Cortex,2,Vocal But Not Manual,Cognition.Attention,5
+TRUE,7020068,2001,Barch D M,Cerebral Cortex,3,"Word, Vocal But Not Location, Manual",Cognition.Attention,6
+FALSE,7020068,2001,Barch D M,Cerebral Cortex,4,Word But Not Location,Cognition.Attention,6
+FALSE,7090258,1997,Blok B F M,Journal of Comparative Neurology,1,Repetitive Pelvic Floor Straining - Rest,"Action.Execution,Interoception.Gastrointestinal/Genitourinary (GI/GU)",9
+TRUE,7090258,1997,Blok B F M,Journal of Comparative Neurology,2,Sustained Pelvic Floor Straining - Rest,"Action.Execution,Interoception.Gastrointestinal/Genitourinary (GI/GU)",7
+FALSE,7090258,1997,Blok B F M,Journal of Comparative Neurology,3,Sustained Abdominal Straining - Rest,Action.Execution,7
+FALSE,7090258,1997,Blok B F M,Journal of Comparative Neurology,4,Sustained Abdominal Straining - Repetitive Pelvic Floor Straining,"Action.Execution,Interoception.Gastrointestinal/Genitourinary (GI/GU)",3
+TRUE,7110348,2004,Grezes J,Journal of Neuroscience,1,Observation of Faked Actions,Action.Observation,4
+FALSE,7110348,2004,Grezes J,Journal of Neuroscience,2,Actions Judged to Reflect Deceptive Intent,"Action.Observation,Cognition.Reasoning",11
+TRUE,7120382,2003,Akitsuki Y,NeuroImage,1,Win 4 - Win 1,"Emotion.Other,Cognition.Other",4
+FALSE,7120382,2003,Akitsuki Y,NeuroImage,2,Loss 4 - Loss 1,"Emotion.Other,Cognition.Other",5
+FALSE,7120382,2003,Akitsuki Y,NeuroImage,3,Win 1 - Loss 1,"Emotion.Other,Cognition.Other",8
+FALSE,7120382,2003,Akitsuki Y,NeuroImage,4,Wins - Losses,"Emotion.Other,Cognition.Other",5
+FALSE,7120382,2003,Akitsuki Y,NeuroImage,5,Brain activities with modulation by the subjects' arousal in the events of win,"Emotion.Other,Cognition.Other",5
+FALSE,7120382,2003,Akitsuki Y,NeuroImage,6,Brain activities with modulation by the subjects' arousal in the events of loss,"Emotion.Other,Cognition.Other",4
+FALSE,7120382,2003,Akitsuki Y,NeuroImage,7,Sudden Win - Win 1,"Emotion.Other,Cognition.Other",2
+FALSE,7120382,2003,Akitsuki Y,NeuroImage,8,Sudden Loss - Loss 1,"Emotion.Other,Cognition.Other",2
+TRUE,8050120,2000,Carlsson K,Journal of Cognitive Neuroscience,1,Tickle vs. Rest,Perception.Somesthesis,12
+FALSE,8050120,2000,Carlsson K,Journal of Cognitive Neuroscience,2,Rest vs. Tickle,Perception.Somesthesis,14
+FALSE,8050120,2000,Carlsson K,Journal of Cognitive Neuroscience,3,Anticipation vs. Rest,Cognition.Attention,8
+FALSE,8050120,2000,Carlsson K,Journal of Cognitive Neuroscience,4,Rest vs. Anticipation,Cognition.Attention,6
+FALSE,8050120,2000,Carlsson K,Journal of Cognitive Neuroscience,5,Tickle vs. Anticipation,Perception.Somesthesis,10
+FALSE,8050120,2000,Carlsson K,Journal of Cognitive Neuroscience,6,Anticipation vs. Tickle,Perception.Somesthesis,8
+TRUE,8110256,2006,Bermpohl F,Human Brain Mapping,1,Expected vs. Unexpected Picture,"Emotion.Other,Cognition.Attention",18
+FALSE,8110256,2006,Bermpohl F,Human Brain Mapping,2,Emotional vs. Neutral,"Emotion.Other,Cognition.Attention",17
+FALSE,8110256,2006,Bermpohl F,Human Brain Mapping,3,Expected Positive vs. Expected Neutral,Emotion.Other,4
+FALSE,8110256,2006,Bermpohl F,Human Brain Mapping,4,Expected Negative vs. Expected Neutral,Emotion.Other,7
+FALSE,8110256,2006,Bermpohl F,Human Brain Mapping,5,Expected Emotional vs. Unexpected Emotional,"Emotion.Other,Cognition.Attention",17
+FALSE,8110256,2006,Bermpohl F,Human Brain Mapping,6,Expected Neutral vs. Unexpected Neutral,Cognition.Attention,10
+FALSE,8110285,2007,Malhi G S,Journal of Affective Disorders,1,Negative vs. Neutral Words; Euthymic Bipolar Patients,"Emotion.Other,Cognition.Memory.Explicit",11
+TRUE,8110285,2007,Malhi G S,Journal of Affective Disorders,2,Negative vs. Neutral Words; Normals,"Emotion.Other,Cognition.Memory.Explicit",18
+FALSE,8110285,2007,Malhi G S,Journal of Affective Disorders,3,Positive vs. Neutral Words; Euthymic Bipolar Patients,"Emotion.Other,Cognition.Memory.Explicit",12
+FALSE,8110285,2007,Malhi G S,Journal of Affective Disorders,4,Positive vs. Neutral Words; Healthy Subjects,"Cognition.Attention,Emotion.Other",18
+FALSE,8110285,2007,Malhi G S,Journal of Affective Disorders,5,Negative Words; Normals vs. Euthymic Bipolar Patients,"Emotion.Other,Cognition.Memory.Explicit",17
+FALSE,8110285,2007,Malhi G S,Journal of Affective Disorders,6,Positive Words; Healthy Subjects vs. Euthymic Bipolar Patients,"Emotion.Other,Cognition.Memory.Working",21
+FALSE,9010020,2008,Vanderwal T,NeuroImage,1,(Self-Concept vs. Letter) > (Mother-Concept vs. Letter),"Emotion.Other,Cognition.Social Cognition",11
+FALSE,9010020,2008,Vanderwal T,NeuroImage,2,Self-Concept > Mother-Concept,"Emotion.Other,Cognition.Social Cognition",4
+FALSE,9010020,2008,Vanderwal T,NeuroImage,3,Mother-Concept > Self-Concept,"Emotion.Other,Cognition.Social Cognition",3
+TRUE,9010020,2008,Vanderwal T,NeuroImage,4,Friends vs. Bumper Cars,"Emotion.Other,Cognition.Social Cognition",15
+FALSE,10030018,2008,Bokde A L W,Psychiatry Research,1,"Face Matching vs. Attention, Healthy Controls",Perception.Vision.Shape,10
+FALSE,10030018,2008,Bokde A L W,Psychiatry Research,2,"Location Matching vs. Attention, Healthy Controls","Perception.Vision,Cognition.Space",10
+FALSE,10030018,2008,Bokde A L W,Psychiatry Research,3,"Face Matching vs. Attention, MCI Patients",Perception.Vision.Shape,10
+FALSE,10030018,2008,Bokde A L W,Psychiatry Research,4,"Location Matching vs. Attention, MCI Patients","Cognition.Space,Perception.Vision",13
+TRUE,10030018,2008,Bokde A L W,Psychiatry Research,5,"Face Matching vs. Location Matching, Healthy Controls",Perception.Vision.Shape,30
+FALSE,10030018,2008,Bokde A L W,Psychiatry Research,6,"Location Matching vs. Face Matching, Healthy Controls","Perception.Vision,Cognition.Space",6
+FALSE,10030018,2008,Bokde A L W,Psychiatry Research,7,"MCI Patients > Healthy Controls, Location Matching","Perception.Vision,Cognition.Space",16
+TRUE,11080074,2005,Hsu M,Science,1,Ambiguity > Risk,"Cognition.Other,Emotion.Other",24
+FALSE,11080074,2005,Hsu M,Science,2,Risk > Ambiguity,"Cognition.Other,Emotion.Other",11
+FALSE,11080074,2005,Hsu M,Science,3,Gamble > Certain,"Cognition.Other,Emotion.Other",12
+FALSE,11080074,2005,Hsu M,Science,4,Certain > Gamble,"Cognition.Other,Emotion.Other",2
+FALSE,11080074,2005,Hsu M,Science,5,Positive Correlation with Expected Value of Decisions in Risk Condition of Card-Deck Treatment,"Cognition.Other,Emotion.Other",25
+FALSE,11080074,2005,Hsu M,Science,6,Positive Correlation with Expected Value of Decisions in Knowledge Treatment,"Cognition.Other,Emotion.Other",5
+FALSE,11080094,2006,Van Leijenhorst L,Neuropsychologia,1,High-Risk Positive Feedback > Low-Risk Positive Feedback in Healthy Young Adults,"Cognition.Other,Emotion.Other",16
+FALSE,11080094,2006,Van Leijenhorst L,Neuropsychologia,2,High-Risk Positive Feedback > Low-Risk Positive Feedback in Healthy Children,"Cognition.Other,Emotion.Other",8
+TRUE,11080094,2006,Van Leijenhorst L,Neuropsychologia,3,Low-Risk Positive Feedback > High-Risk Positive Feedback in Healthy Young Adults,"Cognition.Other,Emotion.Other",10
+FALSE,11080094,2006,Van Leijenhorst L,Neuropsychologia,4,Low-Risk Positive Feedback > High-Risk Positive Feedback in Healthy Children,"Cognition.Other,Emotion.Other",1
+FALSE,11080094,2006,Van Leijenhorst L,Neuropsychologia,5,Negative > Positive Feedback in Healthy Young Adults,"Cognition.Other,Emotion.Other",11
+FALSE,11080094,2006,Van Leijenhorst L,Neuropsychologia,6,Negative > Positive Feedback in Healthy Children,"Cognition.Other,Emotion.Other",4
+FALSE,11080094,2006,Van Leijenhorst L,Neuropsychologia,7,Positive > Negative Feedback in Healthy Young Adults,"Cognition.Other,Emotion.Other",23
+FALSE,11080094,2006,Van Leijenhorst L,Neuropsychologia,8,Positive > Negative Feedback in Healthy Children,"Cognition.Other,Emotion.Other",5
+FALSE,12050042,2011,Demos K E,Journal of Cognitive Neuroscience,1,"Main Effect of Dietary Status, Dieters > Non-Dieters","Cognition.Attention,Emotion.Other",6
+FALSE,12050042,2011,Demos K E,Journal of Cognitive Neuroscience,2,"Main Effect of Dietary Status, Non-Dieters > Dieters",Cognition.Attention,2
+TRUE,12050042,2011,Demos K E,Journal of Cognitive Neuroscience,3,"Main Effect of Preload, Milkshake > Water","Cognition.Attention,Emotion.Other",3
+FALSE,12050042,2011,Demos K E,Journal of Cognitive Neuroscience,4,"Main Effect of Preload, Water > Milkshake",Cognition.Attention,5
+FALSE,12050042,2011,Demos K E,Journal of Cognitive Neuroscience,5,Restraint x Preload Interaction,"Cognition.Attention,Emotion.Other",5
+FALSE,14050073,2012,Spunt R P,NeuroImage,1,Identify how > Infer why,Emotion,14
+TRUE,14050073,2012,Spunt R P,NeuroImage,2,Infer why > Identify how,Emotion,34
+FALSE,14050073,2012,Spunt R P,NeuroImage,3,Why > Fixation masked by How > Why,Emotion,5
+FALSE,14090203,2004,Anderson M C,Science,1,"Suppression > Respond, Overall contrast, activation","Cognition.Memory,Cognition.Attention",17
+TRUE,14090203,2004,Anderson M C,Science,2,"Respond > Suppression, Overall contrast, activation","Cognition.Memory,Cognition.Attention",13
+FALSE,14090203,2004,Anderson M C,Science,3,"Suppression > Respond, Regression, Brain areas that predict memory inhibition","Cognition.Memory,Cognition.Attention",38
+TRUE,14090204,2009,Bledowski C,Journal of Neuroscience,1,Selection,"Cognition.Attention,Cognition.Memory.Working",14
+FALSE,14090204,2009,Bledowski C,Journal of Neuroscience,2,Updating,"Cognition.Attention,Cognition.Memory.Working",8
+FALSE,16030056,2010,Chapin H,PLoS ONE,1,Main Effect of Performance Type: Expressive > Mechanical,Cognition.Music,10
+FALSE,16030056,2010,Chapin H,PLoS ONE,2,Main Effect of Performance Type: Mechanical > Expressive,Cognition.Music,1
+FALSE,16030056,2010,Chapin H,PLoS ONE,3,Main Effect of Musical Experience: Experienced > Inexperienced,Cognition.Music,3
+FALSE,16030056,2010,Chapin H,PLoS ONE,4,Main Effect of Musical Experience: Inexperienced > Experienced,Cognition.Music,1
+TRUE,16030056,2010,Chapin H,PLoS ONE,5,Positive Correlation: Tempo and Expressive Performance Activation,Cognition.Music,13
+FALSE,16030056,2010,Chapin H,PLoS ONE,6,Positive Correlation: Emotional Arousal Ratings and Expressive Performance Activation,"Cognition.Music,Cognition.Attention",2
+FALSE,16030056,2010,Chapin H,PLoS ONE,7,"Positive Correlation: Emotional Arousal and Expressive Performance, Experienced > Inexperienced","Cognition.Music,Cognition.Attention",9

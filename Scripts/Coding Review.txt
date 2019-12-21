@@ -1,0 +1,14 @@
+Coding Review
+Our data is the workspaces. 
+	1. Need to create keycodes from them in order to create the bipartite graphs (BMapID + Exp #)
+	2. Then from using the keycodes we find the strength of the connections between regions
+	3. Find intersection between each pair of regions
+	4. Create adjacency matrix that contains the number of studies connected. Number determines connection strength
+	5. Normalize the matrix by dividing it by its diagnol in the matrix
+	6. Reduce the density of the weighted graph, by setting an upperlimit threshold hold (etc. accepting only the top 20%), then binarize the graph
+	7. Convert it into a Network X graph using graph theory tools	
+	8. Run algorithums 
+Sort keycodes into a Behavioral Domain (From blessed Blumenfeld)
+	1. Run the same procdure essentially
+
+						

@@ -1,0 +1,167 @@
+FALSE,30032,2000,Iidaka T,Journal of Cognitive Neuroscience,1,LV1,"Cognition.Attention,Cognition.Memory.Explicit",17
+FALSE,30032,2000,Iidaka T,Journal of Cognitive Neuroscience,2,LV2,"Cognition.Attention,Cognition.Memory.Explicit",20
+TRUE,30032,2000,Iidaka T,Journal of Cognitive Neuroscience,3,LV3,"Cognition.Attention,Cognition.Memory.Explicit",22
+FALSE,30126,1994,Decety J,Nature,1,Movement Observation - Visual Inspection,Action.Observation,32
+FALSE,30126,1994,Decety J,Nature,2,Movement Observation - Motor Imagery,Action.Observation,32
+FALSE,30126,1994,Decety J,Nature,3,Motor Imagery - Visual Inspection,Action.Imagination,34
+TRUE,30126,1994,Decety J,Nature,4,Motor Imagery - Movement Observation,Action.Imagination,52
+FALSE,30189,2002,Xu B,NeuroImage,1,Rhyming Only Subjects: Real Word Rhyming - Control,Cognition.Language.Phonology,7
+FALSE,30189,2002,Xu B,NeuroImage,2,Rhyming Only Subjects: Pseudoword Rhyming - Control,Cognition.Language.Phonology,7
+FALSE,30189,2002,Xu B,NeuroImage,3,Category Only Subjects: Categorization - Control,Cognition.Language.Semantics,5
+TRUE,30189,2002,Xu B,NeuroImage,4,Mixed Subjects: Real Word Rhyming - Control,Cognition.Language.Phonology,6
+FALSE,30189,2002,Xu B,NeuroImage,5,Mixed Subjects: Pseudoword Rhyming - Control,Cognition.Language.Phonology,4
+FALSE,30189,2002,Xu B,NeuroImage,6,Mixed Subjects: Categorization - Control,Cognition.Language.Semantics,7
+FALSE,30364,2003,Vanlancker-Sidtis D,Brain and Language,1,"Naming + Vocalization > Counting + Rest, Normals","Cognition.Language.Speech,Cognition.Language.Semantics",13
+TRUE,30364,2003,Vanlancker-Sidtis D,Brain and Language,2,"Naming > Vocalization + Counting + Rest, Normals","Cognition.Language.Speech,Cognition.Language.Semantics",17
+FALSE,30364,2003,Vanlancker-Sidtis D,Brain and Language,3,"Counting > Vocalization + Naming + Rest, Normals",Cognition.Other,13
+FALSE,30364,2003,Vanlancker-Sidtis D,Brain and Language,4,"Naming + Vocalization > Counting + Rest, Patients","Cognition.Language.Speech,Cognition.Language.Semantics",7
+FALSE,30364,2003,Vanlancker-Sidtis D,Brain and Language,5,"Naming > Vocalization + Counting + Rest, Patients","Cognition.Language.Speech,Cognition.Language.Semantics",4
+TRUE,30404,1993,Pardo J V,American Journal of Psychiatry,1,Self-Induced Dysphoria - Control,"Cognition.Memory.Explicit,Emotion.Sadness",13
+FALSE,5080200,1998,Kosslyn S M,Psychophysiology,1,Cubes vs. Cubes Baseline,"Cognition.Space,Perception.Vision.Shape",8
+TRUE,5080200,1998,Kosslyn S M,Psychophysiology,2,Hands vs. Hands Baseline,"Cognition.Space,Perception.Vision.Shape,Cognition.Soma",9
+FALSE,5080200,1998,Kosslyn S M,Psychophysiology,3,Hands - Hands Baseline vs. Cubes - Cubes Baseline,"Perception.Vision.Shape,Cognition.Space,Cognition.Soma",4
+FALSE,6080138,2005,Napadow V,Human Brain Mapping,1,"Manual, Increases",Perception.Somesthesis,14
+FALSE,6080138,2005,Napadow V,Human Brain Mapping,2,"Manual, Decreases",Perception.Somesthesis,11
+FALSE,6080138,2005,Napadow V,Human Brain Mapping,3,"Sensory Control, Increases",Perception.Somesthesis,4
+TRUE,6080138,2005,Napadow V,Human Brain Mapping,4,"2-Hz Electroacupuncture, Increases",Perception.Somesthesis,22
+FALSE,6080138,2005,Napadow V,Human Brain Mapping,5,"2-Hz Electroacupuncture, Decreases",Perception.Somesthesis,9
+FALSE,6080138,2005,Napadow V,Human Brain Mapping,6,"100-Hz Electroacupuncture, Increases",Perception.Somesthesis,14
+FALSE,6080138,2005,Napadow V,Human Brain Mapping,7,"100-Hz Electroacupuncture, Decreases",Perception.Somesthesis,13
+FALSE,7020032,2006,Hirshorn E A,Neuropsychologia,1,Switching - Free Generation,"Cognition.Language.Semantics,Cognition.Language.Speech",15
+FALSE,7020032,2006,Hirshorn E A,Neuropsychologia,2,Switching - Cluster,"Cognition.Language.Semantics,Cognition.Language.Speech",21
+TRUE,7020032,2006,Hirshorn E A,Neuropsychologia,3,Free Generation - Switching,"Cognition.Language.Semantics,Cognition.Language.Speech",16
+FALSE,7020032,2006,Hirshorn E A,Neuropsychologia,4,Cluster - Switching,"Cognition.Language.Semantics,Cognition.Language.Speech",25
+FALSE,7060148,2007,Lagopoulos J,Journal of Psychiatry and Neuroscience,1,"Encoding, Healthy Controls",Cognition.Memory.Working,7
+FALSE,7060148,2007,Lagopoulos J,Journal of Psychiatry and Neuroscience,2,"Encoding, BD Patients",Cognition.Memory.Working,5
+FALSE,7060148,2007,Lagopoulos J,Journal of Psychiatry and Neuroscience,3,"Delay, Healthy Controls",Cognition.Memory.Working,17
+FALSE,7060148,2007,Lagopoulos J,Journal of Psychiatry and Neuroscience,4,"Delay, BD Patients",Cognition.Memory.Working,7
+TRUE,7060148,2007,Lagopoulos J,Journal of Psychiatry and Neuroscience,5,"Response, Healthy Controls","Cognition.Memory.Working,Action.Execution",11
+FALSE,7060148,2007,Lagopoulos J,Journal of Psychiatry and Neuroscience,6,"Response, BD Patients","Cognition.Memory.Working,Action.Execution",7
+FALSE,7060148,2007,Lagopoulos J,Journal of Psychiatry and Neuroscience,7,"Encode, Healthy Controls > BD Patients",Cognition.Memory.Working,1
+FALSE,7060148,2007,Lagopoulos J,Journal of Psychiatry and Neuroscience,8,"Delay, Healthy Controls > BD Patients",Cognition.Memory.Working,4
+FALSE,7060148,2007,Lagopoulos J,Journal of Psychiatry and Neuroscience,9,"Response, Healthy Controls > BD Patients",Cognition.Memory.Working,2
+FALSE,7060148,2007,Lagopoulos J,Journal of Psychiatry and Neuroscience,10,"Delay, BD Patients > Healthy Controls",Cognition.Memory.Working,1
+TRUE,7110331,2003,Ramnani N,Cerebral Cortex,1,Regions Activated in All Four Conditions,"Action.Preparation,Emotion.Other,Cognition.Other",15
+FALSE,7110331,2003,Ramnani N,Cerebral Cortex,2,Main Effects of Motor Preparation,"Action.Preparation,Cognition.Other,Emotion.Other",10
+FALSE,7110331,2003,Ramnani N,Cerebral Cortex,3,Main Effect of Reward Expectation,"Emotion.Other,Cognition.Other",21
+FALSE,7110331,2003,Ramnani N,Cerebral Cortex,4,Interaction of Reward and Preparation Levels,"Emotion.Other,Action.Preparation,Cognition.Other",6
+TRUE,8010013,2007,Ortigue S,NeuroImage,1,All Primes > Rest,"Cognition.Other,Emotion.Other",30
+TRUE,8010013,2007,Ortigue S,NeuroImage,2,Beloved's Name - Acquaintance's Name,"Cognition.Other,Emotion.Other",17
+FALSE,8010013,2007,Ortigue S,NeuroImage,3,Beloved's Name - Acquaintance's Name Correlated with Orgasm Composite,"Interoception.Sexuality,Cognition.Other,Emotion.Other",1
+TRUE,8010013,2007,Ortigue S,NeuroImage,4,Beloved's Name - Acquaintance's Name Correlated with Orgasm Ease,"Interoception.Sexuality,Emotion.Other,Cognition.Other",2
+TRUE,8010013,2007,Ortigue S,NeuroImage,5,Beloved's Name - Acquaintance's Name Correlated with Orgasm Satisfaction,"Interoception.Sexuality,Cognition.Other,Emotion.Other",4
+FALSE,8010013,2007,Ortigue S,NeuroImage,6,Beloved's Name - Acquaintance's Name Correlated with Orgasm Frequency,"Interoception.Sexuality,Cognition.Other,Emotion.Other",1
+TRUE,8010013,2007,Ortigue S,NeuroImage,7,Beloved's Name - Acquaintance's Name Correlated with PLS,"Interoception.Sexuality,Emotion.Other,Cognition.Other",4
+TRUE,8010013,2007,Ortigue S,NeuroImage,8,Beloved's Name - Acquaintance's Name Correlated with Emotional Closeness Satisfaction,"Interoception.Sexuality,Cognition.Other,Emotion.Other",1
+FALSE,8060149,2003,Martin-Soelch C,European Journal of Neuroscience,1,"Activity Positively Correlated with Monetary Amount, All Subjects","Emotion.Other,Cognition.Other",32
+FALSE,8060149,2003,Martin-Soelch C,European Journal of Neuroscience,2,"Activity Positively Correlated with Mood Scores, All Subjects","Emotion.Other,Cognition.Other",6
+FALSE,8060149,2003,Martin-Soelch C,European Journal of Neuroscience,3,"Activity Positively Correlated with Monetary Amount, Smokers","Emotion.Other,Cognition.Other,Pharmacology.Nicotine",17
+TRUE,8060149,2003,Martin-Soelch C,European Journal of Neuroscience,4,"Activity Positively Correlated with Monetary Amount, Nonsmokers","Emotion.Other,Cognition.Other",27
+FALSE,8060149,2003,Martin-Soelch C,European Journal of Neuroscience,5,"Activity Positively Correlated with Mood Scores, Smokers","Emotion.Other,Cognition.Other",21
+FALSE,8060149,2003,Martin-Soelch C,European Journal of Neuroscience,6,"Activity Positively Correlated with Mood Scores, Nonsmokers","Emotion.Other,Cognition.Other",5
+FALSE,8080199,2006,Grimm S,NeuroImage,1,unPV > unPJ,Perception.Vision,12
+FALSE,8080199,2006,Grimm S,NeuroImage,2,unPJ > unPV,Emotion.Other,9
+FALSE,8080199,2006,Grimm S,NeuroImage,3,exPV > exPJ,Perception.Vision,11
+FALSE,8080199,2006,Grimm S,NeuroImage,4,exPJ > exPV,Emotion.Other,6
+FALSE,8080199,2006,Grimm S,NeuroImage,5,Conjunction Analysis (unPV > unPJ) vs. (exPV > exPJ),Perception.Vision,6
+FALSE,8080199,2006,Grimm S,NeuroImage,6,Exclusive Masking Analysis (unPV > unPJ) vs. (exPV > exPJ),Perception.Vision,12
+FALSE,8080199,2006,Grimm S,NeuroImage,7,Correlation Between Regional fMRI Signal Changes and Post Scanning Ratings of Valence: unPV > unPJ,"Perception.Vision,Emotion.Other",1
+FALSE,8080199,2006,Grimm S,NeuroImage,8,Correlation Between Regional fMRI Signal Changes and Post Scanning Ratings of Valence: exPV > exPJ,Perception.Vision,1
+FALSE,8080199,2006,Grimm S,NeuroImage,9,Correlation Between Regional fMRI Signal Changes and Post Scanning Ratings of Valence: unPJ > unPV,Emotion.Other,2
+FALSE,8080199,2006,Grimm S,NeuroImage,10,Correlation Between Regional fMRI Signal Changes and Post Scanning Ratings of Intensity: unPJ > unPV,Emotion.Other,1
+FALSE,8080199,2006,Grimm S,NeuroImage,11,Correlation Between Regional fMRI Signal Changes and Post Scanning Ratings of Intensity: exPJ > exPV,Emotion.Other,1
+FALSE,8080199,2006,Grimm S,NeuroImage,12,Correlation Between Regional fMRI Signal Changes and Post Scanning Ratings of Recog: unPV > unPJ,Perception.Vision,2
+FALSE,8080199,2006,Grimm S,NeuroImage,13,Correlation Between Regional fMRI Signal Changes and Post Scanning Ratings of Recog: exPV > exPJ,Perception.Vision,2
+FALSE,8080199,2006,Grimm S,NeuroImage,14,Correlation Between Regional fMRI Signal Changes and Post Scanning Ratings of Recog: exPJ > exPV,Emotion.Other,2
+FALSE,8080199,2006,Grimm S,NeuroImage,15,Positive Valenced Pictures Showing Positive Correlation in unPV > exPV,Perception.Vision,1
+TRUE,8080199,2006,Grimm S,NeuroImage,16,Positive Valenced Pictures showing Positive Correlation in exPV,Perception.Vision,1
+FALSE,8080199,2006,Grimm S,NeuroImage,17,Negative Valenced Pictures Showing Positive Correlation in unPV,Perception.Vision,1
+FALSE,8080199,2006,Grimm S,NeuroImage,18,Positive Valenced Pictures Showing Negative Correlation in unPJ,Emotion.Other,1
+FALSE,8080199,2006,Grimm S,NeuroImage,19,Negative Valenced Pictures Showing Negative Correlation in unPJ,Emotion.Other,1
+TRUE,9010011,2008,Lissek S,PLoS ONE,1,Deception > Cooperation,"Emotion.Other,Cognition.Social Cognition",19
+FALSE,9010011,2008,Lissek S,PLoS ONE,2,Deception > Cooperation/Deception,"Emotion.Other,Cognition.Social Cognition",13
+FALSE,9010011,2008,Lissek S,PLoS ONE,3,Cooperation/Deception > Deception,"Emotion.Other,Cognition.Social Cognition",16
+FALSE,9010011,2008,Lissek S,PLoS ONE,4,Cooperation/Deception > Cooperation,"Emotion.Other,Cognition.Social Cognition",15
+FALSE,9010011,2008,Lissek S,PLoS ONE,5,Cooperation > Deception,Cognition.Social Cognition,12
+TRUE,9010011,2008,Lissek S,PLoS ONE,6,Cooperation > Cooperation/Deception,Cognition.Social Cognition,8
+TRUE,9010025,2006,Moulier V,NeuroImage,1,BOLD Signal Correlated Positively with Plethysmographic Signal (Lag=0),Interoception.Sexuality,31
+FALSE,9010025,2006,Moulier V,NeuroImage,2,"BOLD Signal Correlated Positively with Plethysmographic Signal, (Lag=-20)",Interoception.Sexuality,21
+FALSE,9010025,2006,Moulier V,NeuroImage,3,BOLD Signal Correlated Negatively with Plethysmographic Signal (Lag=0),Interoception.Sexuality,21
+FALSE,9010025,2006,Moulier V,NeuroImage,4,"(Women, Swimsuit - Women, Clothed) - (Children, Swimsuit - Children, Clothed)",Interoception.Sexuality,24
+FALSE,9010025,2006,Moulier V,NeuroImage,5,"(Women, Clothed - Women, Swimsuit) - (Children, Clothed - Children, Swimsuit)",Interoception.Sexuality,3
+FALSE,9010025,2006,Moulier V,NeuroImage,6,"BOLD Signal Correlated Positively with Plethysmographic Signal, (Lag=+10)",Interoception.Sexuality,3
+FALSE,9090093,2009,Bickel W K,Journal of Neuroscience,1,Hypothetical Money Gains + Hypothetical Money Losses > Real Money Gains,"Emotion.Other,Cognition.Other",5
+TRUE,9090093,2009,Bickel W K,Journal of Neuroscience,2,Real Money Gains - Random Effects,"Cognition.Other,Emotion.Other",21
+FALSE,9090093,2009,Bickel W K,Journal of Neuroscience,3,Hypothetical Money Gains - Random Effects,"Emotion.Other,Cognition.Other",20
+FALSE,9090093,2009,Bickel W K,Journal of Neuroscience,4,Hypothetical Money Losses - Random Effects,"Cognition.Other,Emotion.Other",23
+FALSE,9090093,2009,Bickel W K,Journal of Neuroscience,5,Real Money Gains > Hypothetical Money Gains,"Cognition.Other,Emotion.Other",1
+FALSE,9090093,2009,Bickel W K,Journal of Neuroscience,6,Real Money Gains > Hypothetical Money Losses,"Emotion.Other,Cognition.Other",1
+FALSE,9090093,2009,Bickel W K,Journal of Neuroscience,7,Hypothetical Money Gains > Real Money Gains,"Cognition.Other,Emotion.Other",3
+FALSE,9090093,2009,Bickel W K,Journal of Neuroscience,8,Hypothetical Money Losses > Hypothetical Money Gains,"Cognition.Other,Emotion.Other",3
+FALSE,9090093,2009,Bickel W K,Journal of Neuroscience,9,Hypothetical Money Losses > Real Money Gains,"Cognition.Other,Emotion.Other",6
+FALSE,9090115,2006,Harenski C L,NeuroImage,1,"Watch, Moral > Number Discrimination","Emotion.Other,Cognition.Social Cognition",7
+FALSE,9090115,2006,Harenski C L,NeuroImage,2,"Watch, Non-moral > Number Discrimination",Emotion.Other,5
+FALSE,9090115,2006,Harenski C L,NeuroImage,3,"Watch, Moral > Watch, Non-moral","Emotion.Other,Cognition.Social Cognition",2
+FALSE,9090115,2006,Harenski C L,NeuroImage,4,"Watch, Non-moral > Watch, Moral",Emotion.Other,1
+TRUE,9090115,2006,Harenski C L,NeuroImage,5,"Decrease, Moral > Number Discrimination","Action.Inhibition,Emotion.Other,Cognition.Social Cognition",12
+FALSE,9090115,2006,Harenski C L,NeuroImage,6,"Decrease, Non-moral > Number Discrimination","Action.Inhibition,Emotion.Other",10
+FALSE,9090115,2006,Harenski C L,NeuroImage,7,"Decrease, Moral > Watch, Moral","Action.Inhibition,Cognition.Social Cognition,Emotion.Other",7
+FALSE,9090115,2006,Harenski C L,NeuroImage,8,"Decrease, Moral > Decrease, Non-moral","Action.Inhibition,Emotion.Other,Cognition.Social Cognition",13
+FALSE,9090115,2006,Harenski C L,NeuroImage,9,"Decrease, Non-moral > Decrease, Moral","Action.Inhibition,Emotion.Other",1
+FALSE,9090123,2009,Janata P,Cerebral Cortex,1,Summary of Significant Activations Associated with the MusPlay Regressor,"Cognition.Music,Emotion.Other,Cognition.Memory.Explicit",10
+FALSE,9090123,2009,Janata P,Cerebral Cortex,2,Summary of Loci at which BOLD Signal Correlated Positively with Familiarity,"Cognition.Music,Emotion.Other,Cognition.Memory.Explicit",28
+FALSE,9090123,2009,Janata P,Cerebral Cortex,3,Loci in which Activity was Positively Correlated with the Degree of Autobiographical Salience,"Cognition.Music,Emotion.Other,Cognition.Memory.Explicit",9
+FALSE,9090123,2009,Janata P,Cerebral Cortex,4,Loci at which Changes in BOLD Signal were Pos. Correlated w/ the Degree of Postive Affect,"Cognition.Music,Emotion.Other,Cognition.Memory.Explicit",6
+TRUE,9090123,2009,Janata P,Cerebral Cortex,5,Summary of Tonality Tracking Activation Clusters,"Cognition.Music,Emotion.Other,Cognition.Memory.Explicit",18
+FALSE,10030018,2008,Bokde A L W,Psychiatry Research,1,"Face Matching vs. Attention, Healthy Controls",Perception.Vision.Shape,10
+FALSE,10030018,2008,Bokde A L W,Psychiatry Research,2,"Location Matching vs. Attention, Healthy Controls","Perception.Vision,Cognition.Space",10
+FALSE,10030018,2008,Bokde A L W,Psychiatry Research,3,"Face Matching vs. Attention, MCI Patients",Perception.Vision.Shape,10
+FALSE,10030018,2008,Bokde A L W,Psychiatry Research,4,"Location Matching vs. Attention, MCI Patients","Cognition.Space,Perception.Vision",13
+TRUE,10030018,2008,Bokde A L W,Psychiatry Research,5,"Face Matching vs. Location Matching, Healthy Controls",Perception.Vision.Shape,30
+FALSE,10030018,2008,Bokde A L W,Psychiatry Research,6,"Location Matching vs. Face Matching, Healthy Controls","Perception.Vision,Cognition.Space",6
+FALSE,10030018,2008,Bokde A L W,Psychiatry Research,7,"MCI Patients > Healthy Controls, Location Matching","Perception.Vision,Cognition.Space",16
+FALSE,11080084,2010,Peters J,Neuron,1,Activity for Presentation of Delayed Reward: Episodic > Control,"Cognition.Other,Emotion.Other,Cognition.Memory.Explicit",13
+FALSE,11080084,2010,Peters J,Neuron,2,Correlation between Subjective Value and BOLD Responses in Control and Episodic Conditions,"Cognition.Other,Emotion.Other,Cognition.Memory.Explicit",15
+TRUE,11080084,2010,Peters J,Neuron,3,Correlation between Subjective Value and BOLD Responses: Episodic > Control,"Cognition.Other,Emotion.Other,Cognition.Memory.Explicit",56
+FALSE,11080084,2010,Peters J,Neuron,4,Correlation b/t Sub. Value and BOLD Responses in both Episodic and Control and Episodic > Control,"Cognition.Other,Emotion.Other,Cognition.Memory.Explicit",1
+FALSE,11080084,2010,Peters J,Neuron,5,Positive Correlation between Neural Tag-Effect and Behavioral Tag-Effect,"Cognition.Other,Emotion.Other,Cognition.Memory.Explicit",6
+FALSE,11080084,2010,Peters J,Neuron,6,Negative Correlation between the Neural Tag-Effect and the Behavioral Tag-Effect,"Cognition.Other,Emotion.Other,Cognition.Memory.Explicit",2
+FALSE,12070052,2007,Grahn J A,Journal of Cognitive Neuroscience,1,All Rhythms - Rest,"Perception.Audition,Cognition.Music",12
+TRUE,12070052,2007,Grahn J A,Journal of Cognitive Neuroscience,2,Metric Simple - Metric Complex and Nonmetric,"Perception.Audition,Cognition.Music",14
+FALSE,13080066,2007,Harvey P O,Journal of Cognitive Neuroscience,1,Social Hits > Social Misses,"Cognition.Attention,Cognition.Social Cognition,Cognition.Memory",7
+FALSE,13080066,2007,Harvey P O,Journal of Cognitive Neuroscience,2,Non-Social Hits > Non-Social Misses,"Cognition.Attention,Cognition.Memory",5
+FALSE,13080066,2007,Harvey P O,Journal of Cognitive Neuroscience,3,Emotional Hits > Emotional Misses,"Cognition.Attention,Emotion.Other,Cognition.Memory",5
+TRUE,13080066,2007,Harvey P O,Journal of Cognitive Neuroscience,4,Neutral Hits > Neutral Misses,"Cognition.Attention,Cognition.Memory",4
+TRUE,14050059,2012,Bzdok D,Cerebral Cortex,1,(TR--AG) and (AT--AG) and (TR--HA) and (AT--HA),,4
+FALSE,14050059,2012,Bzdok D,Cerebral Cortex,2,(TR--AG) and (AT--AG),,14
+FALSE,14050059,2012,Bzdok D,Cerebral Cortex,3,(TR--HA) and (AT--HA),,15
+FALSE,14050059,2012,Bzdok D,Cerebral Cortex,4,(TR--AG) and (AT--AG) and (HA--AG),,1
+FALSE,14050059,2012,Bzdok D,Cerebral Cortex,5,(TR--HA) and (AT--HA) and (AG--HA),,8
+FALSE,14050059,2012,Bzdok D,Cerebral Cortex,6,AT--TR,,4
+FALSE,14050059,2012,Bzdok D,Cerebral Cortex,7,TR--AT,,3
+FALSE,14050059,2012,Bzdok D,Cerebral Cortex,8,TR and AT and HA and AG,,19
+FALSE,14050059,2012,Bzdok D,Cerebral Cortex,9,Male AT- female AT,,3
+FALSE,14050061,2012,Gutchess A H,NeuroImage,1,False Alarms: Positive Modulations (Lrg>Med>Small),Cognition.Memory.Explicit,4
+FALSE,14050061,2012,Gutchess A H,NeuroImage,2,False Alarms: Negative Modulations (Small>Med>Lrg),Cognition.Memory.Explicit,3
+FALSE,14050061,2012,Gutchess A H,NeuroImage,3,Hits: Positive Modulations (Lrg>Med>Small),Cognition.Memory.Explicit,4
+FALSE,14050061,2012,Gutchess A H,NeuroImage,4,Hits: Negative Modulations (Small>Med>Lrg),Cognition.Memory.Explicit,12
+FALSE,14050061,2012,Gutchess A H,NeuroImage,5,False alarms > hits,Cognition.Memory.Explicit,12
+TRUE,14050061,2012,Gutchess A H,NeuroImage,6,Hits > false alarms,Cognition.Memory.Explicit,10
+FALSE,14050061,2012,Gutchess A H,NeuroImage,7,Hits-Novel and False alarms-Novel,Cognition.Memory.Explicit,64
+FALSE,14050061,2012,Gutchess A H,NeuroImage,8,All Hits - All False Alarms,Cognition.Memory.Explicit,12
+FALSE,14050061,2012,Gutchess A H,NeuroImage,9,All False Alarms - All Hits,Cognition.Memory.Explicit,9
+FALSE,15060055,2011,Alluri V,NeuroImage,1,"Fullness, Positive correlation",,34
+FALSE,15060055,2011,Alluri V,NeuroImage,2,"Fullness, Negative correlation",,15
+FALSE,15060055,2011,Alluri V,NeuroImage,3,"Brightness, Positive correlation",,32
+FALSE,15060055,2011,Alluri V,NeuroImage,4,"Brightness, Negative correlation",,5
+FALSE,15060055,2011,Alluri V,NeuroImage,5,"Activity, Positive correlation",,33
+TRUE,15060055,2011,Alluri V,NeuroImage,6,"Activity, Negative correlation",,15
+FALSE,15060055,2011,Alluri V,NeuroImage,7,"Timbral Complexity, Positive correlation",,16
+FALSE,15060055,2011,Alluri V,NeuroImage,8,"Key Clarity, Negative correlation",,32
+FALSE,15060055,2011,Alluri V,NeuroImage,9,"Pulse Clarity, Negative correlation",,22
+TRUE,16030078,2006,de Zubicaray G I,Human Brain Mapping,1,Primed > Unprimed,,3
+FALSE,16040086,2006,Foerde K,Proceedings of the National Academy of Sciences,1,"ST correct > DT correct, Probe trials",Cognition.Memory.Working,18
+TRUE,16040086,2006,Foerde K,Proceedings of the National Academy of Sciences,2,"ST > DT, Training trials","Cognition.Memory.Working,Perception.Audition",6
+FALSE,16040086,2006,Foerde K,Proceedings of the National Academy of Sciences,3,"DT > ST, Training trials","Cognition.Memory.Working,Perception.Audition",36
+FALSE,16040086,2006,Foerde K,Proceedings of the National Academy of Sciences,4,"Bold activity vs. Accuracy, Probe task",Cognition.Memory.Working,2
+FALSE,16040086,2006,Foerde K,Proceedings of the National Academy of Sciences,5,"Bold activity vs. Declarative knowledge, Probe task",Cognition.Memory.Working,2

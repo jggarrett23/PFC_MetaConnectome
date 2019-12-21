@@ -1,0 +1,48 @@
+FALSE,30126,1994,Decety J,Nature,1,Movement Observation - Visual Inspection,Action.Observation,32
+FALSE,30126,1994,Decety J,Nature,2,Movement Observation - Motor Imagery,Action.Observation,32
+FALSE,30126,1994,Decety J,Nature,3,Motor Imagery - Visual Inspection,Action.Imagination,34
+TRUE,30126,1994,Decety J,Nature,4,Motor Imagery - Movement Observation,Action.Imagination,52
+FALSE,30164,1999,Poldrack R A,NeuroImage,1,Semantic > Case,Cognition.Language.Semantics,19
+FALSE,30164,1999,Poldrack R A,NeuroImage,2,Case > Semantic,Cognition.Language.Orthography,3
+FALSE,30164,1999,Poldrack R A,NeuroImage,3,Phonological > Case,Cognition.Language.Phonology,7
+TRUE,30164,1999,Poldrack R A,NeuroImage,4,Case > Phonological,Cognition.Language.Orthography,6
+FALSE,30164,1999,Poldrack R A,NeuroImage,5,Semantic > Phonological,Cognition.Language.Semantics,6
+TRUE,30164,1999,Poldrack R A,NeuroImage,6,Phonological > Semantic,Cognition.Language.Phonology,12
+FALSE,30164,1999,Poldrack R A,NeuroImage,7,Pseudoword Phonological > Case,Cognition.Language.Phonology,14
+FALSE,30164,1999,Poldrack R A,NeuroImage,8,Case > Pseudoword Phonological,Cognition.Language.Orthography,8
+FALSE,30164,1999,Poldrack R A,NeuroImage,9,Semantic > Phonological (Double Subtraction),Cognition.Language.Semantics,16
+FALSE,30164,1999,Poldrack R A,NeuroImage,10,Phonological > Semantic (Double Subtraction),Cognition.Language.Phonology,3
+FALSE,30164,1999,Poldrack R A,NeuroImage,11,Semantic > Pseudoword Phonological (Double Subtraction),Cognition.Language.Semantics,18
+FALSE,30164,1999,Poldrack R A,NeuroImage,12,Pseudoword Phonological > Semantic (Double Subtraction),Cognition.Language.Phonology,10
+FALSE,30263,2000,Mencl W E,Microscopy Research and Technique,1,Brain/Behavior PLS,Cognition.Memory.Explicit,14
+TRUE,30263,2000,Mencl W E,Microscopy Research and Technique,2,Brain/Age PLS,Cognition.Memory.Explicit,15
+FALSE,30322,2002,Karama S,Human Brain Mapping,1,Erotic - Neutral Film (Males),Interoception.Sexuality,18
+TRUE,30322,2002,Karama S,Human Brain Mapping,2,Erotic - Neutral Film (Females),Interoception.Sexuality,14
+TRUE,30338,2002,Wright C I,Neuroreport,1,Emotional vs. Neutral,Emotion.Other,6
+TRUE,30425,1998,Casey B J,NeuroImage,1,"Memory - Motor, Pooled Data",Cognition.Memory.Working,11
+FALSE,30425,1998,Casey B J,NeuroImage,2,"Motor - Rest, Pooled Data",Action.Execution,11
+FALSE,30425,1998,Casey B J,NeuroImage,3,"Visual - Rest, Pooled Data",Perception.Vision,5
+FALSE,30425,1998,Casey B J,NeuroImage,4,"Memory - Motor, Boston Site",Cognition.Memory.Working,13
+FALSE,30425,1998,Casey B J,NeuroImage,5,"Memory - Motor, Madison Site",Cognition.Memory.Working,6
+FALSE,30425,1998,Casey B J,NeuroImage,6,"Memory - Motor, Minnesota Site",Cognition.Memory.Working,22
+FALSE,30425,1998,Casey B J,NeuroImage,7,"Memory - Motor, Pittsburgh Site",Cognition.Memory.Working,21
+FALSE,30425,1998,Casey B J,NeuroImage,8,"Motor - Visual, Boston Site",Action.Execution,11
+FALSE,30425,1998,Casey B J,NeuroImage,9,"Motor - Visual, Madison Site",Action.Execution,7
+FALSE,30425,1998,Casey B J,NeuroImage,10,"Motor - Visual, Minnesota Site",Action.Execution,12
+FALSE,30425,1998,Casey B J,NeuroImage,11,"Motor - Visual, Pittsburgh Site",Action.Execution,29
+FALSE,30425,1998,Casey B J,NeuroImage,12,"Visual - Rest, Boston Site",Perception.Vision,3
+FALSE,30425,1998,Casey B J,NeuroImage,13,"Visual - Rest, Pittsburgh Site",Perception.Vision,7
+FALSE,5070137,1998,Goldberg T E,NeuroImage,1,"WCST - CON, Activations","Cognition.Reasoning,Cognition.Attention",17
+FALSE,5070137,1998,Goldberg T E,NeuroImage,2,"WCST - CON, Deactivations","Cognition.Reasoning,Cognition.Attention",8
+FALSE,5070137,1998,Goldberg T E,NeuroImage,3,"WCSTSHAD - CONSHAD, Activations","Cognition.Reasoning,Cognition.Attention",7
+FALSE,5070137,1998,Goldberg T E,NeuroImage,4,"WCSTSHAD - CONSHAD, Deactivations","Cognition.Reasoning,Cognition.Attention",6
+TRUE,5070137,1998,Goldberg T E,NeuroImage,5,(WCSTSHAD - CONSHAD) > (WCST - CON),"Cognition.Attention,Cognition.Reasoning",3
+FALSE,5070137,1998,Goldberg T E,NeuroImage,6,(WCSTSHAD - CONSHAD) < (WCST - CON),"Cognition.Attention,Cognition.Reasoning",2
+FALSE,5120253,2004,Ischebeck A,Journal of Cognitive Neuroscience,1,"Unfamiliar > Familiar, Silent Reading",Cognition.Language,5
+FALSE,5120253,2004,Ischebeck A,Journal of Cognitive Neuroscience,2,"Pseudoword > Familiar, Silent Reading",Cognition.Language,5
+FALSE,5120253,2004,Ischebeck A,Journal of Cognitive Neuroscience,3,"Familiar > Pseudoword, Silent Reading",Cognition.Language,5
+TRUE,5120253,2004,Ischebeck A,Journal of Cognitive Neuroscience,4,"Unfamiliar > Familiar, Lexical Decision","Cognition.Language.Syntax,Cognition.Language.Semantics",4
+FALSE,5120253,2004,Ischebeck A,Journal of Cognitive Neuroscience,5,"Pseudoword > Familiar, Lexical Decision","Cognition.Language.Semantics,Cognition.Language.Syntax",4
+FALSE,5120253,2004,Ischebeck A,Journal of Cognitive Neuroscience,6,"Familiar > Pseudoword, Lexical Decision","Cognition.Language.Semantics,Cognition.Language.Syntax",5
+TRUE,5120253,2004,Ischebeck A,Journal of Cognitive Neuroscience,7,"Unfamiliar > Pseudoword, Silent Reading",Cognition.Language,9
+TRUE,5120253,2004,Ischebeck A,Journal of Cognitive Neuroscience,8,"Unfamiliar > Pseudoword, Lexical Decision","Cognition.Language.Semantics,Cognition.Language.Syntax",6
